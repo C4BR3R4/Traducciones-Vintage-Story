@@ -1,0 +1,27 @@
+{
+    "_comentarios": "Traducido por C4BR3R4 || Versión del Mod: 1.8.1 || Fecha de la última modificación: 20241108",
+    "WorkableTemperature": "Temperatura de Trabajo: {0}°C",
+    "AlwaysWorkable": "Temperatura de Trabajo: Constante",
+    "RemainingResistance": "Resistencia Restante: {0}",
+    "Current": "Actual",
+    "Damage": "Daño: {0}",
+    "One": "Uno",
+    "Fuel": "Combustible",
+    "Food": "Comida",
+    "PanningDrops": "Botín de Bateo",
+    "AvailableFood": "Alimentos Disponibles",
+    "bomb-BlastRadius": "Radio de Explosión: {0}",
+    "bomb-InjureRadius": "Radio de Daño: {0}",
+    "bomb-BlastType": "Tipo de Destrucción: {0}",
+    "bomb-FuseTime": "Tiempo de Detonación: {0}",
+    "HighlightMycelium": "'Resaltado del Micelio'",
+    "HighlightReinforcedBlocks": "'Resaltado de Bloques Reforzados'",
+    "Toggle": "Alternar {0}",
+    "Toggle.True": "{0} <font weight='bold' color='#84ff84'>{1}</font>",
+    "Toggle.False": "{0} <font weight='bold' color='#ff8484'>{1}</font>",
+    "Color.Cyan": "<font color='#00FFF0'>{0}</font>"
+    // "mechanics-Speed": "Velocidad: {0:G4}",
+    // "mechanics-TotalAvailableTorque": "Par de Torsión Disponible: {0:G4}",
+    // "mechanics-NetworkTorque": "Torsión Total: {0:G4}",
+    // "mechanics-NetworkResistance": "Resistencia: {0:G4}"
+}
