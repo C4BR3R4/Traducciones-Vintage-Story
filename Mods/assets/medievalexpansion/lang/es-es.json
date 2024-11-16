@@ -1,0 +1,282 @@
+{
+    "_comentarios": "Traducido por C4BR3R4 || Versión del Mod: 3.13.1 || Fecha de la última modificación: 20241116",
+	"medievalexpansion:block-myshinyblock-gold-good": "Pilar de Oro",
+	"medievalexpansion:block-myshinyblock-gold-used": "Pilar de Oro Envejecido",
+	"medievalexpansion:block-myshinyblock-iron-good": "Pilar de Hierro",
+	"medievalexpansion:block-myshinyblock-iron-used": "Pilar de Hierro Envejecido",
+	"medievalexpansion:block-portcullis3x3-model-closed-north": "Rastrillo de Hierro 3x3",
+	"medievalexpansion:block-portcullis3x4-model-closed-north": "Rastrillo de Hierro 3x4",
+	"medievalexpansion:block-portcullis3x5-model-closed-north": "Rastrillo de Hierro 3x5",
+	"medievalexpansion:block-portcullis4x3-model-closed-north": "Rastrillo de Hierro 4x3",
+	"medievalexpansion:block-portcullis4x4-model-closed-north": "Rastrillo de Hierro 4x4",
+	"medievalexpansion:block-portcullis4x5-model-closed-north": "Rastrillo de Hierro 4x5",
+	"medievalexpansion:block-portcullis5x3-model-closed-north": "Rastrillo de Hierro 5x3",
+	"medievalexpansion:block-portcullis5x4-model-closed-north": "Rastrillo de Hierro 5x4",
+	"medievalexpansion:block-portcullis5x5-model-closed-north": "Rastrillo de Hierro 5x5",
+
+	"medievalexpansion:block-gate3x3-model-oak-closed-north": "Puerta de Roble 3x3",
+	"medievalexpansion:block-gate3x3-model-acacia-closed-north": "Puerta de Acacia 3x3",
+	"medievalexpansion:block-gate3x3-model-aged-closed-north": "Puerta de Madera Envejecida 3x3",
+	"medievalexpansion:block-gate3x3-model-birch-closed-north": "Puerta de Abedul 3x3",
+	"medievalexpansion:block-gate3x3-model-kapok-closed-north": "Puerta de Ceiba 3x3",
+	"medievalexpansion:block-gate3x3-model-maple-closed-north": "Puerta de Arce 3x3",
+	"medievalexpansion:block-gate3x3-model-pine-closed-north": "Puerta de Pino 3x3",
+	"medievalexpansion:block-gate3x3-model-purpleheart-closed-north": "Puerta de Corazón Púrpura 3x3",
+	"medievalexpansion:block-gate3x3-model-walnut-closed-north": "Puerta de Nogal 3x3",
+	"medievalexpansion:block-gate3x3-model-redwood-closed-north": "Puerta de Secuoya 3x3",
+	"medievalexpansion:block-gate3x3-model-larch-closed-north": "Puerta de Lárice 3x3",
+	"medievalexpansion:block-gate3x3-model-ebony-closed-north": "Puerta de Ébano 3x3",
+	"medievalexpansion:block-gate3x3-model-baldcypress-closed-north": "Puerta de Ciprés 3x3",
+
+	"medievalexpansion:block-gate4x4-model-oak-closed-north": "Puerta de Roble 4x4",
+	"medievalexpansion:block-gate4x4-model-acacia-closed-north": "Puerta de Acacia 4x4",
+	"medievalexpansion:block-gate4x4-model-aged-closed-north": "Puerta de Madera Envejecida 4x4",
+	"medievalexpansion:block-gate4x4-model-birch-closed-north": "Puerta de Abedul 4x4",
+	"medievalexpansion:block-gate4x4-model-kapok-closed-north": "Puerta de Ceiba 4x4",
+	"medievalexpansion:block-gate4x4-model-maple-closed-north": "Puerta de Arce 4x4",
+	"medievalexpansion:block-gate4x4-model-pine-closed-north": "Puerta de Pino 4x4",
+	"medievalexpansion:block-gate4x4-model-purpleheart-closed-north": "Puerta de Corazón Púrpura 4x4",
+	"medievalexpansion:block-gate4x4-model-walnut-closed-north": "Puerta de Nogal 4x4",
+	"medievalexpansion:block-gate4x4-model-redwood-closed-north": "Puerta de Secuoya 4x4",
+	"medievalexpansion:block-gate4x4-model-larch-closed-north": "Puerta de Lárice 4x4",
+	"medievalexpansion:block-gate4x4-model-ebony-closed-north": "Puerta de Ébano 4x4",
+	"medievalexpansion:block-gate4x4-model-baldcypress-closed-north": "Puerta de Ciprés 4x4",
+
+	"medievalexpansion:block-gate5x5-model-oak-closed-north": "Puerta de Roble 5x5",
+	"medievalexpansion:block-gate5x5-model-acacia-closed-north": "Puerta de Acacia 5x5",
+	"medievalexpansion:block-gate5x5-model-aged-closed-north": "Puerta de Madera Envejecida 5x5",
+	"medievalexpansion:block-gate5x5-model-birch-closed-north": "Puerta de Abedul 5x5",
+	"medievalexpansion:block-gate5x5-model-kapok-closed-north": "Puerta de Ceiba 5x5",
+	"medievalexpansion:block-gate5x5-model-maple-closed-north": "Puerta de Arce 5x5",
+	"medievalexpansion:block-gate5x5-model-pine-closed-north": "Puerta de Pino 5x5",
+	"medievalexpansion:block-gate5x5-model-purpleheart-closed-north": "Puerta de Corazón Púrpura 5x5",
+	"medievalexpansion:block-gate5x5-model-walnut-closed-north": "Puerta de Nogal 5x5",
+	"medievalexpansion:block-gate5x5-model-redwood-closed-north": "Puerta de Secuoya 5x5",
+	"medievalexpansion:block-gate5x5-model-larch-closed-north": "Puerta de Lárice 5x5",
+	"medievalexpansion:block-gate5x5-model-ebony-closed-north": "Puerta de Ébano 5x5",
+	"medievalexpansion:block-gate5x5-model-baldcypress-closed-north": "Puerta de Ciprés 5x5",
+
+	"medievalexpansion:block-gate8x5-model-oak-closed-north": "Puerta de Roble 8x5",
+	"medievalexpansion:block-gate8x5-model-acacia-closed-north": "Puerta de Acacia 8x5",
+	"medievalexpansion:block-gate8x5-model-aged-closed-north": "Puerta de Madera Envejecida 8x5",
+	"medievalexpansion:block-gate8x5-model-birch-closed-north": "Puerta de Abedul 8x5",
+	"medievalexpansion:block-gate8x5-model-kapok-closed-north": "Puerta de Ceiba 8x5",
+	"medievalexpansion:block-gate8x5-model-maple-closed-north": "Puerta de Arce 8x5",
+	"medievalexpansion:block-gate8x5-model-pine-closed-north": "Puerta de Pino 8x5",
+	"medievalexpansion:block-gate8x5-model-purpleheart-closed-north": "Puerta de Corazón Púrpura 8x5",
+	"medievalexpansion:block-gate8x5-model-walnut-closed-north": "Puerta de Nogal 8x5",
+	"medievalexpansion:block-gate8x5-model-redwood-closed-north": "Puerta de Secuoya 8x5",
+	"medievalexpansion:block-gate8x5-model-larch-closed-north": "Puerta de Lárice 8x5",
+	"medievalexpansion:block-gate8x5-model-ebony-closed-north": "Puerta de Ébano 8x5",
+	"medievalexpansion:block-gate8x5-model-baldcypress-closed-north": "Puerta de Ciprés 8x5",
+
+	"medievalexpansion:block-drawbridge3x4-model-purpleheart-opened-north": "Puente Levadizo de Corazón Púrpura 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-purpleheart-opened-north": "Puente Levadizo de Corazón Púrpura 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-purpleheart-opened-north": "Puente Levadizo de Corazón Púrpura 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-purpleheart-opened-north": "Puente Levadizo de Corazón Púrpura 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-purpleheart-opened-north": "Puente Levadizo de Corazón Púrpura 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-purpleheart-opened-north": "Puente Levadizo de Corazón Púrpura 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-purpleheart-opened-north": "Puente Levadizo de Corazón Púrpura 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-purpleheart-opened-north": "Puente Levadizo de Corazón Púrpura 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-walnut-opened-north": "Puente Levadizo de Nogal 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-walnut-opened-north": "Puente Levadizo de Nogal 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-walnut-opened-north": "Puente Levadizo de Nogal 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-walnut-opened-north": "Puente Levadizo de Nogal 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-walnut-opened-north": "Puente Levadizo de Nogal 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-walnut-opened-north": "Puente Levadizo de Nogal 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-walnut-opened-north": "Puente Levadizo de Nogal 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-walnut-opened-north": "Puente Levadizo de Nogal 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-redwood-opened-north": "Puente Levadizo de Secuoya 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-redwood-opened-north": "Puente Levadizo de Secuoya 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-redwood-opened-north": "Puente Levadizo de Secuoya 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-redwood-opened-north": "Puente Levadizo de Secuoya 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-redwood-opened-north": "Puente Levadizo de Secuoya 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-redwood-opened-north": "Puente Levadizo de Secuoya 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-redwood-opened-north": "Puente Levadizo de Secuoya 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-redwood-opened-north": "Puente Levadizo de Secuoya 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-larch-opened-north": "Puente Levadizo de Lárice 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-larch-opened-north": "Puente Levadizo de Lárice 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-larch-opened-north": "Puente Levadizo de Lárice 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-larch-opened-north": "Puente Levadizo de Lárice 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-larch-opened-north": "Puente Levadizo de Lárice 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-larch-opened-north": "Puente Levadizo de Lárice 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-larch-opened-north": "Puente Levadizo de Lárice 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-larch-opened-north": "Puente Levadizo de Lárice 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-ebony-opened-north": "Puente Levadizo de Ébano 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-ebony-opened-north": "Puente Levadizo de Ébano 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-ebony-opened-north": "Puente Levadizo de Ébano 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-ebony-opened-north": "Puente Levadizo de Ébano 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-ebony-opened-north": "Puente Levadizo de Ébano 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-ebony-opened-north": "Puente Levadizo de Ébano 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-ebony-opened-north": "Puente Levadizo de Ébano 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-ebony-opened-north": "Puente Levadizo de Ébano 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-baldcypress-opened-north": "Puente Levadizo de Ciprés 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-baldcypress-opened-north": "Puente Levadizo de Ciprés 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-baldcypress-opened-north": "Puente Levadizo de Ciprés 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-baldcypress-opened-north": "Puente Levadizo de Ciprés 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-baldcypress-opened-north": "Puente Levadizo de Ciprés 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-baldcypress-opened-north": "Puente Levadizo de Ciprés 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-baldcypress-opened-north": "Puente Levadizo de Ciprés 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-baldcypress-opened-north": "Puente Levadizo de Ciprés 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-oak-opened-north": "Puente Levadizo de Roble 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-oak-opened-north": "Puente Levadizo de Roble 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-oak-opened-north": "Puente Levadizo de Roble 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-oak-opened-north": "Puente Levadizo de Roble 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-oak-opened-north": "Puente Levadizo de Roble 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-oak-opened-north": "Puente Levadizo de Roble 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-oak-opened-north": "Puente Levadizo de Roble 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-oak-opened-north": "Puente Levadizo de Roble 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-acacia-opened-north": "Puente Levadizo de Acacia 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-acacia-opened-north": "Puente Levadizo de Acacia 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-acacia-opened-north": "Puente Levadizo de Acacia 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-acacia-opened-north": "Puente Levadizo de Acacia 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-acacia-opened-north": "Puente Levadizo de Acacia 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-acacia-opened-north": "Puente Levadizo de Acacia 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-acacia-opened-north": "Puente Levadizo de Acacia 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-acacia-opened-north": "Puente Levadizo de Acacia 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-aged-opened-north": "Puente Levadizo de Madera Envejecida 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-aged-opened-north": "Puente Levadizo de Madera Envejecida 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-aged-opened-north": "Puente Levadizo de Madera Envejecida 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-aged-opened-north": "Puente Levadizo de Madera Envejecida 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-aged-opened-north": "Puente Levadizo de Madera Envejecida 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-aged-opened-north": "Puente Levadizo de Madera Envejecida 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-aged-opened-north": "Puente Levadizo de Madera Envejecida 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-aged-opened-north": "Puente Levadizo de Madera Envejecida 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-birch-opened-north": "Puente Levadizo de Abedul 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-birch-opened-north": "Puente Levadizo de Abedul 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-birch-opened-north": "Puente Levadizo de Abedul 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-birch-opened-north": "Puente Levadizo de Abedul 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-birch-opened-north": "Puente Levadizo de Abedul 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-birch-opened-north": "Puente Levadizo de Abedul 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-birch-opened-north": "Puente Levadizo de Abedul 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-birch-opened-north": "Puente Levadizo de Abedul 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-kapok-opened-north": "Puente Levadizo de Ceiba 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-kapok-opened-north": "Puente Levadizo de Ceiba 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-kapok-opened-north": "Puente Levadizo de Ceiba 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-kapok-opened-north": "Puente Levadizo de Ceiba 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-kapok-opened-north": "Puente Levadizo de Ceiba 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-kapok-opened-north": "Puente Levadizo de Ceiba 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-kapok-opened-north": "Puente Levadizo de Ceiba 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-kapok-opened-north": "Puente Levadizo de Ceiba 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-maple-opened-north": "Puente Levadizo de Arce 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-maple-opened-north": "Puente Levadizo de Arce 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-maple-opened-north": "Puente Levadizo de Arce 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-maple-opened-north": "Puente Levadizo de Arce 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-maple-opened-north": "Puente Levadizo de Arce 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-maple-opened-north": "Puente Levadizo de Arce 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-maple-opened-north": "Puente Levadizo de Arce 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-maple-opened-north": "Puente Levadizo de Arce 5x7",
+
+	"medievalexpansion:block-drawbridge3x4-model-pine-opened-north": "Puente Levadizo de Pino 3x4",
+	"medievalexpansion:block-drawbridge3x5-model-pine-opened-north": "Puente Levadizo de Pino 3x5",
+	"medievalexpansion:block-drawbridge3x6-model-pine-opened-north": "Puente Levadizo de Pino 3x6",
+
+	"medievalexpansion:block-drawbridge4x5-model-pine-opened-north": "Puente Levadizo de Pino 4x5",
+	"medievalexpansion:block-drawbridge4x6-model-pine-opened-north": "Puente Levadizo de Pino 4x6",
+	"medievalexpansion:block-drawbridge4x7-model-pine-opened-north": "Puente Levadizo de Pino 4x7",
+
+	"medievalexpansion:block-drawbridge5x6-model-pine-opened-north": "Puente Levadizo de Pino 5x6",
+	"medievalexpansion:block-drawbridge5x7-model-pine-opened-north": "Puente Levadizo de Pino 5x7",
+
+	"medievalexpansion:block-floorplate-wood-up-north": "Placa de Madera",
+	"medievalexpansion:block-floorplate-stone-up-north": "Placa de Piedrae",
+
+	"medievalexpansion:item-portcullispart": "Parte de Rastrillo de Hierro",
+	"medievalexpansion:item-portcullisdismantled": "Rastrillo desmantelado",
+
+	"medievalexpansion:item-repairkit-large-copper": "Juego de Reparación Grande (Cobre)",
+	"medievalexpansion:item-repairkit-large-tinbronze": "Juego de Reparación Grande (Bronce Estañado)",
+	"medievalexpansion:item-repairkit-large-iron": "Juego de Reparación Grande (Hierro)",
+	"medievalexpansion:item-repairkit-large-steel": "Juego de Reparación Grande (Acero)",
+
+	"medievalexpansion:restore-durability": "Restaurar durabilidad: {0}",
+	"medievalexpansion:can-repair-constructions": "Puede reparar construcciones",
+	"medievalexpansion:blockhelp-repair": "Reparar",
+
+	"medievalexpansion:block-streetlight-north": "Poste de Farola",
+	"medievalexpansion:block-waterwheelbase-north": "Soporte de Molino",
+	"medievalexpansion:block-waterwheelpenstock-door-north": "Canal con Escotilla",
+	"medievalexpansion:block-waterwheelpenstock-normal-north": "Canal",
+	"medievalexpansion:block-waterwheelpenstock-output-north": "Canal de Salida",
+	"medievalexpansion:waterwheel-complete": "Noria",
+	"medievalexpansion:item-waterwheelspin-oak": "Engranaje de la Noria",
+	"medievalexpansion:item-penstockhatch-oak": "Tablacho para Escotilla",
+	"medievalexpansion:waterwheel-requires-gear": "Necesita Engranaje",
+	"medievalexpansion:penstock-requires-hatch": "Necesita Escotilla",
+	"medievalexpansion:waterwheel-requires-repair": "Necesita Reparación",
+	"medievalexpansion:waterwheel-efficiency": "Eficiencia: {0}%",
+	"medievalexpansion:waterwheel-durability": "Durabilidad: {0}%",
+	"medievalexpansion:waterwheel-typ": "Tipo: {0}",
+	"medievalexpansion:waterwheel-typ-undershot": "Entrada Inferior",
+	"medievalexpansion:waterwheel-typ-breastshot": "Entrada Central",
+	"medievalexpansion:waterwheel-typ-overshot": "Entrada Superior",
+
+	"medievalexpansion:waterwheel-usage-title": "Fuerza Mecánica de la Noria",
+	"medievalexpansion:waterwheel-usage-text": "<strong>Fuerza Mecánica de la Noria</strong><br><br>Necesita agua para activar la Noria. El agua debe flotar en la dirección correcta, la rotación es en sentido contrario a las agujas del reloj.<br/>Existen 3 variantes con diferentes eficiencias (según la configuración predeterminada): <br />- Entrada Inferior: 30%<br />- Entrada Central: 45%<br />- Entrada Superior: 85%<br/><br/>Para usar el tipo de Entrada Superior, el agua debe caer por encima de la Noria usando los elementos de la Canal.<br/><br/>En la Entrada Central, el agua debe fluir a la misma altura del eje que la noria.<br/><br/>Los administradores del servidor pueden cambiar las eficiencias en el archivo de configuración.",
+	"medievalexpansion:block-firebrazier-normal-*": "Brasero",
+	"medievalexpansion:block-firebrazier-creative-*": "Brasero (Creativo)",
+	"medievalexpansion:firebrazier-burningtime": "Tiempo Encendido: {0}",
+	"medievalexpansion:blockhelp-firebrazier-fuel": "Añadir Combustible",
+	"medievalexpansion:blockhelp-firebrazier-ignite": "Encender",
+
+	"medievalexpansion:item-creature-aurochs-female": "Uro Vaca",
+	"medievalexpansion:item-creature-aurochs-male": "Uro Toro",
+	"medievalexpansion:item-creature-aurochs-lamb": "Uro Becerro",
+	"item-creature-medievalexpansion:aurochs-female": "Uro Vaca",
+	"item-creature-medievalexpansion:aurochs-male": "Uro Toro",
+	"item-creature-medievalexpansion:aurochs-lamb": "Uro Becerro",
+	"medievalexpansion:item-dead-creature-aurochs-male": "Uro Toro Muerto",
+	"medievalexpansion:item-dead-creature-aurochs-female": "Uro Vaca Muerto",
+	"medievalexpansion:item-dead-creature-aurochs-lamb": "Uro Becerro Muerto",
+
+	"medievalexpansion:block-grasicemixpile": "Montón de Hielo de Bodega",
+	"medievalexpansion:item-grasicemix": "Hielo de Bodega",
+	"medievalexpansion:blockhelp-grasicemix-addfuel": "Añadir Hielo de Bodega",
+	"medievalexpansion:blockhelp-grasicemix-removefuel": "Quitar Hielo de Bodega",
+
+	"medievalexpansion:aurochs-help-title": "Domesticación de Uros",
+	"medievalexpansion:aurochs-help-text": "<strong>Domesticación de Uros</strong><br><br>Los Uros necesitan un comedero grande y se alimentan con:<br>- Casi cualquier tipo de Grano. <br>- Hierba- <br>- Mezcla Alimentaria-",
+	"medievalexpansion:cellarice-help-title": "Hielo de Bodega ► Refrigeración de Espacios ► ",
+	"medievalexpansion:cellarice-help-text": "<strong>Hielo de Bodega ► Refrigeración de Espacios</strong><br><br>El Hielo de Bodega se amontona en una superficie de 3x3x2 bloques como soporte óptimo dentro de una habitación.<br/> Colocado dentro de una habitación, enfriará la estancia y el Hielo de la Bodega se derretirá lentamente.<br/><br/>Los administradores del servidor pueden cambiar el multiplicador en el archivo de configuración.",
+	"medievalexpansion:item-aurochsfood": "Mezcla Alimentaria",
+	"medievalexpansion:aurochs-food": "Mezcla Alimentaria con Paja"
+
+    "_añadidos": "Cadenas añadidas desde la ruta .\assets\game\lang\",
+	"game:prefixandcreature-aurochsmale": "un Uro furioso",
+	"game:prefixandcreature-aurochsfemale": "un Uro furioso"
+}
