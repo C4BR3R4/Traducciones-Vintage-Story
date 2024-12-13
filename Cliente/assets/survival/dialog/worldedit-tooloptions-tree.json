@@ -1,0 +1,38 @@
+{
+	code: "worldedit-tooloptions-tree",
+	padding: 5,
+	disableWorldInteract: false,
+	alignment: "FixedTop",
+	rows: [
+		{ elements: [
+			{
+				code: "std.treeToolMinTreeSize",
+				width: 200,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño Mínimo",
+				param: "/we tsizemin",
+			},
+			{
+				code: "std.treeToolMaxTreeSize",
+				width: 200,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño Máximo",
+				param: "/we tsizemax",
+			},
+			{
+				code: "std.treeToolTreeVariant",
+				width: 340,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Tipo de Árbol",
+				values: ["acacia", "baldcypress", "baldcypressswamp", "bamboo-grown-brown", "bamboo-grown-green", "bristleconepine", "crimsonkingmaple", "dwarfbirch", "ebony", "englishoak", "ferntree-normal-trunk", "fir", "greenspirecypress", "himalayanbirch", "japanesemaple", "kapok", "largekapok", "larch", "deepforestlarch", "mountainmaple", "mountainpine", "norwaymaple", "oldenglishoak", "oldkapok", "pricklymoses", "purpleheart", "redwoodpine", "riverbirch", "scotspine", "silverbirch", "sugarmaple", "sugarmaplesmall", "truemulga", "walnut", "fruittree-pinkapple", "fruittree-redapple", "fruittree-yellowapple", "fruittree-cherry", "fruittree-mango", "fruittree-olive", "fruittree-orange", "fruittree-peach", "fruittree-pear", "fruittree-breadfruit", "fruittree-lychee", "fruittree-pomegranate"],
+				names: ["Acacia", "Ciprés", "Ciprés (pantano)", "Bambú (marrón)", "Bambú (verde)", "Pino Inglés", "Arce Carmesí", "Abedul enano", "Ébano", "Roble", "Helecho", "Abeto", "Ciprés verde", "Abedul del Himalaya", "Arce japonés", "Ceiba", "Ceiba (grande)", "Lárice", "Lárice (bosque profundo)", "Arce de Montaña", "Pino de Montaña", "Arce de Noruega", "Roble Viejo Inglés", "Ceiba Viejo", "Moisés Espinoso", "Corazón Púrpura", "Secuoya", "Abedul de Río", "Pino Rodeno", "Abedul Plateado", "Arce Azucarero", "Arce Azucarero (pequeño)", "Mulga Verdadera", "Nogal", "Manzano Rosa", "Manzano Rojo", "Manzano Amarillo", "Cerezo", "Mango", "Olivo", "Naranjo", "Melocotonero", "Peral", "Árbol del Pan", "Lichi", "Granado"],
+				param: "/we tv",
+			}
+		]
+		},
+	]
+}
