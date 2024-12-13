@@ -1,0 +1,51 @@
+{
+	code: "tpManager",
+	padding: 8,
+	disableWorldInteract: false,
+	alignment: "CenterMiddle",
+	rows: [
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 300,
+					code: "name",
+					label: "Nombre",
+					type: "input",
+					tooltip: "Nombre de este Lugar",
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 300,
+					label: "Ubicación de Destino",
+					code: "targetlocation",
+					type: "dynamicselect",
+					mode: "dropdown",
+					tooltip: "Nombre de la posición de Destino",
+				}
+			]
+		},
+		{ 
+			height: 90, 
+			elements: [
+				{
+					width: 200,
+					code: "cancel",
+					text: "Cancelar",
+					type: "button"
+				},
+				{
+					width: 200,
+					code: "save",
+					text: "Guardar",
+					type: "button"
+				}
+			]
+		},
+		
+	]
+}
