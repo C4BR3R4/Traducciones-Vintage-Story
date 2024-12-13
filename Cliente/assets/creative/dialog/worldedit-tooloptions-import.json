@@ -1,0 +1,83 @@
+{
+	code: "worldedit-tooloptions-import",
+	padding: 5,
+	disableWorldInteract: false,
+	alignment: "FixedTop",
+	rows: [
+		{ elements: [
+			{
+				code: "std.pasteToolFilenames",
+				width: 400,
+				height: 30,
+				type: "input",
+				label: "Nombre del Archivo",
+				param: "/we ims",
+			},
+			{
+				code: "fromclipboard",
+				width: 180,
+				height: 30,
+				type: "button",
+				text: "Portapapeles",
+				tooltip: "Cargar un plano desde el portapapeles interno del juego.",
+				label: "o",
+				fontSize: 16,
+				param: "/we imc",
+				paddingLeft: -10
+			},
+			{
+				code: "rotateccw",
+				width: 180,
+				height: 30,
+				type: "button",
+				text: "Girar 90º Izquierda",
+				tooltip: "Girar el plano actual 90 grados hacia la izquierda (en sentido contrario a las agujas del reloj).",
+				fontSize: 15,
+				param: "/we imr 270"
+			},
+			{
+				code: "rotatecw",
+				width: 180,
+				height: 30,
+				type: "button",
+				text: "Girar 90º Derecha",
+				tooltip: "Girar el plano actual 90 grados hacia la derecha (en sentido de las agujas del reloj).",
+				fontSize: 15,
+				param: "/we imr 90",
+				paddingLeft: 10
+			}		
+		]
+		},
+		
+		
+		
+		{ elements: [
+
+			{
+				code: "std.pasteToolOrigin",
+				width: 300,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Pegar desde",
+				values: ["0", "1", "2"],
+				names: ["Punto de Origen", "Centro Inferior", "Centro Superior"],
+				param: "/we imo",
+				paddingLeft: 0
+			},
+			{
+				code: "std.importReplaceMode",
+				width: 360,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Modo de Sustitución",
+				values: ["0", "1", "2", "3"],
+				names: ["Sustituir por Valor", "Sustituir Todo", "Sustituir Todo sin Aire", "Sustituir Sólo el Aire"],
+				param: "/we tm",
+			}			
+		]
+		},		
+		
+	]
+}
