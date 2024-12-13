@@ -1,0 +1,33 @@
+{
+	code: "worldedit-tooloptions-line",
+	padding: 5,
+	disableWorldInteract: false,
+	alignment: "FixedTop",
+	rows: [
+		{ elements: [
+			{
+				code: "std.lineStartPoint",
+				width: 380,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Punto de Inicio de Línea",
+				values: ["0", "1"],
+				names: ["Desde el Punto Inicial", "Desde el Último Punto"],
+				param: "/we tm",
+			},
+			{
+				code: "std.lineRemove",
+				width: 350,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Modo de Colocación",
+				values: ["0", "1"],
+				names: ["Colocar Bloques", "Eliminar Bloques"],
+				param: "/we tremove",
+			}
+		]
+		},
+	]
+}
