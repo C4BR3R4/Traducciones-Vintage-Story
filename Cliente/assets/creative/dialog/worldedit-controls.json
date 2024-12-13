@@ -1,0 +1,29 @@
+{
+	code: "worldedit-controls",
+	padding: 8,
+	posY: 100,
+	disableWorldInteract: false,
+	alignment: "LeftFixed",
+	rows: [
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 30,
+					code: "undo",
+					type: "button",
+					tooltip: "<strong>Deshacer</strong>",
+					icon: "undo"
+				},
+				{
+					width: 30,
+					code: "redo",
+					tooltip: "<strong>Rehacer</strong>",
+					type: "button",
+					icon: "redo"
+				}
+			]
+		},
+
+	]
+}
