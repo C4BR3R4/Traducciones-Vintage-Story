@@ -1,0 +1,61 @@
+{
+	code: "worldedit-tooloptions-floodfill",
+	padding: 5,
+	disableWorldInteract: false,
+	alignment: "FixedTop",
+	rows: [
+		{ elements: [
+			{
+				code: "std.floodFillSearchRadius",
+				width: 190,
+				height: 30,
+				type: "numberinput",
+				label: "Distancia Máxima",
+				param: "/we tr",
+			},
+			{
+				width: 200,
+				code: "std.floodFillCheckEnclosure",
+				label: "Comprobación Incluida",
+				type: "switch",
+				param: "/we tce",
+			},
+			{
+				code: "std.floodFillMode",
+				width: 260,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Modo",
+				values: ["2", "3", "1"],
+				names: ["Plano (2D)", "Cúbico (3D)", "Cúbico, no Arriba (3D)"],
+				param: "/we tm",
+			}
+		] },
+		{ elements: [
+			
+			{
+				width: 150,
+				code: "std.ignoreWater",
+				label: "Ignorar Agua",
+				type: "switch",
+				param: "/we iw",
+			},
+			{
+				width: 150,
+				code: "std.ignorePlants",
+				label: "Ignorar Plantas",
+				type: "switch",
+				param: "/we ip",
+			},
+			{
+				width: 150,
+				code: "std.ignoreLooseSurfaceItems",
+				label: "Ignorar Elementos Superficiales Sueltos",
+				tooltip: "Ignorar los palos, piedras, rocas, pedernales, pepitas y engranajes.", 
+				type: "switch",
+				param: "/we ii"
+			}
+		] }
+	]
+}
