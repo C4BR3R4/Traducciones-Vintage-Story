@@ -1,0 +1,220 @@
+{
+	code: "worldedit-tooloptions-select",
+	padding: 5,
+	disableWorldInteract: false,
+	alignment: "FixedTop",
+	rows: [
+		{ elements: [
+			{
+				code: "std.selectmagicSelect",
+				width: 240,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Modo de Selección",
+				values: ["0", "1"],
+				names: ["Manual", "Mágica"],
+				param: "/we magic",
+				tooltip: "Modo Manual ► Usa el Botón Izquierdo y Derecho para seleccionar las esquinas.\nModo Mágico ► Intenta encontrar automáticamente los límites (adecuado para mundos superplanos)."
+			},
+			{
+				width: 60,
+				code: "grownorth",
+				type: "button",
+				tooltip: "Aumentar la Selección hacia el Norte (-Z)",
+				text: "Norte +",
+				param: "/we gn 1",
+				fontSize: 16,
+				paddingLeft: 10
+			},
+			{
+				width: 60,
+				code: "shrinknorth",
+				type: "button",
+				tooltip: "Contraer la Selección desde el Norte (+Z)",
+				text: "Norte -",
+				param: "/we gn -1",
+				fontSize: 16
+			},
+			{
+				width: 60,
+				code: "groweast",
+				type: "button",
+				tooltip: "Aumentar la Selección hacia el Este (+X)",
+				text: "Este +",
+				param: "/we ge 1",
+				fontSize: 16,
+				paddingLeft: 10
+			},
+			{
+				width: 60,
+				code: "shrinkeast",
+				type: "button",
+				tooltip: "Contraer la Selección desde el Este (-X)",
+				text: "Este -",
+				param: "/we ge -1",
+				fontSize: 16
+			},
+			{
+				width: 60,
+				code: "growsouth",
+				type: "button",
+				tooltip: "Aumentar la Selección hacia el Sur (+Z)",
+				text: "Sur +",
+				param: "/we gs 1",
+				fontSize: 16,
+				paddingLeft: 10
+			},
+			{
+				width: 60,
+				code: "shrinksouth",
+				type: "button",
+				tooltip: "Contraer la Selección desde el Sur (+Z)",
+				text: "Sur -",
+				param: "/we gs -1",
+				fontSize: 16
+			},
+			{
+				width: 60,
+				code: "growwest",
+				type: "button",
+				tooltip: "Aumentar la Selección hacia el Oeste (-X)",
+				text: "Oeste +",
+				param: "/we gw 1",
+				fontSize: 16,
+				paddingLeft: 10
+			},
+			{
+				width: 60,
+				code: "shrinkwest",
+				type: "button",
+				tooltip: "Contraer la Selección desde el Oeste (-X)",
+				text: "Oeste -",
+				param: "/we gw -1",
+				fontSize: 16
+			},
+			{
+				width: 60,
+				code: "growup",
+				type: "button",
+				tooltip: "Aumentar la Selección hacia Arriba (+Y)",
+				text: "Arriba +",
+				param: "/we gu 1",
+				fontSize: 16,
+				paddingLeft: 10
+			},
+			{
+				width: 60,
+				code: "shrinkup",
+				type: "button",
+				tooltip: "Contraer la Selección desde Arriba (+Y)",
+				text: "Arriba -",
+				param: "/we gu -1",
+				fontSize: 16
+			},
+			{
+				width: 60,
+				code: "growdown",
+				type: "button",
+				tooltip: "Aumentar la Selección hacia Abajo (-Y)",
+				text: "Abajo +",
+				param: "/we gd 1",
+				fontSize: 16,
+				paddingLeft: 10
+			},
+			{
+				width: 60,
+				code: "shrinkdown",
+				type: "button",
+				tooltip: "Contraer la Selección desde Abajo (-Y)",
+				text: "Abajo -",
+				param: "/we gd -1",
+				fontSize: 16
+			},
+			{
+				width: 70,
+				code: "shrinklook",
+				type: "button",
+				tooltip: "Reducir la selección en la dirección de la mirada.",
+				text: "Mirada +",
+				param: "/we gl 1",
+				fontSize: 16,
+				paddingLeft: 10
+			},
+			{
+				width: 70,
+				code: "growlook",
+				type: "button",
+				tooltip: "Aumentar la selección en dirección mirada.",
+				text: "Mirada -",
+				param: "/we gl -1",
+				fontSize: 16
+			}
+		]
+		},
+		{
+			elements: [
+				{
+					width: 75,
+					code: "copy",
+					type: "button",
+					tooltip: "Copia la selección actual en el portapapeles.",
+					text: "Copiar",
+					param: "/we copy",
+					fontSize: 16
+				},			
+				{
+					width: 95,
+					code: "clear",
+					type: "button",
+					tooltip: "Deselecciona la selección actual.",
+					text: "Deseleccionar",
+					param: "/we clear",
+					fontSize: 16,
+					paddingLeft: 20
+				},
+				{
+					width: 95,
+					code: "removecontents",
+					type: "button",
+					tooltip: "Eliminar todos los bloques del área seleccionada.",
+					text: "Eliminar",
+					param: "/we delete",
+					fontSize: 16,
+					paddingLeft: 20
+				},
+				{
+					width: 95,
+					code: "relight",
+					type: "button",
+					tooltip: "Volver a iluminar la zona seleccionada.",
+					text: "Reiluminar",
+					param: "/we rls",
+					fontSize: 16,
+					paddingLeft: 20
+				},
+				{
+					code: "rotateccw",
+					width: 150,
+					height: 30,
+					type: "button",
+					text: "Girar 90º Izquierda",
+					tooltip: "Gira la selección actual 90º hacia la izquierda (en sentido contrario a las agujas del reloj).",
+					fontSize: 15,
+					param: "/we rot 270"
+				},
+				{
+					code: "rotatecw",
+					width: 150,
+					height: 30,
+					type: "button",
+					text: "Girar 90º Derecha",
+					tooltip: "Gira la selección actual 90º hacia la derecha (en sentido de las agujas del reloj).",
+					fontSize: 15,
+					param: "/we rot 90",
+					paddingLeft: 10
+				}
+			]
+		}
+	]
+}
