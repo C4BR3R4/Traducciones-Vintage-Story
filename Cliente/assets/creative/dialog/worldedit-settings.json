@@ -1,0 +1,319 @@
+{
+	code: "worldedit-settings",
+	sizeMultiplier: 0.75,
+	padding: 5,
+	disableWorldInteract: false,
+	alignment: "RightFixed",
+	rows: [
+		{
+			height: 30,
+			topPadding: 10,
+			bottomPadding: 3,
+			elements: [
+				{
+					width: 350,
+					type: "text",
+					text: "▼ Controles ▼"
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "flymode",
+					label: "Modo Vuelo",
+					type: "select",
+					mode: "dropdown",
+					values: ["0", "1", "2"],
+					names: ["Desactivado", "Activado", "Activado + Atravesamiento"],
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "fphands",
+					label: "Mostrar Manos en Primera Persona",
+					type: "select",
+					mode: "dropdown",
+					values: ["0", "1"],
+					names: ["No", "Si"],
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "pickingrange",
+					label: "Rango de Selección",
+					type: "select",
+					mode: "dropdown",
+					values: ["4.5", "10", "20", "50", "100", "200", "500"],
+					names: ["4.5 (default)", "10", "20", "50", "100", "200", "500"],
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "movespeed",
+					label: "Velocidad de Movimiento",
+					type: "select",
+					mode: "dropdown",
+					values: ["0.1", "0.25", "0.5", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+					names: ["0.1", "0.25", "0.5", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10"],
+				},
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "axislock",
+					label: "Bloquear Movimiento de Eje",
+					type: "select",
+					mode: "dropdown",
+					values: ["0", "1", "2", "3"],
+					names: ["-", "X", "Y", "Z"],
+				},
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "liquidselectable",
+					label: "Líquido Seleccionable",
+					type: "switch",
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "serveroverloadprotection",
+					label: "Protección de Sobrecarga del Servidor",
+					type: "switch",
+				}
+			]
+		},		
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "tooloffsetmode",
+					label: "Modo de Herramienta",
+					type: "select",
+					mode: "dropdown",
+					values: ["0", "1"],
+					names: ["Centrada", "Unida"],
+				}
+			]
+		},
+		{
+			height: 30,
+			topPadding: 30,
+			bottomPadding: 3,
+			elements: [
+				{
+					width: 350,
+					type: "text",
+					text: "▼ Ajustes Ambientales ▼"
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "timeofday",
+					label: "Hora del Día",
+					type: "slider",
+					minValue: 0,
+					maxValue: 24,
+					step: 1
+				}
+			]
+		},
+		{
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "foglevel",
+					label: "Nivel de Niebla Normal",
+					type: "slider",
+					minValue: 0,
+					maxValue: 200,
+					step: 1
+				}
+			]
+		},
+		
+		{
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "flatfoglevel",
+					label: "Nivel de Niebla Plana",
+					type: "slider",
+					minValue: -500,
+					maxValue: 500,
+					step: 1
+				}
+			]
+		},
+
+		{
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "flatfoglevelypos",
+					label: "Posición Y de Niebla Plana",
+					type: "slider",
+					minValue: -100,
+					maxValue: 100,
+					step: 1
+				}
+			]
+		},
+
+		
+		{
+			height: 20, 
+			elements: [
+				{
+					width: 350,
+					code: "fogred",
+					label: "Tono Rojo de Niebla",
+					type: "slider",
+					minValue: 0,
+					maxValue: 255,
+					step: 1
+				}
+			]
+		},
+		{
+			height: 20, 
+			elements: [
+				{
+					width: 350,
+					code: "foggreen",
+					label: "Tono Verde de Niebla",
+					type: "slider",
+					minValue: 0,
+					maxValue: 255,
+					step: 1
+				}
+			]
+		},
+		{
+			height: 20, 
+			elements: [
+				{
+					width: 350,
+					code: "fogblue",
+					label: "Tono Azul de Niebla",
+					type: "slider",
+					minValue: 0,
+					maxValue: 255,
+					step: 1
+				}
+			]
+		},
+		
+
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "cloudypos",
+					label: "Posición Y de Nubes",
+					type: "slider",
+					minValue: 0,
+					maxValue: 255,
+					step: 1
+				}
+			]
+		},
+		{
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "precipitation",
+					label: "Lluvia",
+					type: "slider",
+					minValue: -100,
+					maxValue: 100,
+					step: 1
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "ambientparticles",
+					label: "Partículas Ambientales",
+					type: "switch",
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "overrideambient",
+					label: "Anular Valores Predeterminados",
+					tooltip: "Si se anulan los valores ambientales predeterminados, se bloquean las precipitaciones y el movimiento de nubes.",
+					type: "switch",
+				}
+			]
+		},
+		{
+			height: 30,
+			topPadding: 30,
+			bottomPadding: 3,
+			elements: [
+				{
+					width: 350,
+					type: "text",
+					text: "▼ Patrón Meteorológico ▼"
+				}
+			]
+		},
+		{ 
+			height: 30, 
+			elements: [
+				{
+					width: 350,
+					code: "weatherpattern",
+					type: "select",
+					mode: "dropdown",
+					values: ["altocumulus", "clearsky", "cumulonimbus", "cumulus", "scumulus", "stronghaze", "mediumhaze", "overcast", "overcastundulating", "stratusl", "stratusc", "cirrocumulus", "cirrocumulusm"],
+					names: ["Grandes Cúmulos Nubosos", "Cielo Despejado", "Cúmulos Nubosos Verticales", "Cúmulos Nubosos y Despejado", "Pequeños Cúmulos y Despejado", "Fuerte Bruma", "Media Bruma", "Nuboso", "Cielo Cubierto Ondulante", "Nubes Estrato Ligeras", "Nubes Estrato Ligeras y Bruma", "Cirrocúmulos", "Cirrocúmulos con Bruma" ],
+				}
+			]
+		}
+	]
+}
