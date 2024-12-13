@@ -1,0 +1,96 @@
+{
+	code: "worldedit-tooloptions-chiselbrush",
+	padding: 5,
+	posX: 130,
+	disableWorldInteract: false,
+	alignment: "FixedTop",
+	rows: [
+		{ elements: [
+			{
+				code: "std.brushMode",
+				width: 225,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Modo",
+				values: ["0", "1", "2", "3"],
+				names: ["Rellenar", "Sustituir sin Aire", "Sustituir con Aire", "Sustituir Bloque Seleccionado"],
+				param: "/we tm",
+			},
+			{
+				code: "std.brushShape",
+				width: 180,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Forma",
+				values: ["0", "1", "2", "3", "4", "5", "6", "7", "8"],
+				names: ["Esfera", "Cuboide", "Cilindro", "Media Esfera Arriba", "Media Esfera Abajo", "Media Esfera al Norte", "Media Esfera al Este", "Media Esfera al Sur", "Media Esfera al Oeste"],
+				param: "/we ts",
+			},
+			{
+				code: "std.brushDim1",
+				width: 120,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño X",
+				param: "/we tsx",
+			},
+			{
+				code: "std.brushDim2",
+				width: 120,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño Y",
+				param: "/we tsy",
+			},
+			{
+				code: "std.brushDim3",
+				width: 120,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño Z",
+				param: "/we tsz",
+			}
+		]
+		}, { elements: [
+			{
+				width: 150,
+				code: "tooloffsetmode",
+				label: "TOM",
+				type: "select",
+				mode: "dropdown",
+				values: ["0", "1"],
+				names: ["Centro", "Enlazar"],
+				param: "/we tom",
+				tooltip: "Modo de desplazamiento de la herramienta."
+			},
+			{
+				code: "std.brushcutoutDim1",
+				width: 120,
+				height: 30,
+				type: "numberinput",
+				label: "Recorte X",
+				param: "/we tcx",
+			},
+			{
+				code: "std.brushcutoutDim2",
+				width: 120,
+				height: 30,
+				type: "numberinput",
+				label: "Recorte Y",
+				param: "/we tcy",
+			},
+			{
+				code: "std.brushcutoutDim3",
+				width: 120,
+				height: 30,
+				type: "numberinput",
+				label: "Recorte Z",
+				param: "/we tcz",
+			}
+
+		]
+		}
+	]
+}
