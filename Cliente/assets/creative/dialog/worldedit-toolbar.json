@@ -1,0 +1,40 @@
+{
+	code: "worldedit-toolbar",
+	padding: 5,
+	alignment: "LeftFixed",
+	disableWorldInteract: false,
+	posY: 160,
+	rows: [
+		{ elements: [
+			{
+				code: "tooltype",
+				type: "select",
+				width: 30,
+				height: 518,
+				mode: "buttons",
+				icons: ["none", "move", "repeat", "select", "paintbrush", "airbrush", "line", "eraser", "floodfill", "raiselower", "growshrink", "erode", "import", "tree", "worldedit/chiselbrush"],
+				values: ["-1", "move", "repeat", "select", "paint brush", "air brush", "line", "eraser", "flood fill", "raise/lower", "grow/shrink", "erode", "import", "treegen", "chiselbrush"],
+				names: ["Nada", "Mover", "Reflejar/Repetir", "Seleccionar", "Brocha", "Aerógrafo", "Línea", "Borrador", "Relleno", "Elevar/Bajar", "Aumentar/Contraer", "Erosionar", "Importar", "Árbol", "Cepillo Cincelador"],
+				tooltips: [
+					"<strong>Herramienta desactivada</strong>\n<i>Ninguna herramienta seleccionada.</i>",
+					"<strong>Herramienta Mover</strong>\n<font color='lightcoral'><i>Necesitas sostener la Varita Mágica.</i></font>\n\n<font color='gray'>Botón Izquierdo ► Sin efecto.</font>\n<font color='darkgray'>Botón Derecho ► Desplazar a una posición determinada.</font>",
+					"<strong>Herramienta Repetir</strong>\n<font color='lightcoral'><i>Necesitas sostener la Varita Mágica.</i></font>\n\n<font color='gray'>Botón Izquierdo ► Sin efecto.</font>\n<font color='darkgray'>Botón Derecho ► Reflejar/Repetir hasta una posición determinada.</font>",
+					"<strong>Herramienta Seleccionar</strong>\n<font color='lightcoral'><i>Necesitas sostener la Varita Mágica.</i></font>\n\nModo Manual:\n<font color='darkgray'>Botón Izquierdo ► Seleccionar posición inicial.</font>\n<font color='darkgray'>Botón Derecho ► Seleccionar posición final.</font>\n\nModo Mágico:\n<font color='gray'>Botón Izquierdo ► Sin efecto.</font>\n<font color='darkgray'>Botón Derecho ► Aumenta la selección hacia la posición señalada, hasta que sólo encuentre bloques en el borde (predeterminado tierra y aire).</font>",
+					"<strong>Herramienta Brocha</strong>\n<i>Brocha para colocar muchos bloques de distintas formas.</i>\n\n<font color='gray'>Botón Izquierdo ► Sin efecto.</font>\n<font color='darkgray'>Botón Derecho ► Coloca bloques con la forma del bloque seleccionado del cinturón.</font>",
+					"<strong>Herramienta Aerógrafo</strong>\n<i>Herramienta para esparcir bloques individuales por una superficie.</i>\n\n<font color='darkgray'>Botón Izquierdo ► Elimina aleatoriamente un grupo de bloques en un radio determinado, sólo funciona en el modo de dibujo 'Sustituir'.\n<font color='darkgray'>Botón Derecho ► Coloca aleatoriamente un puñado de bloques en un radio determinado.</font>",
+					"<strong>Herramienta Línea</strong>\n<i>Herramienta para crear líneas de bloques.</i>\n\n<font color='darkgray'>Botón Izquierdo ► Marca la posición seleccionada como punto de inicio de la línea.</font>\n<font color='darkgray'>Botón Derecho ► Dibuja la línea desde el punto inicial hasta el punto seleccionado.</font>",
+					"<strong>Herramienta Borrador</strong>\n<i>Brocha para eliminar muchos bloques de distintas formas.</i>\n\n<font color='darkgray'>Botón Izquierdo ► Elimina los bloques con la forma del bloque seleccionado del cinturón.</font>\n<font color='gray'>Botón Derecho ► Sin efecto.</font>",
+					"<strong>Herramienta Relleno</strong>\n<i>Herramienta para rellenos en zanjas de 1 bloque de profundidad.</i>\n\n<font color='darkgray'>Botón Izquierdo ► Intenta borrar un área.</font>\n<font color='darkgray'>Botón Derecho ► Intenta rellenar con el bloque seleccionado en el cinturón.</font>",
+					"<strong>Herramienta Elevar/Bajar</strong>\n<i>Herramienta para elevar o bajar el terreno.</i>\n\n<font color='darkgray'>Botón Izquierdo ► Bajar el Terreno.</font>\n<font color='darkgray'>Botón Derecho ► Elevar el Terreno (colocará el bloque seleccionado del cinturón).</font>",
+					"<strong>Herramienta Aumentar/Contraer</strong>\n<i>Herramienta para aumentar o reducir un área en cualquier dirección.</i>\n\n<font color='darkgray'>Botón Izquierdo ► Contrae todas las formas dentro del radio especificado.</font>\n<font color='darkgray'>Botón Derecho ► Aumenta todas las formas dentro del radio especificado.</font>",
+					"<strong>Herramienta Erosionar</strong>\n<i>Aplica un efecto de erosión en la zona seleccionada.</i>\n\n<font color='gray'>Botón Izquierdo ► Sin efecto.</font>\n<font color='darkgray'>Botón Derecho ► Erosionar un área según la altura del terreno.</font>",
+					"<strong>Importar Plano</strong>\n<i>Para importar planos externos. Cuando la herramienta se encuentra seleccionada, también puedes arrastrar y soltar los planos en el juego para importarlos.</i>\n\n<font color='gray'>Botón Izquierdo ► Sin efecto.</font>\n<font color='darkgray'>Botón Derecho ► Importa uno de los archivos de datos de bloque suministrados en la posición seleccionada. Debes tener un bloque en las manos para poder colocarlo.</font>",
+					"<strong>Herramienta Árbol</strong>\n<i>Colocar árboles utilizando el generador de árboles incorporado.</i>\n\n<font color='gray'>Botón Izquierdo ► Sin efecto.</font>\n<font color='darkgray'>Botón Derecho ► Coloca un árbol en la posición seleccionada.</font>",
+					"<strong>Herramienta Cepillo Cincelador</strong>\n<i>Se pueden realizar diversas operaciones con los bloques cincelados.</i>"
+				],
+				getvalue: ["/we t"],
+				setvalue: ["/we t {value}"]
+			}
+		] },
+	]
+}
