@@ -1,0 +1,57 @@
+{
+	code: "worldedit-tooloptions-eraser",
+	padding: 5,
+	disableWorldInteract: false,
+	alignment: "FixedTop",
+	rows: [
+		{ elements: [
+			{ 
+				code: "std.eraserMode",
+				width: 300,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Modo",
+				values: ["0", "1", "2", "3"],
+				names: ["Rellenar", "Sustituir sin Aire", "Sustituir con Aire", "Sustituir Bloque Seleccionado"],
+				param: "/we tm",
+			},
+			{
+				code: "std.eraserShape",
+				width: 240,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Forma",
+				values: ["0", "1", "2", "3", "4", "5", "6", "7", "8"],
+				names: ["Esfera", "Cuboide", "Cilindro", "Media Esfera Arriba", "Media Esfera Abajo", "Media Esfera Norte", "Media Esfera Este", "Media Esfera Sur", "Media Esfera Oeste"],
+				param: "/we ts",
+			},
+			{
+				code: "std.eraserDim1",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño X",
+				param: "/we tsx",
+			},
+			{
+				code: "std.eraserDim2",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño Y",
+				param: "/we tsy",
+			},
+			{
+				code: "std.eraserDim3",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño Z",
+				param: "/we tsz",
+			}
+		]
+		},
+	]
+}
