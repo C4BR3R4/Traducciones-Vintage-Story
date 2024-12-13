@@ -1,0 +1,106 @@
+{
+	code: "worldedit-tooloptions-paintbrush",
+	padding: 5,
+	disableWorldInteract: false,
+	alignment: "FixedTop",
+	rows: [
+		{ elements: [
+			{
+				code: "std.brushMode",
+				width: 320,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Modo",
+				values: ["0", "1", "2", "3"],
+				names: ["Rellenar", "Sustituir sin Aire", "Sustituir con Aire", "Sustituir el Bloque Seleccionado"],
+				param: "/we tm",
+			},
+			{
+				code: "std.brushShape",
+				width: 240,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Forma",
+				values: ["0", "1", "2", "3", "4", "5", "6", "7", "8"],
+				names: ["Esfera", "Cuboide", "Cilindro", "Media Esfera Arriba", "Media Esfera Abajo", "Media Esfera Norte", "Media Esfera Este", "Media Esfera Sur", "Media Esfera Oeste"],
+				param: "/we ts",
+			},
+			{
+				code: "std.brushDim1",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño X",
+				param: "/we tsx",
+			},
+			{
+				code: "std.brushDim2",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño Y",
+				param: "/we tsy",
+			},
+			{
+				code: "std.brushDim3",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Tamaño Z",
+				param: "/we tsz",
+			}
+		]
+		}, { elements: [
+			
+			{
+				code: "std.brushDepthLimit",
+				width: 320,
+				height: 30,
+				type: "select",
+				mode: "dropdown",
+				label: "Profundidad Límite",
+				values: ["0", "1", "2", "3", "4"],
+				names: ["Sin Límite", "Capa Superior", "2 Capas Superiores", "3 Capas Superiores", "4 Capas Superiores"],
+				param: "/we tdl",
+			},
+
+			{
+				code: "std.brushcutoutDim1",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Recorte X",
+				param: "/we tcx",
+			},
+			{
+				code: "std.brushcutoutDim2",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Recorte Y",
+				param: "/we tcy",
+			},
+			{
+				code: "std.brushcutoutDim3",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Recorte Z",
+				param: "/we tcz",
+			},
+			{
+				code: "std.brushplacementPercentage",
+				width: 160,
+				height: 30,
+				type: "numberinput",
+				label: "Colocación %",
+				param: "/we pp",
+				tooltip: "Cuántos bloques se colocarán realmente. Por ejemplo, 10% significa que sólo se colocará uno de cada 10 bloques.",
+			}
+			
+		]
+		}
+	]
+}
