@@ -1,15 +1,15 @@
 {
-  "_comentarios": "Traducido por C4BR3R4 || Versión del Mod: 0.1.2 || Fecha de la última modificación: 20250112 || Registro: http://c4br3r4.es/index.php?topic=1291.0",
-  "year-month-day": "{0} de {1}, Año {2}",
+  "_comentarios": "Traducido por C4BR3R4 || Versión del Mod: 0.1.2 || Fecha de la última modificación: 20250113 || Registro: http://c4br3r4.es/index.php?topic=1291.0",
+  "year-month-day": "{0} de {1} del año {2}",
   "block-airthermo-ns": "Termómetro",
   "blockdesc-airthermo*": "Termómetro autorregistrador alojado en una pantalla Stevenson.",
   "game:ingameerror-airthermomod-nosrcpos": "No se ha encontrado información sobre la fuente BlockPos.",
   "game:ingameerror-airthermomod-nosrc": "No se ha encontrado ningún termómetro de origen.",
-  "item-recordedchartpaper": "Papel de Grabado Gráfico",
+  "item-recordedchartpaper": "Papel de Registro Gráfico",
   "itemdesc-recordedchartpaper": "Usa el botón derecho en un Termómetro para copiar los datos del termómetro de origen. Atención: ¡No romper la fuente antes de completar la copia!",
   "src-pos-info": "Origen: ({0}, {1}, {2})",
-  "message-imported-recordedchartpaper": "Datos copiados desde el termómetro de origen.",
-  "message-not-imported-same-pos": "Los termómetros de origen y destino son los mismos.",
-  "block-handbooktitle-airthermo*": "Copiando Datos",
-  "block-handbooktext-airthermo*": "Para copiar datos entre dos termómetros,<br><br>1. Usa el botón derecho sobre el termómetro de origen con un pergamino o cuatro hierbas secas para crear el Papel de Grabado Gráfico.<br>2. Usa el botón derecho sobre el termómetro de destino con el Papel Milimetrado Grabado para copiar los datos del origen.<br><br>Advertencia: No romper el termómetro de origen antes del paso 2, o el paso fallará y se perderán los datos de origen."
+  "message-imported-recordedchartpaper": "Datos copiados desde el Termómetro de origen.",
+  "message-not-imported-same-pos": "El Termómetro de origen y destino es el mismo.",
+  "block-handbooktitle-airthermo*": "Copiado de Datos",
+  "block-handbooktext-airthermo*": "Para copiar datos entre dos Termómetros sigue estos dos pasos:<br><br><strong>Paso 1</strong><br>Usa el Botón Derecho sobre el Termómetro de Origen con un Pergamino o 4 Hierbas Secas para crear el «Papel de Registro Gráfico» y copiar los datos.<br><br><strong>Paso 2</strong><br>Usa el Botón Derecho sobre el Termómetro de Destino con el «Papel de Registro Gráfico» con los datos de origen.<br><br><strong>¡Advertencia!</strong><br>No romper el Termómetro de Origen antes del paso 2 o se perderán los datos de origen."
 }
