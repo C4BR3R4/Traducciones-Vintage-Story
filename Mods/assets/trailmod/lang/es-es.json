@@ -1,6 +1,6 @@
 {
     "_comentarios": "Traducido por C4BR3R4 || Versión del Mod: 1.2.1 || Fecha de modificación: 20250206 || Registro: http://c4br3r4.es/index.php?topic=1307.0",
-
+    "_BLOQUES": "",
     "block-soil-verylow-pretrail": "Tierra Árida (Pisoteado)",
     "block-trail-verylow-new": "Sendero Natural (Tierra Árida)",
     "block-trail-verylow-established": "Camino Consolidado (Tierra Árida)",
@@ -55,7 +55,7 @@
     "block-cairn-tuff-*": "Mojón de Toba",
     "block-cairn-halite-*": "Mojón de Halita",
 
-
+    "_HERRAMIENTAS": "",
     "trailmod:item-trowel-copper": "Paleta de Cobre para Jardín",
     "trailmod:item-trowel-tinbronze": "Paleta de Bronce Estañado para Jardín",
     "trailmod:item-trowel-bismuthbronze": "Paleta de Bronce de Bismuto para Jardín",
@@ -79,7 +79,7 @@
     "trailmod:heldhelp-trampleprotectblock": "Proteger contra aplastamiento",
     "trailmod:heldhelp-removetrampleprotection": "Desproteger contra el aplastamiento",
 
-
+    "_MANUAL": "",
     "trailmod:gamemechanicinfo-trails-title": "Mecánica de Mod ► Caminos y Senderos Naturales" ,
     "trailmod:gamemechanicinfo-trails-text": "<strong>Visión general</strong><br>Los senderos son creados de forma natural por las personas y los animales que se desplazan por el entorno. Estas rutas naturales alteran el paisaje, abriendo senderos, caminos y carreteras a través de espacios naturales antaño vírgenes. Cuanto más transitada sea una ruta, más rápida y consolidada será.",
 
