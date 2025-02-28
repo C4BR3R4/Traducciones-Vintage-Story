@@ -1,0 +1,43 @@
+{
+  "_comentarios": "Traducido por C4BR3R4 || Versión del Mod: 0.8.14 || Fecha de modificación: 20250227 || Registro: http://c4br3r4.es/index.php?topic=1311.0 ",
+  "skill": "\nHabilidad",
+  "skills": "Habilidades",
+  "level": "Nivel",
+  "tier": "Nivel",
+  "experience": "Experiencia ",
+  "abilitypoints": "Puntos de Habilidad",
+  "unlearnpoints": "Puntos de Olvido",
+  "unlearncooldown": "Reutilización del Olvido",
+  "unlearn": "Olvidar",
+  "unlearnAbility": "Olvidar Destreza",
+  "sparringmode": "Entrenamiento",
+  "requirements": "Requisitos",
+
+  "nexttier": "Siguiente Nivel:\n • ",
+  "requiredlevel": "\n\nNivel necesario: ",
+  "currenttier": "\nNivel actual: ",
+  "clicktoincreasetier": "\n\nUsa el Botón Izquierdo para aumentar la Nivel de esta Destreza. Necesitas {0} Puntos de Habilidad (disponibles: {1}).",
+  "clicktodecreasetier": "\n\nUsa el Botón Izquierdo para reducir la Nivel de esta Destreza. Para olvidar esta Destreza necesitas {0} Puntos de Olvido (disponibles: {1}). Sólo puedes disminuir el Nivel de una Destreza una vez cada {2:N2} minutos (tiempo restante: {3:N2} minutos).",
+  "notenoughpoints": "\n\n¡No tienes suficientes puntos!",
+  "you receive": "Recibirás",
+  "levelup": "<font size='18' weight='bold' color='lightgreen'><icon name=plus></icon> Has alcanzado el Nivel {0} de la Habilidad {1} <icon name=plus></icon></font>",
+  "explossondeath": "Al morir has perdido {0:n2} de experiencia en la Habilidad de {1}.",
+
+  "andrequirement": "• Todo lo siguiente: ",
+  "orrequirement": "• Una de las siguientes: ",
+  "exclusivelywith": " ! Incompatible con:\n •",
+  "limited": "Limitado",
+  "righttime": "Ha llegado el momento.",
+  "wrongtime": "No es el momento adecuado.",
+  "specialisations": "Especializaciones",
+
+  "skills-desc": "<strong>Habilidades</strong><br><br><strong>Habilidad</strong><br>La habilidad es un conjunto de tus conocimientos y destrezas en un campo específico. Cada una de tus habilidades tiene un nivel específico. Puedes aumentar este nivel acumulando experiencia realizando actividades relacionadas con la habilidad. Con cada nivel también recibes un 'Punto de Habilidad' para la habilidad concreta. Para ver el resumen de tus Habilidades y Destrezas pulsa la tecla [O] (predeterminada). Puedes cambiar esta tecla en el menú de configuración.<br><br><strong>Destrezas</strong><br>La Destreza te proporciona una ventaja específica en una actividad relacionada con una Habilidad concreta. La mayoría de las Habilidades la componen más de un Nivel. Los Niveles más altos de una Habilidad proporcionan mayores ventajas.<br><br><strong>Niveles</strong><br>Para aumentar el Nivel de una Destreza necesitas un 'Punto de Habilidad' de la Habilidad a la que pertenece la Destreza. Para pasar al siguiente Nivel puedes usar el 'Punto de Habilidad' pulsando sobre la Destreza en el panel de habilidades. También puedes reducir el Nivel de una Destreza.<br><br><strong>Modo Olvidar</strong><br>El 'Modo Olvidar' sirve para reducir el Nivel de una Destreza concreta. Para ello debes cambiar al «Modo Olvidar» pulsando el botón 'Olvidar'. Ahora puedes pulsar sobre la Destreza para reducir su Nivel. Recuerda volver a pulsar el botón Olvidar para desactivar el «Modo Olvidar». Ten en cuenta que necesitas 'Puntos de Olvido' para reducir el Nivel de una Destreza.<br><br><strong>Puntos</strong><br>Al reducir el Nivel de una Destreza, recuperarás el 'Punto de Habilidad' que utilizaste para aumentar el nivel de la Destreza. Mientras que los 'Puntos de Habilidad' están ligados a una Habilidad específica, los 'Puntos de Olvido' se comparten entre todas las Destrezas. Puedes recibir 'Puntos de Olvido' consumiendo objetos específicos. Estos objetos se pueden encontrar en el manual.",
+  "sparring-desc": "<strong>Entrenamiento</strong><br>Si dos jugadores tienen activado el Modo Entrenamiento y se matan, ninguno de los dos perderá Experiencia al morir.",
+
+  "rested-effect": "Descansado",
+  "rested-effectdesc": "Aumenta la Experiencia que obtienes por cada Habilidad en {0:P} durante {1} segundos.",
+  "rested-effectsdesc": "Aumenta la Experiencia que obtienes por cada Habilidad en {0:P}.",
+
+  "skillbook-dsc": "Te concede {1} de Experiencia de la Habilidad {0}.",
+  "skillbook-dsc2": "Te concede la Capacidad de {0}."
+}
