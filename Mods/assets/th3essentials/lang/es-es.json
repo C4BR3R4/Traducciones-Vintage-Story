@@ -1,5 +1,5 @@
 {
-    "_comentarios": "Traducido por C4BR3R4 || Versión del Mod: 2.10.0 || Fecha de la última modificación: 20250125 || Registro: http://c4br3r4.es/index.php?topic=1292",
+    "_comentarios": "Traducido por C4BR3R4 || Versión del Mod: 2.10.0 || Fecha de modificación: 20250213 || Registro: http://c4br3r4.es/index.php?topic=1292 ",
     "config-init": "¡¡¡Configuración de Th3Essentials inicializado con los valores predeterminados!!!",
     "config-file-info": "El archivo de configuración de Th3Essentials se encuentra en {0}",
     "playerconfig-init": "¡¡¡Configuración de Jugadores de Th3Essentials inicializado con los valores predeterminados!!!",
@@ -95,15 +95,15 @@
     "slc-restart-disabled": "El comando de reinicio del servidor está desactivado.",
     "slc-players-none": "¡No hay nadie conectado!",
     "slc-players-ping": "Mostrar el ping.",
-    "slc-kick": "Matar a un jugador.",
+    "slc-kick": "Expulsar a un jugador.",
     "slc-kick-reason": "Motivo por el que se ha expulsado al jugador.",
-    "slc-ban": "Cambiar el estado de expulsión de un jugador.",
-    "slc-ban-mode": "El modo, expulsión (true) o admisión (false)",
-    "slc-ban-time": "El tiempo que el jugador debe ser expulsado [predeterminado = 50]",
+    "slc-ban": "Expulsar permanentemente o admitir a un jugador expulsado.",
+    "slc-ban-mode": "Expulsar ► true | Admitir ► false",
+    "slc-ban-time": "El tiempo que debe ser expulsado [predeterminado = 50]",
     "slc-ban-reason": "Motivo de la expulsión del jugador.",
-    "slc-whitelist": "Cambiar el estado de la Lista de Admisiones de un jugador.",
+    "slc-whitelist": "Cambiar el estado de la Lista de Admisiones.",
     "slc-whitelist-playername": "El nombre del jugador.",
-    "slc-whitelist-mode": "El modo, Lista de Admitidos o sin Lista de Admitidos.",
+    "slc-whitelist-mode": "Activar o desactivar la Lista de Admitidos.",
     "slc-whitelist-time": "El tiempo que el jugador debe permanecer en la Lista de Admitidos [predeterminado = 50]",
     "slc-whitelist-reason": "Motivo por el que el jugador ha sido incluido en la Lista de Admitidos",
     "slc-whitelist-timetype": "Cómo debe interpretarse el parámetro de tiempo [hour,day,month,year] [predeterminado = year]",
@@ -141,5 +141,5 @@
     "wp-exists": "¡El Warp '{0}' ya existe!",
     "wp-item-set": "Objeto del Warp Establecido.",
     "wp-item-unset": "El Objeto del Warp es Inexistente.",
-    "bot-status": "Jugadores: {0}/{1}"
+    "bot-status": "{0} de {1}"
 }
