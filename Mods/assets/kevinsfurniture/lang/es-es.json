@@ -1,0 +1,23 @@
+{
+    "_comentarios": "Kevins Furniture v1.6.5 || Traducido por C4BR3R4 || Última Modificación: 20250405 || Publicación: https://c4br3r4.es/index.php?topic=1344.0 ",
+    "block-nightstand-nightstand-east":"Mesita de Noche",
+	"block-leatherflap-closed-east" :"Puerta de Cuero",
+	"block-canopy-closed-*" :"Dosel",
+	"block-coffeetable-*" : "Mesa de Centro",
+	"block-swingwindow-closed-*" : "Ventana Emplomada Oscilobatiente",
+	"block-slidewindow-closed-*" : "Ventana Emplomada de Guillotina",
+	"block-furroll-head-north" : "Saco de Dormir",
+	"block-tallshelf-north": "Estantería Alta",
+	"block-cabinet-*":"Armario de Cocina",
+	"block-floor_cushion-*": "Cojín de Suelo",
+	"block-tallwindowl-*": "Ventana Batiente Izquierda",
+	"block-tallwindowr-*": "Ventana Batiente Derecha",
+	"block-smallwindows-*": "Ventana Batiente de Doble Hoja",
+	"block-*-nightstandfancy-*": "Mesilla de Noche Elegante",
+	"block-celticbed-*": "Cama de Matrimonio",
+	"block-wardrobe-*": "Barra de Ropa",
+	"block-shoerack-*": "Zapatero",
+
+    "_añadido": "La siguiente cadena se ha creado manualmente",
+	"game:tabname-Kevin's Furniture": "Mobiliario Kevins"
+}
