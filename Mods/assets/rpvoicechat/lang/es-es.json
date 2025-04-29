@@ -1,13 +1,14 @@
 {
-  "_comentarios": "RP Voice Chat v2.3.16 || Traducido por C4BR3R4 || Última Modificación: 20250402 || Publicación: http://c4br3r4.es/index.php?topic=1301.0 ",
-  "_comentario-2": "Al final del archivo se encuentran las cadenas eliminadas en versiones posteriores, para mantener la compatibilidad (desde la v2.3.12).",
+  "_comentario-1": "RP Voice Chat v2.3.16 || Enlace del Mod: https://mods.vintagestory.at/rpvoicechat ",
+  "_comentario-2": "Traducido por C4BR3R4 || Última Modificación: 29/04/2025 || Publicación: http://c4br3r4.es/index.php?topic=1301.0 ",
+  "_comentario-3": "Al final del archivo se encuentran las cadenas eliminadas en versiones posteriores, para mantener la compatibilidad (desde la v2.3.12).",
 
   "game:tabname-rpvoicechat": "RPVoiceChat",
 
   "item-handbell": "Campanilla",
   "item-royalhorn": "Cuerno Real",
   "item-royalhornhandle": "Boquilla de Cuerno",
-  "item-royalhornhead": "Pabellón de Cuerno",
+  "item-royalhornhead-blackbronze": "Pabellón de Cuerno",
   "item-handheldradio": "Radio Portátil",
   "item-telegraphwire": "Cable Telegráfico",
   "item-radiocase": "Caja de Radio",
@@ -18,8 +19,9 @@
   "itemdesc-handbell": "<br>Una pequeña Campana de Mano. La plata de la campana parece tener un extraño brillo morado...",
   "itemdesc-smallbellparts-silver": "<br>Las piezas más complejas de una campana pequeña.<br><br><font color='gray'><i>Estas piezas también las puedes acoplar a las puertas para anunciar cuando entra o sale alguien.</i></font>",
   "itemdesc-royalhorn": "<br>Un cuerno potente, utilizado para anunciar la llegada de los grandes de este mundo.",
-  "itemdesc-perfectgoathorn": "Un cuerno de cabra en perfecto estado. Es raro encontrar uno de esta calidad.",
-  "itemdesc-warhorn": "Un cuerno de guerra tosco, utilizado para reunir incluso a los aliados más distantes.",
+  "itemdesc-perfectgoathorn": "<br>Un cuerno de cabra en perfecto estado. Es raro encontrar uno de esta calidad.",
+  "itemdesc-warhorn": "<br>Un cuerno de guerra tosco, utilizado para reunir incluso a los aliados más distantes.",
+  "itemdesc-royalhornhead-blackbronze": "<br>Pebellón de la Campana de Cuerno, de Bronce Negro.",
 
   "block-churchbellmold-raw-part-brass-bottom": "Molde en Crudo de Pieza Inferior de Campana",
   "block-churchbellmold-raw-part-brass-middle": "Molde en Crudo de Pieza Intermedia de Campana",
@@ -94,10 +96,10 @@
   "Command.WallThicknessWeighting.Help": "El grosor de la pared se divide por esta compensación para eliminar la ganancia en el límite de alta frecuencia del filtro, simulando la amortiguación. Los valores inferiores a 1 aumentarán el efecto de amortiguación y los superiores a 1 lo reducirán. El valor predeterminado es <strong>1.5f</strong>.",
   "Command.WallThicknessWeighting.Success": "La compensación del grosor de la pared se ha determinado en {0}.",
 
-  "Hotkey.ModMenu": "Mod 'RPVoiceChat' ► Abrir el Menú del Mod",
-  "Hotkey.VoiceLevel": "Mod 'RPVoiceChat' ► Cambiar la Potencia de la Voz",
-  "Hotkey.PTT": "Mod 'RPVoiceChat' ► Pulsar para Hablar",
-  "Hotkey.Mute": "Mod 'RPVoiceChat' ► Silenciar",
+  "Hotkey.ModMenu": "MRPVoiceChat ► Abrir el Menú del Mod",
+  "Hotkey.VoiceLevel": "RPVoiceChat ► Cambiar la Potencia de la Voz",
+  "Hotkey.PTT": "RPVoiceChat ► Pulsar para Hablar",
+  "Hotkey.Mute": "RPVoiceChat ► Silenciar",
 
   "Gui.AudioWizardDialog.TitleBar": "Asistente de Sonido",
   "Gui.AudioWizardDialog.FirstParagraph": "Bienvenido al Asistente de Configuración de Sonido.\nAhora obtendrás ayuda para configurar tu micrófono.\n\nDeberías poder escucharte ahora mismo, si no es así asegúrate de seleccionar el dispositivo correspondiente:",
@@ -193,7 +195,11 @@
   "bells-title": "RP Voice Chat ► Campanas",
   "bells-text": "<strong>RP Voice Chat ► Campanas</strong><br /><br />Bells have always announced victories, defeats, festivities or deaths. You will find a bell for each use:<br /><br /><icon name=wpCircle></icon><a href='handbooksearch://handbell'>Handbell</a>: short-range hand bell<br /><icon name=wpCircle></icon><a href='handbooksearch://callbell'>Callbell</a>: counter bell to alert of its presence<br /><icon name=wpCircle></icon><a href='handbooksearch://Small bell parts'>Small bell parts</a>: element used for the first two items but usable on doors<br /><icon name=wpCircle></icon><a href='handbooksearch://Carillon bell'>Carillon bell</a>: bell emitting a different tone depending on the metal used<br /><icon name=wpCircle></icon><a href='handbooksearch://Church bell'>Church bell</a>: bell so big that it has to be welded<br />",
   "telegraph-title": "RP Voice Chat ► Telégrafo",
-  "telegraph-text": "¡ Muy pronto !"
+  "telegraph-text": "¡ Muy pronto !",
+
+
+  "_obsoleto-2.3.17": "Las siguientes cadenas ya no existen en el Archivo de Idioma de la v2.3.17",
+  "item-royalhornhead": "Pabellón de Cuerno",
 
   "_obsoleto-2.3.16": "Las siguientes cadenas ya no existen en el Archivo de Idioma de la v2.3.16",
   "block-carillonbellmold-raw-carillonbell": "Molde en Crudo de Carillón",
