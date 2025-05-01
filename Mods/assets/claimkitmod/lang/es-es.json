@@ -1,0 +1,23 @@
+{
+    "_comentarios-1": "ClaimKit Mod v1.0.1 || Enlace del Mod: https://mods.vintagestory.at/show/mod/23438 ",
+    "_comentarios-2": "Personalizado por C4BR3R4 || Última Modificación: 01/05/2025 || Publicación: https://c4br3r4.es/index.php?topic=1360.0 ",
+
+    "cmd-claimkit": "Obtener el Equipamiento.",
+    "cmd-setkit": "Determinar/actualizar los elementos de tu Cinturón como Equipamiento.",
+    "kit-already-claimed": "Ya has obtenido este Equipamiento. Sólo se puede obtener una vez.",
+    "kit-changed": "Se han actualizado los elementos del Equipamiento.",
+    "kit-claimed": "Ya has obtenido este Equipamiento.",
+    "kit-empty": "El Equipamiento no contiene elementos. Aún no ha sido configurado (por un administrador).",
+    "no-permission": "No tienes permiso para usar este comando.",
+    "hotbar-not-empty": "Tu Cinturón debe estar vacío, antes de poder obtener el Equipamiento.",
+
+    "prison-remaining": "Tiempo Restante: {0} horas",
+    "prison-reason": "Motivo del Encarcelamiento: {0}",
+    "not-in-prison": "No se encuentra encarcelado.",
+    "player-not-found": "No se encuentra el nombre del jugador. (La introducción es sensible a Mayúsculas).",
+    "punishment-applied": "El jugador ha sido Encarcelado.",
+    "punishment-cleared": "El jugador ha sido Liberado.",
+    "invalid-duration": "El argumento de tiempo no es válido. Debes usar el formato: 1d2h30m",
+    "usage-castigar": "Uso: /castigar [jugador] [duración] [motivo]",
+    "usage-liberar": "Uso: /liberar [jugador]"
+}
