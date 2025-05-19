@@ -1,0 +1,14 @@
+{
+    "_comentarios-1": "Valrossens Waypoint Legend/Filter v1.0.9 || Enlace de VS ModDB: https://mods.vintagestory.at/show/mod/22391 ",
+    "_comentarios-2": "Traducido por C4BR3R4 || Última Modificación: 27/04/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1357.0 ",
+
+    "game:waypoint-icons-info": "Act/Des por Icono",
+    "game:waypoint-icons-sort-option-name": "Nombre",
+    "game:waypoint-icons-sort-option-icon": "Icono",
+    "game:waypoint-icons-sort-option-disabled": "Desactivadas",
+    "game:waypoint-icons-sort-option-enabled": "Activadas",
+    "game:waypoint-icons-search-placeholder": "Buscar marcas...",
+    "game:waypoint-icons-toggle-all-off": "V Todo",
+    "game:waypoint-icons-toggle-all-on": "X Todo",
+    "game:waypoint-icons-no-waypoints": "No hay Marcas"
+}
