@@ -1,7 +1,6 @@
 {
-    "_comentarios-1": "Cartwright´s Caravan v1.5.0 || Enlace de VS ModDB: https://mods.vintagestory.at/cartwrightscaravan ",
-    "_comentarios-2": "Traducido por C4BR3R4 || Última Modificación: 23/05/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1355.0 ",
-    "Mod: {0}": "<br><font color='gray'><i>Integrado por '{0}'.</i></font>",
+    "_comentarios-1": "Cartwright´s Caravan v1.5.1 || Enlace de VS ModDB: https://mods.vintagestory.at/cartwrightscaravan ",
+    "_comentarios-2": "Traducido por C4BR3R4 || Última Modificación: 30/05/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1355.0 ",
 
 	"item-dead-*-basiccart-*": "Carreta Rota",
 	"item-*-basiccart-classic-acacia": "Carreta Ancha de Acacia",
@@ -467,7 +466,6 @@
 	"itemdesc-*-sled-basicsled-*": "<font color='orange'>Solo se puede recoger en un Hueco para Mochila.</font>",
 	"itemdesc-cartsmisc-unwoader": "Puede utilizarse para convertir el Tinte de Turba en Tinte Azul, pero no es lo suficientemente fino como para utilizarse como adhesivo.",
 
-
 	"game:tabname-cartwrightscaravan": "Carretas",
 	"game:tabname-cartwrightscaravansigns": "Carretas: Carteles",
 
@@ -495,8 +493,6 @@
 	"setting-sledropetieable": "Trineos",
 	"setting-cartropetieable": "Carretas Anchas y Estrechas",
 
-
-    "_añadido_por_nodo": "Las siguientes cadenas se han creado manualmente usando el nodo que aparece en el juego",
     "creature-cartwrightscaravan:*-*-*-*-selectionbox-MainGripAP": "<br><font color='cornflowerblue'>• Posición de Rienda •</font>",
     "creature-cartwrightscaravan:*-*-*-*-selectionbox-RiderGripAP": "<br><font color='cornflowerblue'>• Posición de Condución •</font>",
     "creature-cartwrightscaravan:*-*-*-*-selectionbox-BlanketAP": "<br><font color='cornflowerblue'>• Anclaje de Manta •</font>",
@@ -520,7 +516,6 @@
     "creature-cartwrightscaravan:sled-basicsled-*-selectionbox-FrontStorageAP": "<br><font color='cornflowerblue'>• Posición de Almacenamiento •</font>",
     "creature-cartwrightscaravan:sled-basicsled-*-selectionbox-MidStorageAP": "<br><font color='cornflowerblue'>• Posición de Almacenamiento •</font>",
     "creature-cartwrightscaravan:sled-basicsled-*-selectionbox-BackStorageAP": "<br><font color='cornflowerblue'>• Posición de Almacenamiento •</font>",
-    "creature-cartwrightscaravan:sled-basicsled-*-selectionbox-*Light*": "<br><font color='cornflowerblue'>• Posición de Señalización •</font>",
+    "creature-cartwrightscaravan:sled-basicsled-*-selectionbox-*Light*": "<br><font color='cornflowerblue'>• Posición de Señalización •</font>"
 
-    "_fin": "Línea final para evitar que se dañe el Archivo de Idioma."
 }
