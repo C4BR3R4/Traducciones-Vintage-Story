@@ -1,0 +1,13 @@
+{
+    "_comentarios-1": "Goblin Ears v2.2.1 || Enlace de VS ModDB: https://mods.vintagestory.at/goblinears ",
+    "_comentarios-2": "Traducido por C4BR3R4 || Última Modificación: 23/04/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1353.0 ",
+
+	"game:skinpart-ears": "Orejas",
+	"game:skinpart-ears-none": "Ninguna",
+	"game:skinpart-ears-variant1": "Elfo",
+	"game:skinpart-ears-variant2": "Duende",
+	"game:skinpart-ears-variant3": "Pequeñas",
+	"game:skinpart-ears-variant4": "Puntiagudas",
+	"game:skinpart-ears-variant5": "Desgarradas",
+	"game:skinpart-ears-variant6": "Duende - Prominentes"
+}
