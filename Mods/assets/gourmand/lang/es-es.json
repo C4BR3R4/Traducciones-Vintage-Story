@@ -1,12 +1,12 @@
 {
-  "_comentario-1": "Gourmand v1.6.7 || Enlace del Mod: https://mods.vintagestory.at/show/mod/14390 ",
-  "_comentario-2": "Traducido por C4BR3R4 || Última Modificación: 27/04/2025 || Publicación: https://c4br3r4.es/index.php?topic=1343.0 ",
+  "// Gourmand v1.7.4 || Enlace de VS ModDB: https://mods.vintagestory.at/show/mod/14390 ": "",
+  "// Traducido por C4BR3R4 || Última Modificación: 13/09/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1343.0 ": "",
 
   "gourmand:playerinfo-nutrition-Gourmand": "Gastronomía",
-  "new-food-eaten": "<font color='orange'>Has obtenido <strong>{0}</strong> puntos Gastronómicos por comer nuevos alimentos.</font>",
+  "new-food-eaten": "<font color='cornflowerblue'>[i]</font> Has obtenido <strong>{0}</strong> puntos en Gastronomía por comer nuevos alimentos.",
   "tabname-gourmand" : "Gastronomía",
 
-  // Texto en la pestaña de Gastronomía
+  "// Texto en la pestaña de Gastronomía ": "",
   "earned-points": "Puntos Conseguidos:",
   "lost-foods-count": "Alimentos Perdidos:",
   "earned-health": "Salud Obtenida:",
@@ -14,7 +14,7 @@
   "until-points": "Puntos Máximos:",
   "lost-foods": "Alimentos Perdidos",
   "lost-foods-desc": "Los alimentos consumidos que se han perdido al morir.",
-  "lost-foods-none": "¡No has perido ningún alimento!",
+  "lost-foods-none": "¡No has perdido ningún alimento!",
   "missing-foods-none": "Todos los alimentos consumidos",
   "eaten-foods": "Alimentos Ingeridos: {0}/{1}",
   "eaten-foods-no-bonus": "Alimentos Ingeridos: {0}",
@@ -24,10 +24,12 @@
   "more-entries": "más",
   "infinite-points": "infinitos",
 
-  // Mostrado en la información del elemento
-  "available-points": "Puntos Gastronómicos a Obtener: {0}",
+  "// Mostrado en la información del elemento ": "",
+  "available-points": "› Puntos Gastronómicos: <font color='cornflowerblue'>{0}</font>",
+  "available-points-vague": "Puntos Gastronómicos Disponibles",
+  "gourmand:already-eaten": "Puntos Gastronómicos Obtenidos",
 
-  // Nombres y descripciones de las categorías de alimentos
+  "// Nombres y descripciones de las categorías de alimentos ": "",
   "food-cat-name": "Resto de Alimentos",
   "food-cat-desc": "<font opacity='0.6'><i>Cada uno de los tipos de alimentos, clasificado por su código de Objeto o Bloque.</i></font>",
 
@@ -38,7 +40,15 @@
   "meal-category-cat-desc": "<font opacity='0.6'><i>Comidas cocinadas, clasificadas por su categoría de elaboración: Estofado de Carne, Estofado de Verduras, Sopa, Gachas, Mermelada y Huevos Revueltos.</i></font>",
   "expandedfoods-meal-desc": "<font opacity='0.6'><i>Comidas cocinadas, clasificadas por su categoría de elaboración: Estofado de Carne, Estofado de Verduras, Sopa, Gachas, Mermelada y Huevos Revueltos.\nTambién se incluyen los alimentos del mod 'Expanded Foods' <a href='https://vsaculinaryartillery.miraheze.org/wiki/EF:Expanded_Meals'>[wiki]</a>  <a href='handbook://expandedfoodsguide3'>[Manual]</a>: Gratinados, Compota, Ensalada, Pasta Fría, Pasta Caliente, Pilaf y Yogur.</i></font>",
 
-  // Solo con el Mod Expanded Foods https://mods.vintagestory.at/expandedfoods
+  "// Solo con el Mod «Expanded Foods» https://mods.vintagestory.at/expandedfoods ": "",
+  "flatbread-perfect-cat-name": "Pan de Molde",
+  "flatbread-perfect-cat-desc": "Un pan perfectamente plano.",
+  "lavash-perfect-cat-name": "Lavash",
+  "lavash-perfect-cat-desc": "Lavash perfectamente cocinado.",
+  "shawarma-perfect-cat-name": "Shawarma",
+  "shawarma-perfect-cat-desc": "Todo tipo de envolturas de Shawarma, cada una con un delicioso relleno.",
+
+
   "hardtack-bake-cat-name": "Pastas Duras",
   "hardtack-bake-cat-desc": "<font opacity='0.6'><i>Tan fácil como el pan, pero con una vida útil más larga. <a href='https://vsaculinaryartillery.miraheze.org/wiki/EF:Expanded_Foods#Hardtack'>[wiki]</a>  <a href='handbook://expandedfoodsguide2'>[Manual]</a></i></font>",
   "sweetsavory-cat-name": "Dulces y Salados",
@@ -51,6 +61,10 @@
   "deluxe-cat-desc": "<font opacity='0.6'><i>Alimentos fritos rociados con diversas Salsas y Siropes. <a href='https://vsaculinaryartillery.miraheze.org/wiki/EF:Expanded_Foods#Breaded_Food'>[wiki]</a>  <a href='handbook://expandedfoodsguide2'>[Manual]</a></i></font>",
   "vegetablejuice-cat-name": "Zumo de Vegetales",
   "vegetablejuice-cat-desc": "<font opacity='0.6'><i>Todo tipo de zumos vegetales. Se pueden beber en cualquier recipiente potable.</i></font>",
+
+  "// Solo con el Mod «Make Tea Forked» https://mods.vintagestory.at/maketeaforked ": "",
+  "tea-cat-name": "Teas",
+  "tea-cat-desc": "Every kind of tea. They can be drunk from any potable container.",
 
   "pickled-food-cat-name": "Alimentos Encurtidos",
   "pickled-food-cat-desc": "<font opacity='0.6'><i>Verduras Encurtidas.</i></font>",
@@ -113,8 +127,6 @@
   "hint-meal-pastacold": "Ensalada de Pasta Fría",
   "hint-meal-pastahot": "Pasta Cocinada Caliente",
 
-  "_obsoleto-1.6.7": "Las siguientes cadenas ya no existen en el Archivo de Idioma de la v1.6.7",
-  "gourmand:new-food-eaten": "<font color='orange'>Has obtenido <strong>{0}</strong> puntos Gastronómicos por comer nuevos alimentos.</font>",
-
-  "_fin": "Línea final para evitar que se dañe el Archivo de Idioma."
+  "// Inexistentes en la v1.6.7 ": "",
+  "gourmand:new-food-eaten": "<font color='orange'>Has obtenido <strong>{0}</strong> puntos Gastronómicos por comer nuevos alimentos.</font>"
 }
