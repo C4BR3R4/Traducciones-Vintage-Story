@@ -1,0 +1,25 @@
+{
+  "// Bone Broth v1.2.1 || Enlace de VS ModDB: https://mods.vintagestory.at/bonebroth ": "",
+  "// Traducido por C4BR3R4 || Última Modificación: 19/09/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1388.0 ": "",
+
+  "item-bonebrothportion": "Caldo de Hueso",
+  "incontainer-item-bonebrothportion": "Caldo de Hueso",
+  "recipeingredient-item-bonebrothportion-insturmentalcase": "Caldo de Hueso",
+  "meal-ingredient-soup-secondary-bonebrothportion": "Caldo de Hueso",
+  "item-vegetablebrothportion": "Caldo de Verduras",
+  "incontainer-item-vegetablebrothportion": "Caldo de Verduras",
+  "recipeingredient-item-vegetablebrothportion-insturmentalcase": "Caldo de Verduras",
+  "meal-ingredient-soup-secondary-vegetablebrothportion": "Caldo de Verduras",
+  "item-chickenbrothportion": "Caldo de Pollo",
+  "incontainer-item-chickenbrothportion": "Caldo de Pollo",
+  "recipeingredient-item-chickenportion-insturmentalcase": "Caldo de Pollo",
+  "meal-ingredient-soup-secondary-chickenbrothportion": "Caldo de Pollo",
+  "item-redmeatbrothportion": "Caldo de Carne",
+  "incontainer-item-redmeatbrothportion": "Caldo de Carne",
+  "recipeingredient-item-redmeatportion-insturmentalcase": "Caldo de Carne",
+  "meal-ingredient-soup-secondary-redmeatbrothportion": "Caldo de Carne",
+  "item-fishbrothportion": "Caldo de Pescado",
+  "incontainer-item-fishbrothportion": "Caldo de Pescado",
+  "recipeingredient-item-fishportion-insturmentalcase": "Caldo de Pescado",
+  "meal-ingredient-soup-secondary-fishbrothportion": "Caldo de Pescado"
+}
