@@ -1,0 +1,25 @@
+{
+  "// TrashMod v1.0.6 || Enlace de VS ModDB: https://mods.vintagestory.at/show/mod/30063 ": "",
+  "// Traducido por C4BR3R4 || Última Modificación: 18/09/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1387.0 ": "",
+
+  "block-trashcan": "Basurero",
+  "block-trashbin": "Papelera",
+  "item-trashbag": "Bolsa de Basura",
+  "block-dumpster": "Contenedor de Basura",
+
+
+
+  "// NO FUNCIONAN ": "",
+  "// Añadida para traducir el botón «Empty» ": "",
+  "inventory-empty": "Vaciar",
+
+  "// Añadidas desde GitHub en los archivos de la ruta 'trashmod/src/' ": "",
+  "[TrashMod] Dumpster received GUI packet from player. {0} clicked the Empty button.": "[TrashMod] El Contenedor de Basura recibió un paquete GUI del jugador. {0} ha pulsado el botón «Vaciar».",
+  "[TrashMod] Inventory has been emptied.": "[TrashMod] El inventario se ha vaciado.",
+  "[TrashMod] TrashSlot has been emptied.": "[TrashMod] La Papelera se ha vaciado.",
+  "[TrashMod] Dumpster inventory has been emptied.": "[TrashMod] El inventario del Contenedor de Basura se ha vaciado.",
+  "[TrashMod] Dumpster Empty button has been clicked by client. Sending packet to {0}.": "[TrashMod] El cliente ha pulsado el botón «Vaciar». Enviando paquete a {0}.",
+  "[TrashMod] TrashMod initialized on ": "[TrashMod] TrashMod inicializado en ",
+  "[TrashMod] TrashMod server-side initialized.": "[TrashMod] TrashMod inicializado en el lado del servidor.",
+  "[TrashMod] TrashMod client-side initialized.": "[TrashMod] TrashMod inicializado en el lado del cliente."
+}
