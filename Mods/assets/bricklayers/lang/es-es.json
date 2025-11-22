@@ -1,6 +1,6 @@
 {
-    "//comentarios-1": "Bricklayers v3.1.0-pre.1 || Enlace de VS ModDB: https://mods.vintagestory.at/bricklayers ",
-    "//comentarios-2": "Traducido por C4BR3R4 || Última Modificación: 07/08/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1363.0 ",
+    "// Bricklayers v3.1.4 || Enlace de VS ModDB: https://mods.vintagestory.at/bricklayers ": "",
+    "// Traducido por C4BR3R4 || Última Modificación: 24/SEP/2025 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1363.0 ": "",
 
     "bricklayers:settings_title": "Configuración de Bricklayers",
 
@@ -361,7 +361,7 @@
     "bricklayers:item-clayrawtile-raw-palered": "Azulejo Crudo con Porcelana Rosa",
     "bricklayers:item-clayrawtile-raw-peach": "Azulejo Crudo con Porcelana Color Melocotón",
     "bricklayers:item-clayrawtile-raw-sunflower": "Azulejo Crudo con Porcelana Color Girasol",
-    "bricklayers:item-clayrawtile-raw-white": "Azulejo Crudo con Porcelana Color Blanco Nieve",
+    "bricklayers:item-clayrawtile-raw-white": "Azulejo Crudo con Porcelana Blanco Nieve",
 
     "bricklayers:item-clayrawtile-burnt-black": "Azulejo Endurecido Negro",
     "bricklayers:item-clayrawtile-burnt-blurple": "Azulejo Endurecido Violeta",
@@ -384,7 +384,7 @@
     "bricklayers:item-clayrawtile-burnt-palered": "Azulejo Endurecido Porcelánico Rosa",
     "bricklayers:item-clayrawtile-burnt-peach": "Azulejo Endurecido Porcelánico Color Melocotón",
     "bricklayers:item-clayrawtile-burnt-sunflower": "Azulejo Endurecido Porcelánico Color Girasol",
-    "bricklayers:item-clayrawtile-burnt-white": "Azulejo Endurecido Porcelánico Color Blanco Nieve",
+    "bricklayers:item-clayrawtile-burnt-white": "Azulejo Endurecido Porcelánico Blanco Nieve",
 
     "bricklayers:itemdesc-clayrawtile-burnt-lavender": "Material: Porcelana<br><br>Un Azulejo de Porcelana recién Cocido.\n",
     "bricklayers:itemdesc-clayrawtile-burnt-paleblue": "Material: Porcelana<br><br>Un Azulejo de Porcelana recién Cocido.\n",
@@ -417,7 +417,7 @@
     "bricklayers:block-claytiles-dull-palered": "Bloque de Bizcocho Cerámico Rosa",
     "bricklayers:block-claytiles-dull-peach": "Bloque de Bizcocho Cerámico Color Melocotón",
     "bricklayers:block-claytiles-dull-sunflower": "Bloque de Bizcocho Cerámico Color Girasol",
-    "bricklayers:block-claytiles-dull-white": "Bloque de Bizcocho Cerámico Color Blanco Nieve",
+    "bricklayers:block-claytiles-dull-white": "Bloque de Bizcocho Cerámico Blanco Nieve",
 
     "game:item-clay-lavender": "Porcelana Color Lavanda",
     "game:item-clay-paleblue": "Porcelana Azul Cielo",
@@ -425,7 +425,7 @@
     "game:item-clay-palered": "Porcelana Rosa",
     "game:item-clay-peach": "Porcelana Color Melocotón",
     "game:item-clay-sunflower": "Porcelana Color Girasol",
-    "game:item-clay-white": "Porcelana Color Blanco Nieve",
+    "game:item-clay-white": "Porcelana Blanco Nieve",
 
     "bricklayers:block-wateringcancolored-raw-malachite": "Regadera Cruda de Arcilla Verde Esmeralda",
 
@@ -435,7 +435,7 @@
     "bricklayers:block-wateringcancolored-raw-palered": "Regadera Cruda de Porcelana Rosa",
     "bricklayers:block-wateringcancolored-raw-peach": "Regadera Cruda de Porcelana Color Melocotón",
     "bricklayers:block-wateringcancolored-raw-sunflower": "Regadera Cruda de Porcelana Color Girasol",
-    "bricklayers:block-wateringcancolored-raw-white": "Regadera Cruda de Porcelana Color Blanco Nieve",
+    "bricklayers:block-wateringcancolored-raw-white": "Regadera Cruda de Porcelana Blanco Nieve",
 
     "bricklayers:block-wateringcancolored-burnt-blurple": "Regadera Violeta",
     "bricklayers:block-wateringcancolored-burnt-green": "Regadera Verde",
@@ -448,7 +448,7 @@
     "bricklayers:block-wateringcancolored-burnt-palered": "Regadera Porcelánica Rosa",
     "bricklayers:block-wateringcancolored-burnt-peach": "Regadera Porcelánica Color Melocotón",
     "bricklayers:block-wateringcancolored-burnt-sunflower": "Regadera Porcelánica Color Girasol",
-    "bricklayers:block-wateringcancolored-burnt-white": "Regadera Porcelánica Color Blanco Nieve",
+    "bricklayers:block-wateringcancolored-burnt-white": "Regadera Porcelánica Blanco Nieve",
 
     "bricklayers:blockdesc-wateringcancolored-burnt-lavender": "Capacidad: 10 litros.",
     "bricklayers:blockdesc-wateringcancolored-burnt-paleblue": "Capacidad: 10 litros.",
@@ -476,7 +476,7 @@
     "bricklayers:block-flowerpotcolored-raw-palered": "Florero Crudo con Porcelana Rosa",
     "bricklayers:block-flowerpotcolored-raw-peach": "Florero Crudo con Porcelana Color Melocotón",
     "bricklayers:block-flowerpotcolored-raw-sunflower": "Florero Crudo con Porcelana Color Girasol",
-    "bricklayers:block-flowerpotcolored-raw-white": "Florero Crudo con Porcelana Color Blanco Nieve",
+    "bricklayers:block-flowerpotcolored-raw-white": "Florero Crudo con Porcelana Blanco Nieve",
 
     "bricklayers:block-flowerpotcolored-burnt-blurple": "Florero Violeta",
     "bricklayers:block-flowerpotcolored-burnt-green": "Florero Verde",
@@ -489,7 +489,7 @@
     "bricklayers:block-flowerpotcolored-burnt-palered": "Florero Porcelánico Rosa",
     "bricklayers:block-flowerpotcolored-burnt-peach": "Florero Porcelánico Color Melocotón",
     "bricklayers:block-flowerpotcolored-burnt-sunflower": "Florero Porcelánico Color Girasol",
-    "bricklayers:block-flowerpotcolored-burnt-white": "Florero Porcelánico Color Blanco Nieve",
+    "bricklayers:block-flowerpotcolored-burnt-white": "Florero Porcelánico Blanco Nieve",
 
     "bricklayers:block-vatplantersmall-raw-blue": "Tinaja Cruda Azul",
     "bricklayers:block-vatplantersmall-raw-fire": "Tinaja Cruda Crema",
@@ -502,7 +502,7 @@
     "bricklayers:block-vatplantersmall-raw-palered": "Tinaja Cruda de Porcelana Rosa",
     "bricklayers:block-vatplantersmall-raw-peach": "Tinaja Cruda de Porcelana Color Melocotón",
     "bricklayers:block-vatplantersmall-raw-sunflower": "Tinaja Cruda de Porcelana Color Girasol",
-    "bricklayers:block-vatplantersmall-raw-white": "Tinaja Cruda de Porcelana Color Blanco Nieve",
+    "bricklayers:block-vatplantersmall-raw-white": "Tinaja Cruda de Porcelana Blanco Nieve",
 
     "bricklayers:block-vatplantersmall-fired-black": "Tinaja Negra",
     "bricklayers:block-vatplantersmall-fired-blue": "Tinaja Azul",
@@ -525,7 +525,7 @@
     "bricklayers:block-vatplantersmall-fired-palered": "Tinaja Porcelánica Rosa",
     "bricklayers:block-vatplantersmall-fired-peach": "Tinaja Porcelánica Color Melocotón",
     "bricklayers:block-vatplantersmall-fired-sunflower": "Tinaja Porcelánica Color Girasol",
-    "bricklayers:block-vatplantersmall-fired-white": "Tinaja Porcelánica Color Blanco Nieve",
+    "bricklayers:block-vatplantersmall-fired-white": "Tinaja Porcelánica Blanco Nieve",
 
     "bricklayers:blockcraftdesc-vatplantersmall-raw-*": "Para líquidos, decoración y plantas.\n",
 
@@ -559,30 +559,30 @@
 
     "bricklayers:blockdesc-crockcolored-burned-*": "Un Tarro con capacidad para cuatro Raciones.\n",
     "bricklayers:blockdesc-crockcolored-raw-*": "Un Tarro con capacidad para cuatro Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-raw-lavender": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-raw-paleblue": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-raw-palegreen": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-raw-palered": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-raw-peach": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-raw-sunflower": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-raw-white": "Un Tarro de fina Porcelana Blanca, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-burned-lavender": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-burned-paleblue": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-burned-palegreen": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-burned-palered": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-burned-peach": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-burned-sunflower": "Un Tarro de fina Porcelana, con capacidad para 6 Raciones.\n",
-    "bricklayers:blockdesc-crockcolored-burned-white": "Un Tarro de fina Porcelana Blanca, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-raw-lavender": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-raw-paleblue": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-raw-palegreen": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-raw-palered": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-raw-peach": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-raw-sunflower": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-raw-white": "Un Tarro de Porcelana Blanca fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-burned-lavender": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-burned-paleblue": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-burned-palegreen": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-burned-palered": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-burned-peach": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-burned-sunflower": "Un Tarro de Porcelana fina, con capacidad para 6 Raciones.\n",
+    "bricklayers:blockdesc-crockcolored-burned-white": "Un Tarro de Porcelana Blanca fina, con capacidad para 6 Raciones.\n",
 
     "bricklayers:block-crockcolored-raw-malachite": "Tarro Crudo Verde Esmeralda",
 
-    "bricklayers:block-crockcolored-raw-lavender": "Tarro Crudo con Porcelana Color Lavanda",
-    "bricklayers:block-crockcolored-raw-paleblue": "Tarro Crudo con Porcelana Azul Cielo",
-    "bricklayers:block-crockcolored-raw-palegreen": "Tarro Crudo con Porcelana Verde Menta",
-    "bricklayers:block-crockcolored-raw-palered": "Tarro Crudo con Porcelana Rosa",
-    "bricklayers:block-crockcolored-raw-peach": "Tarro Crudo con Porcelana Color Melocotón",
-    "bricklayers:block-crockcolored-raw-sunflower": "Tarro Crudo con Porcelana Color Girasol",
-    "bricklayers:block-crockcolored-raw-white": "Tarro Crudo con Porcelana Color Blanco Nieve",
+    "bricklayers:block-crockcolored-raw-lavender": "Tarro de Porcelana en Crudo Color Lavanda",
+    "bricklayers:block-crockcolored-raw-paleblue": "Tarro de Porcelana en Crudo Azul Cielo",
+    "bricklayers:block-crockcolored-raw-palegreen": "Tarro de Porcelana en Crudo Verde Menta",
+    "bricklayers:block-crockcolored-raw-palered": "Tarro de Porcelana en Crudo Rosa",
+    "bricklayers:block-crockcolored-raw-peach": "Tarro de Porcelana en Crudo Color Melocotón",
+    "bricklayers:block-crockcolored-raw-sunflower": "Tarro de Porcelana en Crudo Color Girasol",
+    "bricklayers:block-crockcolored-raw-white": "Tarro de Porcelana en Crudo Blanco Nieve",
 
     "bricklayers:block-crockcolored-burned-blurple": "Tarro Violeta",
     "bricklayers:block-crockcolored-burned-green": "Tarro Verde",
@@ -595,7 +595,7 @@
     "bricklayers:block-crockcolored-burned-palered": "Tarro Porcelánico Rosa",
     "bricklayers:block-crockcolored-burned-peach": "Tarro Porcelánico Color Melocotón",
     "bricklayers:block-crockcolored-burned-sunflower": "Tarro Porcelánico Color Girasol",
-    "bricklayers:block-crockcolored-burned-white": "Tarro Porcelánico Color Blanco Nieve",
+    "bricklayers:block-crockcolored-burned-white": "Tarro Porcelánico Blanco Nieve",
 
     "bricklayers:block-plantercolored-raw-malachite": "Maceta Cruda Verde Esmeralda",
 
@@ -605,7 +605,20 @@
     "bricklayers:block-plantercolored-raw-palered": "Maceta Cruda de Porcelana Rosa",
     "bricklayers:block-plantercolored-raw-peach": "Maceta Cruda de Porcelana Color Melocotón",
     "bricklayers:block-plantercolored-raw-sunflower": "Maceta Cruda de Porcelana Color Girasol",
-    "bricklayers:block-plantercolored-raw-white": "Maceta Cruda de Porcelana Color Blanco Nieve",
+    "bricklayers:block-plantercolored-raw-white": "Maceta Cruda de Porcelana Blanco Nieve",
+
+	"bricklayers:block-crockcolored-meal-blurple": "Tarro Violeta con {0}",
+	"bricklayers:block-crockcolored-meal-green": "Tarro Verde con {0}",
+	"bricklayers:block-crockcolored-meal-malachite": "Tarro Verde Esmeralda con {0}",
+	"bricklayers:block-crockcolored-meal-purple": "Tarro Morado con {0}",
+
+	"bricklayers:block-crockcolored-meal-lavender": "Tarro Porcelánico Color Lavanda con {0}",
+	"bricklayers:block-crockcolored-meal-paleblue": "Tarro Porcelánico Azul Cielo con {0}",
+	"bricklayers:block-crockcolored-meal-palegreen": "Tarro Porcelánico Verde Menta con {0}",
+	"bricklayers:block-crockcolored-meal-palered": "Tarro Porcelánico Rosa con {0}",
+	"bricklayers:block-crockcolored-meal-peach": "Tarro Porcelánico Color Melocotón con {0}",
+	"bricklayers:block-crockcolored-meal-sunflower": "Tarro Porcelánico Color Girasol con {0}",
+	"bricklayers:block-crockcolored-meal-white": "Tarro Porcelánico Blanco Nieve con {0}",
 
     "bricklayers:block-plantercolored-burnt-blurple": "Maceta Violeta",
     "bricklayers:block-plantercolored-burnt-green": "Maceta Verde",
@@ -618,7 +631,7 @@
     "bricklayers:block-plantercolored-burnt-palered": "Maceta Porcelánica Rosa",
     "bricklayers:block-plantercolored-burnt-peach": "Maceta Porcelánica Color Melocotón",
     "bricklayers:block-plantercolored-burnt-sunflower": "Maceta Porcelánica Color Girasol",
-    "bricklayers:block-plantercolored-burnt-white": "Maceta Porcelánica Color Blanco Nieve",
+    "bricklayers:block-plantercolored-burnt-white": "Maceta Porcelánica Blanco Nieve",
 
 
     "bricklayers:blockdesc-flowerpotcolored-*-white": "Recipiente pequeño para Flores y Plantas pequeñas.\n",
@@ -647,7 +660,7 @@
     "bricklayers:block-storagevesselcolored-raw-palered": "Vasija Cruda de Porcelana Rosa",
     "bricklayers:block-storagevesselcolored-raw-peach": "Vasija Cruda de Porcelana Color Melocotón",
     "bricklayers:block-storagevesselcolored-raw-sunflower": "Vasija Cruda de Porcelana Color Girasol",
-    "bricklayers:block-storagevesselcolored-raw-white": "Vasija Cruda de Porcelana Color Blanco Nieve",
+    "bricklayers:block-storagevesselcolored-raw-white": "Vasija Cruda de Porcelana Blanco Nieve",
 
     "bricklayers:block-vesselcoloredbase-raw-blue": "Vasija Cruda Gris Azulado",
     "bricklayers:block-vesselcoloredbase-raw-fire": "Vasija Cruda Crema",
@@ -660,7 +673,7 @@
     "bricklayers:block-vesselcoloredbase-raw-palered": "Vasija Cruda de Porcelana Rosa",
     "bricklayers:block-vesselcoloredbase-raw-peach": "Vasija Cruda de Porcelana Color Melocotón",
     "bricklayers:block-vesselcoloredbase-raw-sunflower": "Vasija Cruda de Porcelana Color Girasol",
-    "bricklayers:block-vesselcoloredbase-raw-white": "Vasija Cruda de Porcelana Color Blanco Nieve",
+    "bricklayers:block-vesselcoloredbase-raw-white": "Vasija Cruda de Porcelana Blanco Nieve",
 
     "bricklayers:block-vesselcoloredring-raw-blue": "Cuello de Vasija Cruda Azul",
     "bricklayers:block-vesselcoloredring-raw-fire": "Cuello de Vasija Cruda Crema",
@@ -673,7 +686,7 @@
     "bricklayers:block-vesselcoloredring-raw-palered": "Cuello de Vasija Cruda de Porcelana Rosa",
     "bricklayers:block-vesselcoloredring-raw-peach": "Cuello de Vasija Cruda de Porcelana Color Melocotón",
     "bricklayers:block-vesselcoloredring-raw-sunflower": "Cuello de Vasija Cruda de Porcelana Color Girasol",
-    "bricklayers:block-vesselcoloredring-raw-white": "Cuello de Vasija Cruda de Porcelana Color Blanco Nieve",
+    "bricklayers:block-vesselcoloredring-raw-white": "Cuello de Vasija Cruda de Porcelana Blanco Nieve",
 
     "bricklayers:block-vesselcoloredlid-raw-blue": "Tapa de Vasija Cruda Azul",
     "bricklayers:block-vesselcoloredlid-raw-fire": "Tapa de Vasija Cruda Crema",
@@ -686,7 +699,7 @@
     "bricklayers:block-vesselcoloredlid-raw-palered": "Tapa de Vasija Cruda de Porcelana Rosa",
     "bricklayers:block-vesselcoloredlid-raw-peach": "Tapa de Vasija Cruda de Porcelana Color Melocotón",
     "bricklayers:block-vesselcoloredlid-raw-sunflower": "Tapa de Vasija Cruda de Porcelana Color Girasol",
-    "bricklayers:block-vesselcoloredlid-raw-white": "Tapa de Vasija Cruda de Porcelana Color Blanco Nieve", 
+    "bricklayers:block-vesselcoloredlid-raw-white": "Tapa de Vasija Cruda de Porcelana Blanco Nieve", 
 
     "bricklayers:block-normal-storagevesselcolored-burnt-black": "Vasija de Conservación Negra",
     "bricklayers:block-normal-storagevesselcolored-burnt-blurple": "Vasija de Conservación Violeta",
@@ -708,7 +721,7 @@
     "bricklayers:block-normal-storagevesselcolored-burnt-palered": "Vasija de Conservación Porcelánica Rosa",
     "bricklayers:block-normal-storagevesselcolored-burnt-peach": "Vasija de Conservación Porcelánica Color Melocotón",
     "bricklayers:block-normal-storagevesselcolored-burnt-sunflower": "Vasija de Conservación Porcelánica Color Girasol",
-    "bricklayers:block-normal-storagevesselcolored-burnt-white": "Vasija de Conservación Porcelánica Color Blanco Nieve",
+    "bricklayers:block-normal-storagevesselcolored-burnt-white": "Vasija de Conservación Porcelánica Blanco Nieve",
 
     "bricklayers:block-vesselcoloredbase-burnt-black": "Vasija Negra Abierta",
     "bricklayers:block-vesselcoloredbase-burnt-blue": "Vasija Azul Abierta",
@@ -731,7 +744,7 @@
     "bricklayers:block-vesselcoloredbase-burnt-palered": "Vasija Porcelánica Rosa Abierta",
     "bricklayers:block-vesselcoloredbase-burnt-peach": "Vasija Porcelánica Color Melocotón Abierta",
     "bricklayers:block-vesselcoloredbase-burnt-sunflower": "Vasija Porcelánica Color Girasol Abierta",
-    "bricklayers:block-vesselcoloredbase-burnt-white": "Vasija Porcelánica Color Blanco Nieve Abierta",
+    "bricklayers:block-vesselcoloredbase-burnt-white": "Vasija Porcelánica Blanco Nieve Abierta",
 
     "bricklayers:block-vesselcoloredring-burnt-black": "Cuello de Vasija Negra",
     "bricklayers:block-vesselcoloredring-burnt-blue": "Cuello de Vasija Azul",
@@ -754,7 +767,7 @@
     "bricklayers:block-vesselcoloredring-burnt-palered": "Cuello de Vasija Porcelánica Rosa",
     "bricklayers:block-vesselcoloredring-burnt-peach": "Cuello de Vasija Porcelánica Color Melocotón",
     "bricklayers:block-vesselcoloredring-burnt-sunflower": "Cuello de Vasija Porcelánica Color Girasol",
-    "bricklayers:block-vesselcoloredring-burnt-white": "Cuello de Vasija Porcelánica Color Blanco Nieve",
+    "bricklayers:block-vesselcoloredring-burnt-white": "Cuello de Vasija Porcelánica Blanco Nieve",
 
     "bricklayers:block-vesselcoloredlid-burnt-black": "Tapa de Vasija Negra",
     "bricklayers:block-vesselcoloredlid-burnt-blue": "Tapa de Vasija Azul",
@@ -777,7 +790,7 @@
     "bricklayers:block-vesselcoloredlid-burnt-palered": "Tapa de Vasija Porcelánica Rosa",
     "bricklayers:block-vesselcoloredlid-burnt-peach": "Tapa de Vasija Porcelánica Color Melocotón",
     "bricklayers:block-vesselcoloredlid-burnt-sunflower": "Tapa de Vasija Porcelánica Color Girasol",
-    "bricklayers:block-vesselcoloredlid-burnt-white": "Tapa de Vasija Porcelánica Color Blanco Nieve",
+    "bricklayers:block-vesselcoloredlid-burnt-white": "Tapa de Vasija Porcelánica Blanco Nieve",
 
 
     "bricklayers:block-vesselcoloredplanter-black": "Macetero Negro",
@@ -801,7 +814,7 @@
     "bricklayers:block-vesselcoloredplanter-palered": "Macetero Porcelánico Rosa",
     "bricklayers:block-vesselcoloredplanter-peach": "Macetero Porcelánico Color Melocotón",
     "bricklayers:block-vesselcoloredplanter-sunflower": "Macetero Porcelánico Color Girasol",
-    "bricklayers:block-vesselcoloredplanter-white": "Macetero Porcelánico Color Blanco Nieve",
+    "bricklayers:block-vesselcoloredplanter-white": "Macetero Porcelánico Blanco Nieve",
 
     "bricklayers:block-claytilesslab-dull-black-*": "Losa de Arcilla Endurecida Negra",
     "bricklayers:block-claytilesslab-dull-blurple-*": "Losa de Arcilla Endurecida Violeta",
@@ -824,7 +837,7 @@
     "bricklayers:block-claytilesslab-dull-palered-*": "Losa de Bizcocho Cerámico Rosa",
     "bricklayers:block-claytilesslab-dull-peach-*": "Losa de Bizcocho Cerámico Color Melocotón",
     "bricklayers:block-claytilesslab-dull-sunflower-*": "Losa de Bizcocho Cerámico Color Girasol",
-    "bricklayers:block-claytilesslab-dull-white-*": "Losa de Bizcocho Cerámico Color Blanco Nieve",
+    "bricklayers:block-claytilesslab-dull-white-*": "Losa de Bizcocho Cerámico Blanco Nieve",
 
     "bricklayers:block-claytilesslab-polished-black-*": "Losa Pulida de Arcilla Negra",
     "bricklayers:block-claytilesslab-polished-blurple-*": "Losa Pulida de Arcilla Violeta",
@@ -847,7 +860,7 @@
     "bricklayers:block-claytilesslab-polished-palered-*": "Losa Pulida Porcelánica Rosa",
     "bricklayers:block-claytilesslab-polished-peach-*": "Losa Pulida Porcelánica Color Melocotón",
     "bricklayers:block-claytilesslab-polished-sunflower-*": "Losa Pulida Porcelánica Color Girasol",
-    "bricklayers:block-claytilesslab-polished-white-*": "Losa Pulida Porcelánica Color Blanco Nieve",
+    "bricklayers:block-claytilesslab-polished-white-*": "Losa Pulida Porcelánica Blanco Nieve",
 
     "bricklayers:item-glazedbrick-raw-clear-black": "Ladrillo Crudo con Esmalte Negro",
     "bricklayers:item-glazedbrick-raw-clear-blue": "Ladrillo Crudo con Esmalte Azul",
@@ -1393,6 +1406,12 @@
 
     "bricklayers:item-cookedbones": "Huesos Esterilizados",
     "bricklayers:itemdesc-cookedbones": "Triturar hasta obtener un fino polvo, para utilizarlo en la Porcelana.\n",
+
+	"bricklayers:item-crushed-bones": "Huesos Triturados",
+	"bricklayers:itemdesc-crushed-bones": "Calcinar a altas temperaturas para obtener <a href='handbook://item-em:powdered-ore-boneash'>Ceniza Ósea</a> para la porcelana.",
+
+	"bricklayers:item-cement-tile": "Mortero para Azulejos",
+	"bricklayers:itemdesc-cement-tile": "Perfecto para trabajos de alicatado.",
 
     "bricklayers:itemdesc-frit-baked-*": "Triturar hasta obtener un fino polvo, para fabricar Esmaltes de Colores.\n",
     "bricklayers:itemdesc-frit-ground-*": "Se utiliza para Esmaltes Cerámicos de Colores y Vidrios de Colores.\n",
@@ -1997,7 +2016,7 @@
     "bricklayers:block-porcelainbowl-raw-palered-*": "Cuenco Crudo con Porcelana Rosa",
     "bricklayers:block-porcelainbowl-raw-peach-*": "Cuenco Crudo con Porcelana Color Melocotón",
     "bricklayers:block-porcelainbowl-raw-sunflower-*": "Cuenco Crudo con Porcelana Color Girasol",
-    "bricklayers:block-porcelainbowl-raw-white-*": "Cuenco Crudo con Porcelana Color Blanco Nieve",
+    "bricklayers:block-porcelainbowl-raw-white-*": "Cuenco Crudo con Porcelana Blanco Nieve",
 
     "bricklayers:block-porcelainbowl-burnt-lavender-*": "Cuenco Porcelánico Color Lavanda",
     "bricklayers:block-porcelainbowl-burnt-paleblue-*": "Cuenco Porcelánico Azul Cielo",
@@ -2005,7 +2024,7 @@
     "bricklayers:block-porcelainbowl-burnt-palered-*": "Cuenco Porcelánico Rosa",
     "bricklayers:block-porcelainbowl-burnt-peach-*": "Cuenco Porcelánico Color Melocotón",
     "bricklayers:block-porcelainbowl-burnt-sunflower-*": "Cuenco Porcelánico Color Girasol",
-    "bricklayers:block-porcelainbowl-burnt-white-*": "Cuenco Porcelánico Color Blanco Nieve",
+    "bricklayers:block-porcelainbowl-burnt-white-*": "Cuenco Porcelánico Blanco Nieve",
 
     "bricklayers:block-porcelainbowl-meal-lavender-*": "Cuenco Porcelánico Color Lavanda con Contenido",
     "bricklayers:block-porcelainbowl-meal-paleblue-*": "Cuenco Porcelánico Azul Cielo con Contenido",
@@ -2013,7 +2032,7 @@
     "bricklayers:block-porcelainbowl-meal-palered-*": "Cuenco Porcelánico Rosa con Contenido",
     "bricklayers:block-porcelainbowl-meal-peach-*": "Cuenco Porcelánico Color Melocotón con Contenido",
     "bricklayers:block-porcelainbowl-meal-sunflower-*": "Cuenco Porcelánico Color Girasol con Contenido",
-    "bricklayers:block-porcelainbowl-meal-white-*": "Cuenco Porcelánico Color Blanco Nieve con Contenido",
+    "bricklayers:block-porcelainbowl-meal-white-*": "Cuenco Porcelánico Blanco Nieve con Contenido",
 
     "bricklayers:blockcraftdesc-porcelainbowl-*": "Los Cuencos de Porcelana retienen más Líquidos y Alimentos que los de Arcilla Cruda.\n",
     "bricklayers:blockdesc-porcelainbowl-*": "Comidas con estilo. Un Cuenco de fina Porcelana de alta calidad.\n",
@@ -2072,7 +2091,7 @@
     "bricklayers:block-porcelainoillamp-palered-*": "Candil Porcelánico Rosa",
     "bricklayers:block-porcelainoillamp-peach-*": "Candil Porcelánico Color Melocotón",
     "bricklayers:block-porcelainoillamp-sunflower-*": "Candil Porcelánico Color Girasol",
-    "bricklayers:block-porcelainoillamp-white-*": "Candil Porcelánico Color Blanco Nieve",
+    "bricklayers:block-porcelainoillamp-white-*": "Candil Porcelánico Blanco Nieve",
 
     "bricklayers:blockdesc-glasscolored-opaque-*": "¡Brillante!",
     "bricklayers:blockdesc-glasstile-normal-opaque": "¡Brillante!",
@@ -2633,7 +2652,7 @@
     "bricklayers:block-coloredlargepot-raw-peach-plain-plain": "Jarra Cruda con Porcelana Color Melocotón",
     "bricklayers:block-coloredlargepot-raw-lavender-plain-plain": "Jarra Cruda con Porcelana Color Lavanda",
     "bricklayers:block-coloredlargepot-raw-sunflower-plain-plain": "Jarra Cruda con Porcelana Color Girasol",
-    "bricklayers:block-coloredlargepot-raw-white-plain-plain": "Jarra Cruda con Porcelana Color Blanco Nieve",
+    "bricklayers:block-coloredlargepot-raw-white-plain-plain": "Jarra Cruda con Porcelana Blanco Nieve",
 
     "bricklayers:block-coloredlargepot-burnt-paleblue-plain-plain": "Jarra Porcelánica Azul Cielo",
     "bricklayers:block-coloredlargepot-burnt-palegreen-plain-plain": "Jarra Porcelánica Verde Menta",
@@ -2641,7 +2660,7 @@
     "bricklayers:block-coloredlargepot-burnt-peach-plain-plain": "Jarra Porcelánica Color Melocotón",
     "bricklayers:block-coloredlargepot-burnt-lavender-plain-plain": "Jarra Porcelánica Color Lavanda",
     "bricklayers:block-coloredlargepot-burnt-sunflower-plain-plain": "Jarra Porcelánica Color Girasol",
-    "bricklayers:block-coloredlargepot-burnt-white-plain-plain": "Jarra Porcelánica Color Blanco Nieve",
+    "bricklayers:block-coloredlargepot-burnt-white-plain-plain": "Jarra Porcelánica Blanco Nieve",
 
     "bricklayers:block-coloredsmallpot-raw-paleblue-plain-plain": "Tetera Cruda con Porcelana Azul Cielo",
     "bricklayers:block-coloredsmallpot-raw-palegreen-plain-plain": "Tetera Cruda con Porcelana Verde Menta",
@@ -2649,7 +2668,7 @@
     "bricklayers:block-coloredsmallpot-raw-peach-plain-plain": "Tetera Cruda con Porcelana Color Melocotón",
     "bricklayers:block-coloredsmallpot-raw-lavender-plain-plain": "Tetera Cruda con Porcelana Color Lavanda",
     "bricklayers:block-coloredsmallpot-raw-sunflower-plain-plain": "Tetera Cruda con Porcelana Color Girasol",
-    "bricklayers:block-coloredsmallpot-raw-white-plain-plain": "Tetera Cruda con Porcelana Color Blanco Nieve",
+    "bricklayers:block-coloredsmallpot-raw-white-plain-plain": "Tetera Cruda con Porcelana Blanco Nieve",
 
     "bricklayers:block-coloredsmallpot-burnt-paleblue-plain-plain": "Tetera Porcelánica Azul Cielo",
     "bricklayers:block-coloredsmallpot-burnt-palegreen-plain-plain": "Tetera Porcelánica Verde Menta",
@@ -2657,7 +2676,7 @@
     "bricklayers:block-coloredsmallpot-burnt-peach-plain-plain": "Tetera Porcelánica Color Melocotón",
     "bricklayers:block-coloredsmallpot-burnt-lavender-plain-plain": "Tetera Porcelánica Color Lavanda",
     "bricklayers:block-coloredsmallpot-burnt-sunflower-plain-plain": "Tetera Porcelánica Color Girasol",
-    "bricklayers:block-coloredsmallpot-burnt-white-plain-plain": "Tetera Porcelánica Color Blanco Nieve",
+    "bricklayers:block-coloredsmallpot-burnt-white-plain-plain": "Tetera Porcelánica Blanco Nieve",
 
     "bricklayers:block-coloredsugarbowl-raw-paleblue-plain-plain": "Azucarero Crudo con Porcelana Azul Cielo",
     "bricklayers:block-coloredsugarbowl-raw-palegreen-plain-plain": "Azucarero Crudo con Porcelana Verde Menta",
@@ -2665,7 +2684,7 @@
     "bricklayers:block-coloredsugarbowl-raw-peach-plain-plain": "Azucarero Crudo con Porcelana Color Melocotón",
     "bricklayers:block-coloredsugarbowl-raw-lavender-plain-plain": "Azucarero Crudo con Porcelana Color Lavanda",
     "bricklayers:block-coloredsugarbowl-raw-sunflower-plain-plain": "Azucarero Crudo con Porcelana Color Girasol",
-    "bricklayers:block-coloredsugarbowl-raw-white-plain-plain": "Azucarero Crudo con Porcelana Color Blanco Nieve",
+    "bricklayers:block-coloredsugarbowl-raw-white-plain-plain": "Azucarero Crudo con Porcelana Blanco Nieve",
 
     "bricklayers:block-coloredsugarbowl-burnt-paleblue-plain-plain": "Azucarero Porcelánico Azul Cielo",
     "bricklayers:block-coloredsugarbowl-burnt-palegreen-plain-plain": "Azucarero Porcelánico Verde Menta",
@@ -2673,7 +2692,7 @@
     "bricklayers:block-coloredsugarbowl-burnt-peach-plain-plain": "Azucarero Porcelánico Color Melocotón",
     "bricklayers:block-coloredsugarbowl-burnt-lavender-plain-plain": "Azucarero Porcelánico Color Lavanda",
     "bricklayers:block-coloredsugarbowl-burnt-sunflower-plain-plain": "Azucarero Porcelánico Color Girasol",
-    "bricklayers:block-coloredsugarbowl-burnt-white-plain-plain": "Azucarero Porcelánico Color Blanco Nieve",
+    "bricklayers:block-coloredsugarbowl-burnt-white-plain-plain": "Azucarero Porcelánico Blanco Nieve",
 
     "bricklayers:block-coloredcup-raw-paleblue-plain-plain": "Taza Cruda con Porcelana Azul Cielo",
     "bricklayers:block-coloredcup-raw-palegreen-plain-plain": "Taza Cruda con Porcelana Verde Menta",
@@ -2681,7 +2700,7 @@
     "bricklayers:block-coloredcup-raw-peach-plain-plain": "Taza Cruda con Porcelana Color Melocotón",
     "bricklayers:block-coloredcup-raw-lavender-plain-plain": "Taza Cruda con Porcelana Color Lavanda",
     "bricklayers:block-coloredcup-raw-sunflower-plain-plain": "Taza Cruda con Porcelana Color Girasol",
-    "bricklayers:block-coloredcup-raw-white-plain-plain": "Taza Cruda con Porcelana Color Blanco Nieve",
+    "bricklayers:block-coloredcup-raw-white-plain-plain": "Taza Cruda con Porcelana Blanco Nieve",
 
     "bricklayers:block-coloredcup-burnt-paleblue-plain-plain": "Taza Porcelánica Azul Cielo",
     "bricklayers:block-coloredcup-burnt-palegreen-plain-plain": "Taza Porcelánica Verde Menta",
@@ -2689,7 +2708,7 @@
     "bricklayers:block-coloredcup-burnt-peach-plain-plain": "Taza Porcelánica Color Melocotón",
     "bricklayers:block-coloredcup-burnt-lavender-plain-plain": "Taza Porcelánica Color Lavanda",
     "bricklayers:block-coloredcup-burnt-sunflower-plain-plain": "Taza Porcelánica Color Girasol",
-    "bricklayers:block-coloredcup-burnt-white-plain-plain": "Taza Porcelánica Color Blanco Nieve",
+    "bricklayers:block-coloredcup-burnt-white-plain-plain": "Taza Porcelánica Blanco Nieve",
 
     "bricklayers:block-glazedmug-raw-clear-black-checker": "Taza Cruda con Esmalte Negro (Cuadros)",
     "bricklayers:block-glazedmug-raw-clear-blue-checker": "Taza Cruda con Esmalte Azul (Cuadros)",
@@ -3074,7 +3093,7 @@
     "bricklayers:block-vatlidcolored-raw-spouted-palered": "Tapa Vertidora Cruda con Porcelana Rosa ",
     "bricklayers:block-vatlidcolored-raw-spouted-peach": "Tapa Vertidora Cruda con Porcelana Color Melocotón ",
     "bricklayers:block-vatlidcolored-raw-spouted-sunflower": "Tapa Vertidora Cruda con Porcelana lid Color Girasol ",
-    "bricklayers:block-vatlidcolored-raw-spouted-white": "Tapa Vertidora Cruda con Porcelana Color Blanco Nieve ",
+    "bricklayers:block-vatlidcolored-raw-spouted-white": "Tapa Vertidora Cruda con Porcelana Blanco Nieve ",
 
     "bricklayers:block-vatlidcolored-burnt-spouted-black": "Tapa Vertidora de Arcilla Negro",
     "bricklayers:block-vatlidcolored-burnt-spouted-blue": "Tapa Vertidora de Arcilla Azul",
@@ -3097,9 +3116,9 @@
     "bricklayers:block-vatlidcolored-burnt-spouted-palered": "Tapa Vertidora Porcelánica Rosa",
     "bricklayers:block-vatlidcolored-burnt-spouted-peach": "Tapa Vertidora Porcelánica Color Melocotón",
     "bricklayers:block-vatlidcolored-burnt-spouted-sunflower": "Tapa Vertidora Porcelánica Color Girasol",
-    "bricklayers:block-vatlidcolored-burnt-spouted-white": "Tapa Vertidora Porcelánica Color Blanco Nieve",
+    "bricklayers:block-vatlidcolored-burnt-spouted-white": "Tapa Vertidora Porcelánica Blanco Nieve",
 
-    "bricklayers:comment-wildcraft": "Compatibilidad con el mod 'Wildcraft Trees'",
+    "bricklayers:comment-wildcraft": "Compatibilidad con el mod «Wildcraft Trees»",
 
     "bricklayers:item-polishingset-banyan": "Pulimento de Baniano",
     "bricklayers:item-polishingset-bearnut": "Pulimento de Avellano Arbóreol",
@@ -3189,7 +3208,15 @@
     "bricklayers:block-clayshingleblock-purple": "Bloque de Tejas Moradas",
 
 
-    "//Inexistentes en la v3.1.0-pre.1": "",
+
+
+
+    "// Creadas usando el nodo que aparece en el juego ": "",
+    "bricklayers:block-storagevesselcolored-raw-fire": "Vasija Cruda de Porcelana Crema",
+    "bricklayers:block-storagevesselcolored-raw-malachite": "Vasija Cruda de Porcelana Verde Esmeralda",
+    "bricklayers:block-storagevesselcolored-raw-red": "Vasija Cruda de Porcelana Roja",
+
+    "// Inexistentes en la v3.1.0-pre.1 ": "",
     "bricklayers:block-wateringcancolored-raw-fire": "Regadera Cruda de Arcilla Refractaria",
     "bricklayers:block-wateringcancolored-raw-red": "Regadera Cruda de Arcilla Roja",
     "bricklayers:block-wateringcancolored-burnt-black": "Regadera Negra",
@@ -3258,7 +3285,7 @@
     "bricklayers:block-storagevesselcolored-burnt-palered": "Vasija Porcelánica Rosa",
     "bricklayers:block-storagevesselcolored-burnt-peach": "Vasija Porcelánica Color Melocotón",
     "bricklayers:block-storagevesselcolored-burnt-sunflower": "Vasija Porcelánica Color Girasol",
-    "bricklayers:block-storagevesselcolored-burnt-white": "Vasija Porcelánica Color Blanco Nieve",
+    "bricklayers:block-storagevesselcolored-burnt-white": "Vasija Porcelánica Blanco Nieve",
 
     "bricklayers:block--storagevesselcolored-burnt-black": "Vasija de Conservación Negra",
     "bricklayers:block--storagevesselcolored-burnt-blurple": "Vasija de Conservación Violeta",
@@ -3280,7 +3307,7 @@
     "bricklayers:block--storagevesselcolored-burnt-palered": "Vasija Porcelánica Rosa",
     "bricklayers:block--storagevesselcolored-burnt-peach": "Vasija Porcelánica Color Melocotón",
     "bricklayers:block--storagevesselcolored-burnt-sunflower": "Vasija Porcelánica Color Girasol",
-    "bricklayers:block--storagevesselcolored-burnt-white": "Vasija Porcelánica Color Blanco Nieve",
+    "bricklayers:block--storagevesselcolored-burnt-white": "Vasija Porcelánica Blanco Nieve",
 
     "bricklayers:block-coloredbowl-raw-fire-*": "Cuenco Crudo Crema",
     "bricklayers:block-coloredbowl-raw-red-*": "Cuenco Crudo Rojo",
@@ -3304,12 +3331,5 @@
     "bricklayers:block-coloredbowl-meal-orange-*": "Cuenco de Arcilla Naranja con Contenido",
     "bricklayers:block-coloredbowl-meal-pink-*": "Cuenco de Arcilla Rosa con Contenido",
     "bricklayers:block-coloredbowl-meal-red-*": "Cuenco de Arcilla Roja con Contenido",
-    "bricklayers:block-coloredbowl-meal-yellow-*": "Cuenco de Arcilla Amarilla con Contenido",
-
-    "//Las siguientes cadenas se han creado manualmente usando el nodo que aparece en el juego": "",
-    "bricklayers:block-storagevesselcolored-raw-fire": "Vasija Cruda de Porcelana Crema",
-    "bricklayers:block-storagevesselcolored-raw-malachite": "Vasija Cruda de Porcelana Verde Esmeralda",
-    "bricklayers:block-storagevesselcolored-raw-red": "Vasija Cruda de Porcelana Roja",
-
-    "//fin": "Línea final para evitar que se dañe el Archivo de Idioma."
+    "bricklayers:block-coloredbowl-meal-yellow-*": "Cuenco de Arcilla Amarilla con Contenido"
 }
