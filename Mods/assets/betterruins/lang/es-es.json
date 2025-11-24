@@ -1,12 +1,12 @@
 {
-    "_comentarios-1": "BetterRuins v0.4.13 || Enlace de VS ModDB: https://mods.vintagestory.at/betterruins ",
-    "_comentarios-2": "Traducido por C4BR3R4 || Última Modificación: 14/06/2025 || Registro de Cambios: http://c4br3r4.es/index.php?topic=1275.0 ",
+    "// BetterRuins v0.5.4 || Enlace de VS ModDB: https://mods.vintagestory.at/betterruins ": "",
+    "// Traducido por C4BR3R4 || Última Modificación: 24/NOV/2025 || Registro de Cambios: http://c4br3r4.es/index.php?topic=1275.0 ": "",
 
     "lore-wolfstone-title": "El Castillo de Wolfstone",
     "lore-wolfstone-piece1": "El castillo parcialmente en ruinas de Wolfstone tenía una rica historia que comenzó hace siglos, cuando no era más que una sola torre cuadrada, construida para supervisar las valiosas minas de los alrededores. La torre se construyó con mucho cuidado, ya que las minas eran vitales para la economía y la seguridad de la región. Con el tiempo, la torre demostró ser una estructura robusta, resistiendo la prueba del tiempo y los elementos.\n\nCon el paso de los años, la torre fue entregada a un barón recién ascendido por sus logros en alguna guerra. El barón estaba agradecido por el regalo y trabajó arduamente para expandir la torre hasta convertirla en un castillo completo, añadiendo un foso y murallas robustas para proteger el área. El castillo continuó evolucionando y expandiéndose bajo los descendientes del barón original a medida que las minas se volvían cada vez más prósperas.\n\nEl castillo fue nombrado en honor a una manada de lobos que vivía en los alrededores, que eran venerados por la gente local por su feroz fuerza y resistencia. Así, el castillo llegó a conocerse como Wolfstone, un nombre que perduraría durante siglos.\n\nEl último señor de Wolfstone era un ávido lector y escritor, que pasaba muchas horas sumergido en la vasta colección de libros de la biblioteca del castillo. Era un hombre erudito, con un intelecto agudo y una profunda comprensión del mundo que lo rodeaba. A menudo pasaba largas horas leyendo junto al fuego, perdido en sus pensamientos mientras meditaba sobre los misterios de la vida.\n\nA pesar de su amor por los libros, el último señor de Wolfstone también era un guerrero feroz que lideraba a su gente con valentía en la batalla. Era un gobernante justo y equitativo que se preocupaba profundamente por su pueblo y trabajaba incansablemente para garantizar su seguridad y prosperidad. Sin embargo, a pesar de sus mejores esfuerzos, el castillo finalmente cayó en el abandono, ya que las minas comenzaron a secarse y el área circundante se volvió menos próspera.\n\nHoy en día, el castillo parcialmente en ruinas de Wolfstone se erige como un testimonio de una era pasada, un recordatorio de la rica historia y tradiciones que han dado forma al mundo que nos rodea.",
     "game:ingamediscovery-lore-wolfstonecastle": "Parte {0}/{1} de la Historia descubierta.\n«El Castillo de Wolfstone»\n<font size='20'>Pulsa J para abrir tu diario</font>",
 
-    "lore-darkheat-title": "El calor oscuro",
+    "lore-darkheat-title": "El Calor Oscuro",
     "lore-darkheat-piece1": "Día 1:\n\nEmprendí un viaje para explorar las ruinas que habían sido alcanzadas por un meteorito. Mientras exploraba las estructuras antiguas, me topé con una extraña piedra que había sido partida por el meteorito. No se parecía a nada que hubiera visto antes.\n\nDia 2:\n\nPasé la noche en las ruinas, sin poder apartar la vista de la piedra. A medida que la oscuridad avanzaba, noté algo peculiar. La piedra emitía una cantidad significativa de calor. Cuanto más oscuro se ponía, más calor hacía. Era como si la piedra estuviera generando luz propia.___NEWPAGE___",
     "lore-darkheat-piece2": "Día 3:\n\nPasé todo el día experimentando con la piedra. Descubrí que responde a diversas formas de oscuridad, desde la ausencia de luz hasta las sombras. Es como si se alimentara de la oscuridad y la convirtiera en energía. Nunca he visto nada igual. También he notado que el calor que genera es lo suficientemente fuerte como para derretir el hierro.\n\nDia 5:\n\nContinué mis experimentos con la piedra. Descubrí que reacciona a diferentes tipos de oscuridad de diferentes maneras. Por ejemplo, genera más calor cuando se expone a las sombras de los seres vivos que a la oscuridad de una caja cerrada. No estoy seguro de lo que esto significa todavía, pero es fascinante.\n\nDía 8:\n\nHe estado trabajando en un nuevo experimento para probar los límites del poder de la piedra. Lo he colocado en un recipiente sellado, completamente oscuro, y estoy controlando la salida de calor. La temperatura está subiendo rápidamente, mucho más de lo que esperaba.___NEWPAGE___",
     "lore-darkheat-piece3": "Día 10:\n\nApenas puedo contener mi emoción. La piedra ha superado todas mis expectativas. Está generando calor a un nivel sin precedentes, suficiente para alimentar una ciudad pequeña. Sin embargo, debo tener cuidado, ya que el poder de la piedra es impredecible y podría ser peligroso si no se controla.\n\nDía 15:\n\nMi último experimento fue un fracaso catastrófico. Intenté aumentar aún más la producción de la piedra introduciendo más oscuridad. Sin embargo, el poder de la piedra se volvió incontrolable y provocó una explosión masiva. He sufrido heridas graves y mi laboratorio está destruido.\n\nDía 20:\n\nMis heridas no han sanado y temo morir. La piedra era demasiado poderosa y fui un tonto al pensar que podía controlarla. Sólo me queda esperar que mi investigación sea útil para otros y que puedan aprender de mis errores.                     ",
@@ -22,7 +22,7 @@
 
     "lore-glimmershield-title": "El Castillo de Glimmershield",
     "lore-glimmershield-piece1": "Ubicado en el corazón del reino, se encontraba un gran castillo conocido como Glimmershield. Era una maravilla de contemplar, con su imponente forma cuadrada rodeada por un profundo foso y custodiada por cuatro poderosas torres, cada una de ellas alta y orgullosa por derecho propio.\nLa familia Wycliffe, un clan poderoso e influyente, fueron los señores de Glimmershield durante los primeros siglos.\nSu castillo era la envidia de todos los que lo veían, un verdadero testimonio de su riqueza, poder y prestigio.\nLos muros del castillo estaban adornados con esculturas y pinturas, cada una más exquisita que la anterior. En la biblioteca, una vasta colección de libros llenaba cada estante, un tesoro de conocimiento que la familia había adquirido a través de sus muchos viajes y tratos.___NEWPAGE___",
-    "lore-glimmershield-piece2": "Pero la familia Wycliffe no sólo era rica, sino que también era poderosa. Dentro de la armería del castillo se almacenaban armas y armaduras, suficientes para equipar a todo un ejército de 200 soldados. La familia Wycliffe era una fuerza a tener en cuenta y lo sabían.\nFuera de los muros del castillo, las tierras de la familia Wycliffe se extendían a lo largo y ancho, y era un espectáculo digno de contemplar. En todas direcciones se podían ver grandes huertos y jardines, cuidadosamente cuidados por los sirvientes y trabajadores de la familia. Era un símbolo de su poder, un testimonio de su dominio sobre la tierra.\nSin embargo, como ocurre con todas las grandes cosas, la gloria de Glimmershield finalmente llegó a su fin. Después de la muerte del conde Edmund Wycliffe, el castillo permaneció vacío durante muchos años y cayó en mal estado mientras la familia luchaba por mantener su poder e influencia.___NEWPAGE___",
+    "lore-glimmershield-piece2": "Pero la familia Wycliffe no sólo era rica, sino que también era poderosa. Dentro de la armería del castillo se almacenaban armas y armaduras, suficientes para equipar a todo un ejército de 200 soldados. La familia Wycliffe era una fuerza a tener en cuenta y lo sabían.\nFuera de los muros del castillo, las tierras de la familia Wycliffe se extendían a lo largo y ancho, y era un espectáculo digno de contemplar. En todas direcciones se podían ver grandes huertos y jardines, cuidadosamente cuidados por los sirvientes y trabajadores de la familia. Era un símbolo de su poder, un testimonio de su dominio sobre la tierra.\nSin embargo, como ocurre con todas las grandes cosas, la gloria del Castillo Glimmershield finalmente llegó a su fin. Después de la muerte del conde Edmund Wycliffe, el castillo permaneció vacío durante muchos años y cayó en mal estado mientras la familia luchaba por mantener su poder e influencia.___NEWPAGE___",
     "lore-glimmershield-piece3": "No fue hasta los siglos posteriores que se le dio al castillo un nuevo propósito, pero no uno que le hubiera gustado. El castillo se transformó en un campo de prisioneros para prisioneros de guerra, un lugar oscuro y siniestro que vio mucho sufrimiento y dificultades.\nLos prisioneros confinados dentro de los muros del castillo fueron tratados con dureza, sin tener en cuenta su bienestar ni sus derechos humanos básicos. Muchos de ellos murieron dentro de los muros del castillo y sus cuerpos se pudrieron en las mazmorras y rincones olvidados del castillo.\nAl final, se dijo que fueron los propios prisioneros quienes prendieron fuego al castillo, reduciéndolo a ruinas y cenizas. Hoy en día, sólo queda el ala izquierda del Castillo Glimmershield, un crudo recordatorio del poderoso gobierno de la familia y los tumultuosos acontecimientos que llevaron a su destrucción.                     ",
     "game:ingamediscovery-lore-glimmershield": "Parte {0}/{1} de la Historia descubierta.\n«El Castillo de Glimmershield»\n<font size='20'>Pulsa J para abrir tu diario</font>",
 
@@ -61,25 +61,25 @@
     "lore-devotion-piece1": "Notas del escriba, 1350\r\n\r\n«Iniciado Trelson, levántate.»\r\n\r\nEl iniciado se levantó del estrado, con los ojos de todos los lados del tribunal mirando desde la penumbra.\r\n\r\n'Adelante.'\r\n\r\nEl iniciado pisó el círculo de concreto y puso su mano izquierda boca abajo sobre el altar.\r\n\r\n'¿Juras tomar las armas contra el Óxido y la Putrefacción? ¿Usar solemnemente la Prima Materia como agente del orden? ¿Luchar valientemente, hasta que el futuro de la humanidad esté asegurado?'\r\n\r\nEl Iniciado habló. 'Lo juro.'\r\n\r\nCuando las palabras salieron de la boca del Iniciado, una sustancia de color teal se levantó del altar. La Prima Materia. Se ató alrededor del cuello del Iniciado, tomando la forma de un collar.\r\n\r\n'Avanza, nuevo guerrero, como vanguardia y protector.'\r\n\r\nEn el rincón más alejado de la sala, un escriba aparte anotó el nombre del nuevo luchador en una gran losa de piedra. Imbuido de poder, fuerza y renovada creencia en su causa.\r\n\r\nAl final, apenas hizo una diferencia.*\r\n\r\n___NEWPAGE___",
     "game:ingamediscovery-lore-devotion": "Parte {0}/{1} de la Historia descubierta.\n«Devoción»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
 
-    "lore-priestdiary-title": "Diario de un sacerdote",
+    "lore-priestdiary-title": "Diario de un Sacerdote",
     "lore-priestdiary-piece1": "Notas del escriba, Reflexión Personal\r\n\r\nMi fe ha comenzado a flaquear en estos últimos meses. Escucho relatos de esa peste negra devastando costas lejanas y la inacción de Dios ante ella. He hablado en mis sermones, diciendo que nuestra creencia y fe nos guiarán, pero ¿cómo puedo predicar esta falsa creencia? He visto lo que hace. Lo que les sucede a las víctimas, apenas unos días después de la infección.\r\n\r\nHe permanecido firme en la oración, firme en la creencia de que Dios me salvará. Pero todavía temo lo peor. Si no es el Señor, ¿entonces Falx? Y si no es Falx, ¿entonces quién?\r\n\r\nIntento no pensar en ello.\r\n\r\n___NEWPAGE___",
-    "game:ingamediscovery-lore-priestdiary": "Parte {0}/{1} de la Historia descubierta.\n«Diario de un sacerdote»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+    "game:ingamediscovery-lore-priestdiary": "Parte {0}/{1} de la Historia descubierta.\n«Diario de un Sacerdote»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
 
-    "lore-librarianslament-title": "Lamento del bibliotecario",
+    "lore-librarianslament-title": "Lamento del Bibliotecario",
     "lore-librarianslament-piece1": "He escuchado del Gran Magistrado que la Putrefacción está avanzando por la tierra más rápido de lo previsto. A este ritmo, muchos no podrán evacuar a tiempo a uno de los refugios subterráneos de Falx.\r\n\r\nEstán discutiendo usar la Biblioteca como un refugio temporal para aquellos que no pueden hacer el viaje. Estoy totalmente en desacuerdo. ¿Todos los campesinos del país, trayendo barro, Putrefacción y enfermedad? He mantenido este lugar demasiado tiempo para que algo así suceda.\r\n\r\nTemo lo que le sucederá a mi Biblioteca después de que me vaya a un refugio. Es todo lo que tengo, y todo lo que he tenido. No sé qué haré sin ella. La idea de que se use como un barrio pobre por las masas sucias me hace llorar.\r\n\r\nNo lo permitiré. El Reino puede estar condenado a su plaga, por lo que a mí respecta. Sellaré la Biblioteca. Será mi tumba, pero el conocimiento que he mantenido con cariño permanecerá intacto para las edades futuras. Solo puedo esperar que cuando se descubra nuevamente, después de que todo haya sido dejado a la deriva, pongan el conocimiento en uso.\r\n\r\n___NEWPAGE___",
-    "game:ingamediscovery-lore-librarianslament": "Parte {0}/{1} de la Historia descubierta.\n«Lamento del bibliotecario»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+    "game:ingamediscovery-lore-librarianslament": "Parte {0}/{1} de la Historia descubierta.\n«Lamento del Bibliotecario»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
 
-    "lore-lostdoll-title": "Muñeca perdida",
+    "lore-lostdoll-title": "Muñeca Perdida",
     "lore-lostdoll-piece1": "En el crepúsculo de un mundo en decadencia, una figura solitaria se había atrincherado en el piso superior de una pequeña y ruina casa. Afuera, la Putrefacción barría la tierra como una plaga voraz, dejando nada más que muerte y desesperación a su paso. La que una vez fue una vibrante aldea ahora era un cementerio de cuerpos retorcidos y gritos guturales, invadida por bestias monstruosas nacidas de la Putrefacción.\r\n\r\nHabía buscado refugio en el ático, el santuario final ante los horrores de abajo. La desesperación los había llevado hacia arriba, a él y a su hija, luchando por escapar del avance implacable de la Putrefacción. Pero el destino había sido cruel. Mientras ascendían la escalera, ella resbaló. Él extendió la mano, pero fue demasiado tarde. Las bestias de la Putrefacción estaban sobre ella, sus grotescos miembros arrastrándola hacia la oscuridad. Su grito penetrante quedó grabado en su mente, un recordatorio constante de su fracaso.\r\n\r\nAhora, todo lo que quedaba de ella era su muñeca. Una cosa simple, con ojos de botón y una sonrisa cosida, había sido su compañera constante. La sostenía con fuerza, la tela desgastada y manchada. La colocó junto a la puerta del ático, como si el guardián inanimado pudiera alejar lo inevitable.\r\n\r\nLos días se convirtieron en un borrón de hambre y desesperación. Racionaba lo poco de comida que le quedaba, pero nunca era suficiente. El hambre que lo atormentaba retorcía sus entrañas, un recordatorio constante y agonizante de su lenta desaparición. Su fuerza se desvanecía, reemplazada por un vacío hueco y doloroso que roía su cordura.\r\n\r\nLa luz de la única ventana se hacía más tenue cada día a medida que la Putrefacción consumía todo afuera. Los sonidos de caos y matanza abajo eran un recordatorio constante de la amenaza implacable. La casa crujía y gemía, el aire denso con el hedor de la descomposición y la muerte.\r\n\r\nLos recuerdos de su hija lo atormentaban, vívidos y crueles. Su risa, sus travesuras juguetonas, la forma en que abrazaba su muñeca contra su pecho por la noche. Estos recuerdos eran una espada de doble filo, ofreciendo un breve consuelo mientras simultáneamente profundizaban su dolor.\r\n\r\nA medida que su cuerpo se debilitaba, su mente comenzaba a fracturarse. La línea entre la realidad y la pesadilla se desdibujaba. El ático se sentía como una tumba, fría y sofocante. Se tumbó en el suelo duro y astillado, con la muñeca presionada contra su pecho. Sus respiraciones eran jadeos entrecortados, su visión se llenaba de sombras y fantasmas.\r\n\r\nEn esos momentos finales y tortuosos, la sonrisa cosida de la muñeca parecía burlarse de él, una cruel burla a la inutilidad de su lucha. Pero no tenía fuerzas para luchar. Sus ojos se cerraron, y se entregó a la oscuridad, los ojos inmutables de la muñeca lo último que vio.\r\n\r\nEl mundo exterior continuó su descenso al caos, pero en ese ático abandonado, protegido por el último vestigio de la inocencia de su hija, encontró un final brutal y frío. La muñeca permaneció vigilante, un testigo silencioso de la tragedia, protegiéndolo para siempre en la quietud de la muerte.\r\n\r\n___NEWPAGE___",
-    "game:ingamediscovery-lore-lostdoll": "Parte {0}/{1} de la Historia descubierta.\n«Muñeca perdida»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+    "game:ingamediscovery-lore-lostdoll": "Parte {0}/{1} de la Historia descubierta.\n«Muñeca Perdida»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
 
-    "lore-desperatetimes-title": "Tiempos desesperados",
-    "lore-desperatetimes-piece1": "La comida se está acabando. Estamos teniendo que adentrarnos cada vez más en los páramos para encontrar alguna comida decente que no se haya convertido en un montón de Putrefacción. El riesgo de infección solo aumenta a medida que pasan los días... ya hemos tenido que negar la entrada a dos personas. No lo tomaron a la ligera.\r\n\r\nTuvimos que hacer algo que... nunca pensé que tendríamos que hacer. Después de matar a una de esas criaturas de las Grietas... Tobias decidió intentar cocinarla. El olor era horrible. Un olor metálico se extendió por las cavernas. Peor aún era el sabor, mohoso, podrido. Todo músculos y vasos sanguíneos, sin carne ni grasa. Repugnante. Lo peor es que hay pequeños trozos de metal incrustados por todo el cuerpo. Casi me rompí un diente.\r\n\r\nTengo que decir, sin embargo... no tenía hambre después. O bien perdí el apetito, o encontré alguna semblanza de nutrición en esa cosa repugnante. En cualquier caso, espero que regresen pronto con más comida... comida que no sea... eso.\r\n\r\n___NEWPAGE___",
-    "game:ingamediscovery-lore-desperatetimes": "Parte {0}/{1} de la Historia descubierta.\n«Tiempos desesperados»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+    "lore-desperatetimes-title": "Tiempos Desesperados",
+    "lore-desperatetimes-piece1": "La comida se está acabando. Estamos teniendo que adentrarnos cada vez más en los páramos para encontrar alguna comida decente que no se haya convertido en un montón de Putrefacción. El riesgo de infección solo aumenta a medida que pasan los días... ya hemos tenido que negar la entrada a dos personas. No lo tomaron a la ligera.\r\n\r\nTuvimos que hacer algo que... nunca pensé que tendríamos que hacer. Después de matar a una de esas criaturas de las Fisuras... Tobias decidió intentar cocinarla. El olor era horrible. Un olor metálico se extendió por las cavernas. Peor aún era el sabor, mohoso, podrido. Todo músculos y vasos sanguíneos, sin carne ni grasa. Repugnante. Lo peor es que hay pequeños trozos de metal incrustados por todo el cuerpo. Casi me rompí un diente.\r\n\r\nTengo que decir, sin embargo... no tenía hambre después. O bien perdí el apetito, o encontré alguna semblanza de nutrición en esa cosa repugnante. En cualquier caso, espero que regresen pronto con más comida... comida que no sea... eso.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-desperatetimes": "Parte {0}/{1} de la Historia descubierta.\n«Tiempos Desesperados»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
 
     "lore-finalhour-title": "La Hora Final",
     "lore-finalhour-piece1": "Me temo que no me queda mucho tiempo. Dos de nuestros tres doctores ya han sucumbido a la plaga negra. Un pobre sujeto intentó aferrarse a la vida, pero me vi obligado a actuar. No podía permitirme contagiarme también.\r\n\r\nHe estado tratando de identificar el origen de la infección, pero mientras trabajo, mis propias manos han comenzado a temblar. Temo que voy a terminar como ellos. Los cadáveres que hemos examinado, las bestias fuera de nuestras puertas.\r\n\r\nAyer, recibimos un grupo de refugiados desaliñados, huyendo de alguna ciudad lejana. No podía permitir que descubrieran este sótano, o ellos también podrían verse afectados. He sellado el camino con el altar. Con un poco de suerte, pensarán que es simplemente una iglesia.\r\n\r\nEstoy viendo cómo me toma ahora. Mi mano derecha comienza a ennegrecerse mientras escribo esto, y no es por la tinta. Solo puedo rezar para que aquellos arriba nunca muevan el altar, y que toda esta locura pase y se desvanezca rápidamente.\r\n\r\nSi alguien sigue vivo y está leyendo esto, que sepa que yo, Auden Hamiltone, hice todo lo posible para proteger a la humanidad. Espero sinceramente que estén viviendo en un mundo mucho mejor que el mío.\r\n\r\n___NEWPAGE___",
-    "game:ingamediscovery-lore-finalhour": "Parte {0}/{1} de la Historia descubierta.\n«La Última Hora»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+    "game:ingamediscovery-lore-finalhour": "Parte {0}/{1} de la Historia descubierta.\n«La Hora Final»\n<font size='20'>Pulsa J para abrir tu Diario</font>",
 
     "lore-minerlogentries-title": "Anotaciones del Minero Edric",
     "lore-minerlogentries-piece1": "9º Día de la Excavación\r\n\r\nHan pasado un par de meses desde que Falco apareció. Un tipo bastante agradable, en realidad. Dijo que estaba aquí por órdenes especiales de un superior, aparentemente enviado por un hombre llamado Jonas. Los muchachos y yo no le dimos mucha importancia: era otro supervisor interesado en la geología, o eso creíamos. Falco se pasa la mayor parte del día controlando nuestro trabajo y dibujando en su cuaderno. No es de los que se entretienen, nos deja hacer, pero me doy cuenta de que siempre tiene un ojo puesto en el pozo oeste.___NEWPAGE___",
@@ -93,42 +93,171 @@
     "lore-minerlogentries-piece9": "53º Día de la Excavación\r\n\r\nHoy, Falco anunció que sellaríamos la caverna. Dijo que era por «seguridad estructural» y que seríamos compensados por las molestias. Nos dijo que bajáramos la pólvora y la colocáramos con cuidado. El otro erudito no dijo mucho, pero pareció aliviado cuando empezamos a colocar las cargas. Le pregunté a Falco si era realmente necesario, y se limitó a asentir con la cabeza, mirando hacia la oscuridad. Hay algo que no dice, algo que ambos vieron ahí abajo que los asustó. No le presioné. Pensé que era mejor dejarlo estar.___NEWPAGE___",
     "lore-minerlogentries-piece10": "58º Día de la Excavación\r\n\r\nPusimos las cargas y volamos la caverna hasta cerrarla hoy. Todo el lugar retumbó, el polvo se desprendió de todos los rincones. Falco nos dio las gracias a todos antes de irse, nos estrechó la mano y dijo que nos pagarían por nuestro silencio. Su compañero se marchó en silencio, sin mirar atrás, desapareciendo por el sendero que salía del valle. Siento que hoy hemos enterrado algo más que una roca. Incluso ahora, horas después, me cuesta quitarme la sensación de que algo en esa caverna sigue... despierto.___NEWPAGE___",
     "lore-minerlogentries-piece11": "65º Día de la Excavación\r\n\r\nAlgunos de los chicos dicen que aún pueden oír ese zumbido, como si lo tuvieran metido en la cabeza. No puedo mentir; hay momentos en los que yo también lo siento, un recuerdo que no se calla. Falco se ha ido, y la mina está sellada, pero una parte de mí siente como si me estuviera observando incluso ahora, como si hubiera algo en la oscuridad que no me ha soltado. Sea lo que sea lo que había en esa caverna, no es algo en lo que quiera pensar demasiado. Lo mejor es agachar la cabeza y dejar que siga enterrado.",
-    "game:ingamediscovery-lore-minerlogentries": "Parte {0}/{1} de la Historia descubierta.\n«Anotaciones del minero Edric».\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+    "game:ingamediscovery-lore-minerlogentries": "Parte {0}/{1} de la Historia descubierta.\r\n«Anotaciones del Minero Edric».\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
 
 
 
 
-    "game:item-stackrandomizer-darkheat": "BR ► Aleatorizador de Historia Calor Oscuro",
-    "game:item-stackrandomizer-glimmershield": "BR ► Aleatorizador de Historia Escudo Brillante",
-    "game:item-stackrandomizer-lastfisherman": "BR ► Aleatorizador de Historia Último Pescador",
-    "game:item-stackrandomizer-lastwall": "BR ► Aleatorizador de Historia Último Muro",
-    "game:item-stackrandomizer-wolfstone": "BR ► Aleatorizador de Historia Wolfstone",
-    "game:item-stackrandomizer-forlornhope": "BR ► Aleatorizador de Historia Esperanza Perdida",
-    "game:item-stackrandomizer-fieldengineersdiary": "BR ► Aleatorizador de Historia Diario del Ingeniero de Campo",
-    "game:item-stackrandomizer-largechurch": "BR ► Aleatorizador de Historia Gran Iglesia",
-    "game:item-stackrandomizer-undergroundlibrary": "BR ► Aleatorizador de Historia Biblioteca Subterránea",
-    "game:item-stackrandomizer-lostdoll": "BR ► Aleatorizador de Historia Muñeca Perdida",
-    "game:item-stackrandomizer-finalhour": "BR ► Aleatorizador de Historia La Última Hora",
-    "game:item-stackrandomizer-minerlogentries":"BR ► Aleatorizador de Historia Anotaciones del Minero Edric",
 
-    "game:item-stackrandomizer-buildingblocks": "BR ► Aleatorizador de Objetos Bloques de Construcción",
-    "game:item-stackrandomizer-clayproducts": "BR ► Aleatorizador de Objetos Productos de Arcilla",
-    "game:item-stackrandomizer-mechanical": "BR ► Aleatorizador de Objetos Mecánico",
-    "game:item-stackrandomizer-backpack": "BR ► Aleatorizador de Objetos Mochila",
-    "game:item-stackrandomizer-kingclothing": "BR ► Aleatorizador de Objetos Ropa del Rey",
-    "game:item-stackrandomizer-rottenkingclothing": "BR ► Aleatorizador de Objetos Ropa del Rey Podrida",
-    "game:item-stackrandomizer-mask": "BR ► Aleatorizador de Objetos Máscara",
-    "game:item-stackrandomizer-newlore": "BR ► Aleatorizador de Objetos Todas las Anotaciones de la Historia",
-    "game:item-stackrandomizer-cursed":"BR ► Recompensa Especial Incontrovertido de Recompensas de otros Mods.",
+    "lore-newmaterials-title": "Viridilita",
+    "lore-newmaterials-piece1": "Estoy agradecido de que la ciudad haya aprobado mi solicitud para comenzar la investigación en esta región.\r\nAquí se encuentran pequeños depósitos de Viridilita con una frecuencia inusual.\r\n\r\nEn otras partes del mundo, sin embargo, aparece de forma esporádica y en grandes masas, sin patrones discernibles, una inconsistencia que complica cualquier estudio sólido.\r\n\r\nOtros equipos intentaron trabajar en ello anteriormente, pero las condiciones fuera de esta área no favorecían la obtención de resultados productivos.\r\n\r\nSu edad sigue siendo difícil de estimar; aún no se ha desarrollado un modelo de formación coherente.\r\n\r\nLa práctica sobre el terreno sugiere que influye en las Fisuras y, en concentraciones suficientemente altas, atenúa localmente las tormentas.\r\nEstamos ampliando los experimentos para verificar estos efectos y determinar los umbrales de manipulación segura.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-newmaterials": "Parte {0}/{1} de la Historia descubierta.\r\n«Viridilita»\r\n<font size='20'>Hit J to open your Journal</font>",
 
-    "game:item-stackrandomizer-forlornhope-weapons":"BR ► Botín de Armas de la Esperanza Desamparada",
-    "game:item-stackrandomizer-forlornhope-armor":"BR ► Botín de Armadura de la Esperanza Desamparada",
-    "game:item-stackrandomizer-forlornhope-specials":"BR ► Botín Especial de la Esperanza Desamparada",
+    "lore-viridiliteshift-title": "Cambio de la Viridilita",
+    "lore-viridiliteshift-piece1": "Hallazgos recientes indican que la Viridilita puede influir en el cierre y la reubicación de las aberturas de las fisuras.\r\n\r\nDurante los periodos de actividad suficiente de las fisuras, tenemos la intención de redirigir múltiples fisuras hacia un punto designado utilizando instrumentos de nuevo desarrollo.\r\n\r\nHemos construido deflectores (soportes compactos para una placa de Viridilita) que absorben el óxido, envejeciendo la placa y agotando gradualmente el mineral. Es esencial utilizar Viridilita de alta calidad; las piezas pequeñas o de mala calidad pierden eficacia rápidamente.\r\n\r\nInforme del puesto de observación:\r\nHemos colocado varios deflectores alrededor del complejo y recientemente hemos activado un «Escudo de Fisuras» en las cercanías.\r\n\r\nResultado: se están formando Fisuras en la esquina suroeste de la cueva, y son notablemente más grandes de lo habitual.\r\nNo se observaron anomalías adicionales.\r\n\r\nContinuaremos con los experimentos, aumentando el número de deflectores y protectores para perfeccionar el control y medir los umbrales de estabilidad.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-viridiliteshift": "Parte {0}/{1} de la Historia descubierta.\r\n«Cambio de la Viridilita»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-greensecret-title": "Secreto Verde",
+    "lore-greensecret-piece1": "Max,\r\nEspero que hayas encontrado este lugar después de recibir mi carta.\r\nDesenterré un fragmento increíblemente cristalino de ese mineral verde tan inusual.\r\nTe lo dejo aquí, ¡he conseguido sacarlo sin que nadie se diera cuenta!\r\n\r\nConfío en que le darás un mejor uso que venderlo al primer postor. =)\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-greensecret": "Parte {0}/{1} de la Historia descubierta.\r\n«Secreto Verde»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-grandrifttheory-title": "Teoría de la Gran Fisura",
+    "lore-grandrifttheory-piece1": "Según los registros recientes del puesto de observación, el número de fisuras que se bloquean y desplazan simultáneamente determina el tamaño de la fisura que redirigimos al único punto en la esquina suroeste de la cueva.\r\n\r\nEn otras palabras: cuanto más área cubrimos con deflectores y protectores contra fisuras, mayor es la fisura acumulada resultante, a la que denomino «Gran Fisura».\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-grandrifttheory": "Parte {0}/{1} de la Historia descubierta.\r\n«Teoría de la Gran Fisura»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-sundialdiary-title": "Diario del Reloj de Sol",
+    "lore-sundialdiary-piece1": "Anotación 1\r\nGracias al éxito de nuestros experimentos sobre el desplazamiento de fisuras, ahora debemos confirmar nuestra teoría sobre la influencia de la luz solar en las fisuras.\r\n\r\nConstruiremos una lente para recoger y reflejar la luz solar.\r\n\r\nAnotación 2\r\nInvitamos a técnicos, clientes y algunos especialista en catadióptricos.\r\n\r\nLa mayoría de los mecánicos estuvieron de acuerdo; solo un experto, Lucius Benidii, mostró interés.\r\n\r\nEsperaremos su llegada.\r\n\r\nAnotación 3\r\nLa reunión ha arrojado resultados inusuales.\r\nAlgunos técnicos se opusieron por los riesgos y se negaron, pero el resto de figuras clave, incluido el especialista en catadióptricos, aceptaron. Ya estamos programando una reunión de seguimiento para comenzar a trabajar en los diseños.\r\n\r\nAnotación 4\r\nEl trabajo de diseño ha comenzado. Lucius compartió sus conocimientos y experiencia sobre la reflexión de la luz. El equipo está combinando cuidadosamente los conocimientos de los técnicos con la práctica del especialista. ¡Un gran comienzo!\r\n\r\n...\r\n\r\n___NEWPAGE___",
+    "lore-sundialdiary-piece2": "...\r\n\r\nAnotación 5\r\nLa construcción de la lente a veces se ve ralentizada por la inestabilidad de este lugar.\r\nLas tormentas temporales se han vuelto frecuentes, lo que nos obliga a desviar nuestros esfuerzos hacia la autoprotección.\r\nAparte de esto, el molde y los materiales para la lente ya están preparados.\r\n\r\nAnotación 6\r\nEl montaje está casi terminado; una técnica precisa y una experiencia ganada con esfuerzo nos han permitido construir un instrumento tan grande.\r\nUna vez finalizados los preparativos, podremos buscar inmediatamente respuestas a nuestras viejas preguntas.\r\n\r\nAnotación 7\r\nLa lente se maneja manualmente.\r\nCuatro personas lo giran y una persona situada en la plataforma inclina el espejo.\r\n\r\n...\r\n\r\n___NEWPAGE___",
+    "lore-sundialdiary-piece3": "...\r\n\r\nAnotación 8\r\nEl engranaje planetario, elemento clave del mecanismo de rotación, se creó con un esfuerzo tremendo.\r\nPrimero, fundimos un molde enorme y vertimos metal fundido.\r\nLos engranajes planetarios individuales se fundieron y, no sin dificultad, se acoplaron al conjunto.\r\nSeguimos el esquema y el manual de Jonas Falx.\r\n\r\n...\r\n\r\n___NEWPAGE___",
+    "lore-sundialdiary-piece4": "...\r\n\r\nAnotación 9\r\nLa lente funciona según lo previsto.\r\nPor suerte y gracias a un cuidadoso cálculo, la temporada actual permite que la luz del sol incida sobre la lente y se refleje en determinadas partes de la cueva.\r\nEl número de variables que gestionamos es enorme.\r\n\r\nAnotación 10\r\nNuestras primeras pruebas orientaron el haz hacia diferentes lugares; la esquina suroeste queda perfectamente iluminada y satisface plenamente nuestras necesidades.\r\nDebo señalar que es la fuente de luz más cara que he visto nunca.\r\nAhora podemos iluminar zonas de trabajo concretas, lo cual es extraordinario.\r\n\r\nAnotación 11\r\nPrimero apunta a la fisura.\r\nÉxito: la fisura parece congelarse, calmarse y aclararse.\r\nParece que lo hemos estabilizado.\r\nLas criaturas rehúyen la luz; temen cruzar a nuestro mundo.\r\nEsto sugiere un posible cruce al otro lado.\r\nConvocaremos una reunión del equipo en su honor.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-sundialdiary": "Parte {0}/{1} de la Historia descubierta.\r\n«Sundial Diary»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-maxwellscreations-title": "Eco de las Creaciones de Maxwell",
+    "lore-maxwellscreations-piece1": "Hoy, un maravilloso coro llenó el aulario.\r\n\r\nSe presentó una obra titulada «Creaciones de Maxwell».\r\n\r\nCuatro artistas prestaron sus voces para honrar este lugar, añadiendo valor al vasto conocimiento que ya se conserva aquí.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-maxwellscreations": "Parte {0}/{1} de la Historia descubierta.\r\n«Eco de las Creaciones de Maxwell»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-deliverieslist-title": "Pequeña Lista de Suministros",
+    "lore-deliverieslist-piece1": "Entregas de materiales metálicos desde la ciudad de Hushward y los asentamientos cercanos:\r\n\r\n- Hushward:\r\n\t32 Lingotes de Acero.\r\n\t64 Lingotes de Cobre.\r\n\t32 Lingotes de Oro Blanco.\r\n\r\n- Asentamientos cercanos:\r\n\t2 Yunques de Hierro.\r\n\t1 Caja de Carbón Negro.\r\n\r\n- Hushward:\r\n\t12 Piezas de Jonas con un Libro sobre su mecanismo y un sistema de Engranajes Planetarios.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-deliverieslist": "Parte {0}/{1} de la Historia descubierta.\r\n«Pequeña Lista de Suministros»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-reportslubrication-title": "Informes sobre la Lubricación de Mecanismos",
+    "lore-reportslubrication-piece1": "Informes sobre la lubricación del sistema de engranajes planetarios.\r\n\r\nAnotación 1\r\nVertí un poco de ese líquido donde me indicaste, mientras ellos comenzaban a mover el mecanismo. El chirrido ha desaparecido, parece que ha funcionado.\r\n\r\nAnotación 2\r\nGracias, lo he comprobado y todo está bien. Repetir el procedimiento después de cierto tiempo; repito, debe hacerse mientras los engranajes están en movimiento. Escribir aquí cuando lo hagas.\r\n\r\nAnotación 3\r\nRepetí todo. Todos hicieron un gran trabajo al montar algo así, es increíble verlo girar. Impresionante.\r\n\r\nAnotación 4\r\nDeja de escribir tus impresiones aquí, ¡este diario es solo para anotaciones importantes!\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-reportslubrication": "Parte {0}/{1} de la Historia descubierta.\r\n«Informes sobre la Lubricación de Mecanismos»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-conditions-title": "Condiciones",
+    "lore-conditions-piece1": "La reunión tras el éxito de la lente nos animó mucho, y no tenemos intención de parar.\r\nDado que la luz afecta favorablemente a las fisuras, tenemos previsto aumentar la carga y combinar las condiciones.\r\n\r\nAdemás, intentaremos cruzar la fisura nosotros mismos.\r\n\r\nLa siguiente fase de nuestros experimentos combinará múltiples condiciones: desplazar las fisuras a un único punto, estabilizarlas con la lente, estudiar las reacciones de las fisuras a la luz solar reflejada durante una tormenta y, lo que es más importante, hacer que los voluntarios crucen la Gran Fisura estabilizada.\r\n\r\nLo tendremos todo listo; si conseguimos reunir todas las condiciones a la vez, la tarea estará medio hecha.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-conditions": "Parte {0}/{1} de la Historia descubierta.\r\n«Condiciones»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-favorableconditions-title": "Condiciones Favorables para el Inicio del Experimento",
+    "lore-favorableconditions-piece1": "El oscilador tiembla con una fuerza antinatural. Las vibraciones raspan el disco como nunca antes, en un mayor radio.\r\nSe aproxima una tormenta temporal de una intensidad inusual.\r\n\r\nEste es el resultado tan esperado.\r\nInformé urgentemente a todos; la evacuación de los foráneos está en marcha.\r\nEl sonido de las campanas que anuncian la tormenta suena más fuerte de lo habitual.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-favorableconditions": "Parte {0}/{1} de la Historia descubierta.\r\n«Condiciones Favorables para el Inicio del Experimento»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+
+    "lore-strangetoylist-title": "Extraña Lista de Juguetes",
+    "lore-strangetoylist-piece1": "Nos piden que abandonemos este lugar durante un tiempo.\r\nNo consigo reunir las cosas menos importantes, así que dejo esta nota para mi yo futuro que volverá.\r\n\r\nQuedó aquí:\r\n...un juguete en el hueco decorativo de la pared a la derecha de la salida del barracón...\r\n...\r\n...un juguete detrás de la columna, bajando desde el primer piso...\r\n...\r\n...una caja llena de juguetes detrás del piano en el escritorio...\r\n...\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-strangetoylist": "Parte {0}/{1} de la Historia descubierta.\r\n«Extraña Lista de Juguetes»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-experimentteammember-title": "Anotación de un Integrante del Equipo del Experimento",
+    "lore-experimentteammember-piece1": "Estamos listos para el experimento; se está evacuando a los foráneos.\r\nTodo el personal está preparándose, especialmente el equipo de combate.\r\n\r\nEstoy muy emocionado; — ojalá pudiera estar en su lugar —\r\nechar un vistazo a otro mundo diferente al nuestro, a pesar del escepticismo y las preocupaciones de la mayoría del equipo directivo...\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-experimentteammember": "Parte {0}/{1} de la Historia descubierta.\r\n«Anotación de un Integrante del Equipo del Experimento»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-dutyofthescribe-title": "El Deber del Escribano",
+    "lore-dutyofthescribe-piece1": "Comienza el experimento. Me veo obligado a documentar todo lo que sucede a nuestro alrededor.\r\nSolo quedan 14 personas en el complejo.\r\n\r\nEntre ellos se encuentran: el Archimaestro, jefe principal; el escribano (yo); dos miembros del grupo directivo que gestionan la lente; y diez valientes guerreros, la mitad de los cuales tienen la intención de cruzar la frontera de este mundo.\r\n\r\nSi los combatientes logran cruzar la frontera, el grupo de líderes y yo también podremos atravesar la grieta.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-dutyofthescribe": "Parte {0}/{1} de la Historia descubierta.\r\n«El Deber del Escribano»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-initialphases-title": "Fases Iniciales del Experimento",
+    "lore-initialphases-piece1": "Fase 1\r\nAparecen grietas: una alineación favorable de circunstancias y un cálculo preciso las concentran en la esquina suroeste de la cueva.\r\nPoco a poco, empiezan a aparecer criaturas, pero ya estamos listos para apuntarles con la lente.\r\n\r\nFase 2\r\nLa lente está orientada: la Gran Fisura se ha estabilizado.\r\nNingún equipo del Archimaestro se acercó a la fisura.\r\nSeguimos esperando mientras todo permanece estable...\r\n\r\nFase 3\r\nSe siente la llegada de la tormenta; desviaremos la lente en el momento en que se manifieste.\r\nEl Archimaestro ordenó que ninguna criatura se acercara: cinco de nuestros combatientes, durante la desviación de la lente de la fisura.\r\nNunca antes habíamos orientado la lente hacia la fisura durante una tormenta.\r\n\r\nSe acerca la tormenta...\r\n\r\nFase 4\r\nLa tormenta ha llegado; en unos instantes, se dará la orden de orientar la lente...\r\n\r\n___NEWPAGE___",
+    "lore-initialphases-piece2": "Experiment Results...\r\n\r\nFase 5\r\nEra una imagen aterradora; ya no podíamos resistirnos a la Gran Fisura.\r\n\r\nLas criaturas comenzaron a emanar de ella con especial intensidad.\r\n\r\nMillones de partículas oxidadas emanaron del epicentro del experimento.\r\n\r\nSe cobró la vida de nuestra gente; nos apresuramos a huir.\r\nCasi la mitad del equipo de combatientes se perdió.\r\n\r\nEl que estaba más cerca simplemente fue borrado de la faz de la tierra.\r\nFragmentos oxidados cubrían los cuerpos de otros tres participantes; oí sus gritos y gemidos...\r\n\r\nEl quinto estaba cubierto de manchas oscuras; creo que era putrefacción.\r\nNo podemos salvarlo; hay montones de criaturas oxidadas a su alrededor.\r\nLo vi intentar activar el Escudo de Fisuras más cercano al epicentro...\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-initialphases": "Parte {0}/{1} de la Historia descubierta.\r\n«Fases Iniciales del Experimento»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-finalentriesarchmaster-title": "Anotaciones Finales del Archimaestro-Jefe",
+    "lore-finalentriesarchmaster-piece1": "La mitad del equipo de combatientes ha desaparecido.\r\nEl primero fue simplemente devorado vivo...\r\nTres de mis hombres quedaron cubiertos de óxido y fueron golpeados por la enorme cantidad de espigas que brotaban del portal.\r\nOtro de ellos aparentemente estaba afectado por la putrefacción.\r\n\r\nNos apresuramos a huir; todo se volvió incontrolable demasiado rápido.\r\n\r\nLa maldita fisura comenzó a escupir óxido y a envejecer todo lo que había a su alrededor, como si la nieve entrara volando por una ventana abierta en una tormenta durante un invierno inquieto.\r\n\r\n...No sé lo que me espera. Me encerré aquí y ordené a los guardianes restantes que protegieran al resto de personas.\r\nMe resulta increíblemente amargo escribir esto; tenía tantas esperanzas de que este experimento diera respuesta a nuestras preguntas.\r\n\r\nLo más probable es que todos los demás evacuaran a través de la abertura iluminada por el sol en medio del aulario — oí el alboroto —.\r\n\r\nMi conciencia y mi razón me atormentan; parece que tendré que quedarme aquí para siempre. Difícilmente podré llevar una vida normal después de lo que he visto y de la responsabilidad que tengo por aquellos que perdimos.\r\n\r\n -  Archimaestro.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-finalentriesarchmaster": "Parte {0}/{1} de la Historia descubierta.\r\n«Anotaciones Finales del Archimaestro-Jefe»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-tournamentwinners-title": "Ganadores del Torneo Ordinario",
+    "lore-tournamentwinners-piece1": "Ganadores del Torneo de Gomoku:\r\n\r\nWaldemar - 5\r\nKataodioptrik - 3\r\nKaspar - 2\r\nHarald - 1\r\nLucky One - 1\r\n\r\nOrganizador del Torneo - Kaspar Kristalin\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-tournamentwinners": "Parte {0}/{1} de la Historia descubierta.\r\n«Ganadores del Torneo Ordinario»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
+
+    "lore-messagetothestudent-title": "Mensaje para los Alumnos",
+    "lore-messagetothestudent-piece1": "Solicitud de Piezas\r\nAlumno, mi turno está acabando. No puedo terminar de reparar la Sala de la Fisura.\r\n\r\nBuscar en nuestro almacén:\r\nConector de Separación de Flujo.\r\nCilindro de Refracción Invertida.\r\nOscilador Equilibrado con Precisión.\r\nVarias Piezas Metálicas.\r\n\r\nDéjalos aquí. Te enseñaré el proceso que una vez me enseñó la persona que trabajaba con Jonas Falx.\r\n\r\n___NEWPAGE___",
+    "game:ingamediscovery-lore-messagetothestudent": "Parte {0}/{1} de la Historia descubierta.\r\n«Mensaje para los Alumnos»\r\n<font size='20'>Pulsa J para abrir tu Diario</font>",
 
 
 
 
-    "game:item-stackrandomizer-blrmeteoriciron": "BR ► Aleatorizador de bloques de Hierro Meteorítico",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "game:item-stackrandomizer-darkheat": "BR ► Historia «El Calor Oscuro»",
+    "game:item-stackrandomizer-glimmershield": "BR ► Historia «El Castillo de Glimmershield»»",
+    "game:item-stackrandomizer-lastfisherman": "BR ► Historia «Último Pescador»",
+    "game:item-stackrandomizer-lastwall": "BR ► Historia «Último Muro»",
+    "game:item-stackrandomizer-wolfstone": "BR ► Historia «El Castillo de Wolfstone»»",
+    "game:item-stackrandomizer-forlornhope": "BR ► Historia «Esperanza Perdida»",
+    "game:item-stackrandomizer-fieldengineersdiary": "BR ► Historia «Diario del Ingeniero de Campo»",
+    "game:item-stackrandomizer-largechurch": "BR ► Historia «Gran Iglesia»",
+    "game:item-stackrandomizer-undergroundlibrary": "BR ► Historia «Biblioteca Subterránea»",
+    "game:item-stackrandomizer-lostdoll": "BR ► Historia «Muñeca Perdida»",
+    "game:item-stackrandomizer-finalhour": "BR ► Historia «La Última Hora»",
+    "game:item-stackrandomizer-minerlogentries": "BR ► Historia «Anotaciones del Minero Edric»",
+    "game:item-stackrandomizer-newmaterials": "BR ► Historia de la «Viridilita»",
+    "game:item-stackrandomizer-viridiliteshift": "BR ► Historia de «Cambio de la Viridilita»",
+    "game:item-stackrandomizer-greensecret": "BR ► Historia «El Secreto Verde»",
+    "game:item-stackrandomizer-grandrifttheory": "BR ► Historia de la «Teoría de la Gran Fisura»",
+    "game:item-stackrandomizer-sundialdiary": "BR ► Historia de «Diario del Reloj de Sol»",
+    "game:item-stackrandomizer-maxwellscreations": "BR ► Historia de las «Creaciones de Maxwell»»",
+    "game:item-stackrandomizer-deliverieslist": "BR ► Historia de «Pequeña Lista de Suministros»",
+    "game:item-stackrandomizer-reportslubrication": "BR ► Historia de «Informes sobre la Lubricación de Mecanismos»",
+    "game:item-stackrandomizer-conditions": "BR ► Historia de «Condiciones»",
+    "game:item-stackrandomizer-favorableconditions": "BR ► Historia de «Condiciones Favorables»",
+    "game:item-stackrandomizer-strangetoylist": "BR ► Historia de «Extraña Lista de Juguetes»",
+    "game:item-stackrandomizer-experimentteammember": "BR ► Historia del «Integrante del Equipo del Experimento»",
+    "game:item-stackrandomizer-dutyofthescribe": "BR ► Historia de «Deber del Escribano»",
+    "game:item-stackrandomizer-initialphases": "BR ► Historia de «Fases Iniciales del Experimento»",
+    "game:item-stackrandomizer-finalentriesarchmaster": "BR ► Historia de «Anotaciones Finales del Archimaestro»",
+    "game:item-stackrandomizer-tournamentwinners": "BR ► Historia de «Ganadores del Torneo»",
+    "game:item-stackrandomizer-messagetothestudent": "BR ► Historia de «Mensaje para los Alumnos»",
+    "game:item-stackrandomizer-desperatetimes": "BR ► Historia de «Tiempos Desesperados»",
+    "game:item-stackrandomizer-devotion": "BR ► Historia de «Devoción»",
+    "game:item-stackrandomizer-forlornhopebounty": "BR ► Historia de «Esperanza Desamparada»",
+    "game:item-stackrandomizer-forlornhopemilitaryrecord89": "BR ► Historia de «Expediente Militar nº89»",
+    "game:item-stackrandomizer-forlornhoperecruitment": "BR ► Historia de «Carta de Reclutamiento de la Esperanza Desamparada»",
+    "game:item-stackrandomizer-forlornhopestrategies": "BR ► Historia de «Estrategias y Tácticas de Guerra»",
+    "game:item-stackrandomizer-librarianslament": "BR ► Historia de «Lamento del Bibliotecario»",
+    "game:item-stackrandomizer-priestdiary": "BR ► Historia de «Diario de un Sacerdote»",
+
+
+
+    "game:item-stackrandomizer-buildingblocks": "BR ► Aleatorizador de Bloques de Construcción",
+    "game:item-stackrandomizer-clayproducts": "BR ► Aleatorizador de Productos de Arcilla",
+    "game:item-stackrandomizer-mechanical": "BR ► Aleatorizador de Objetos Mecánicos",
+    "game:item-stackrandomizer-backpack": "BR ► Aleatorizador de Mochilas",
+    "game:item-stackrandomizer-kingclothing": "BR ► Aleatorizador de Ropa del Rey",
+    "game:item-stackrandomizer-rottenkingclothing": "BR ► Aleatorizador de Ropa del Rey Podrida",
+    "game:item-stackrandomizer-mask": "BR ► Aleatorizador de Máscaras",
+    "game:item-stackrandomizer-newlore": "BR ► Aleatorizador de las Anotaciones de la Historia",
+    "game:item-stackrandomizer-cursed": "BR ► Recompensa Especial Incontrovertida de Recompensas de otros Mods.",
+
+    "game:item-stackrandomizer-forlornhope-weapons": "BR ► Botín de Armas de la Esperanza Desamparada",
+    "game:item-stackrandomizer-forlornhope-armor": "BR ► Botín de Armadura de la Esperanza Desamparada",
+    "game:item-stackrandomizer-forlornhope-specials": "BR ► Botín Especial de la Esperanza Desamparada",
+
+
+
+
+    "game:item-stackrandomizer-blrmeteoriciron": "BR ► Aleatorizador de Bloques de Hierro Meteorítico",
 
 
 
@@ -160,6 +289,19 @@
     "item-locatormap-mansion": "Mapa de la Mansión",
     "betterruins:item-handbooktext-betterruins:locatormap-mansion": "<strong>Hallado en</strong>\nEn la «Encrucijada».",
 
+    "game:location-thepanopticon": "El Panóptico",
+    "item-locatormap-thepanopticon": "Mapa de El Panóptico",
+    "betterruins:item-handbooktext-betterruins:locatormap-thepanopticon": "<strong>Hallado en</strong>\nEn la «Encrucijada».",
+
+    "game:location-huaca": "Huaca de la Luna",
+    "item-locatormap-huaca": "Mapa de Huaca de la Luna",
+    "betterruins:item-handbooktext-betterruins:locatormap-huaca": "<strong>Hallado en</strong>\nEn la «Encrucijada».\n\n<strong>Bateando</strong>\nArena o Grava",
+
+    "game:location-sunrift": "The Sunrift Experiment",
+    "item-locatormap-sunrift": "Map to The Sunrift Experiment",
+    "betterruins:item-handbooktext-betterruins:locatormap-sunrift": "<strong>Found in</strong>\nRare in any ruin\n\n<strong>Talk to</strong>\nLuxuries Trader",
+    "item-locatormap-agedsunrift": "Aged Map to The Sunrift Experiment",
+    "betterruins:item-handbooktext-betterruins:locatormap-agedsunrift": "<strong>Found in</strong>\nRare in a surface ruin",
 
 
     "item-locatormap-graves": "Calcos de Lápidas Perdidas",
@@ -169,7 +311,7 @@
     "item-locatormap-giantcathedral": "Lugar Sagrado Estimado",
     "item-locatormap-forlornhopedungeon": "Bastión Desolado",
     "item-locatormap-university": "Mapa hacia La Universidad",
-    "itemdesc-locatormap-gates": "Un mapa que indica la ubicación de un translocalizador. Se recomienda excavar en la ubicación exacta.\n(Usa el Botón Derecho para marcar la ubicación en el mapa).",
+    "itemdesc-locatormap-gates": "Un mapa que indica la ubicación de un transportador. Se recomienda excavar en la ubicación exacta.\n(Usa el Botón Derecho para marcar la ubicación en el mapa).",
     "itemdesc-locatormap-graves": "Un mapa que indica la ubicación de una tumba superficial.\n(Usa el Botón Derecho para marcar la ubicación en el mapa).",
     "itemdesc-locatormap-undergroundruins": "Un mapa que indica la ubicación de una estructura subterránea. Se recomienda excavar en la ubicación exacta.\n(Usa el Botón Derecho para marcar la ubicación en el mapa).",
     "itemdesc-locatormap-*": "Un mapa que indica la ubicación de un lugar oculto. Úsalo para encontrar la entrada de la zona oculta.\n(Usa el Botón Derecho para marcar la ubicación en el mapa).",
@@ -227,23 +369,30 @@
     "betterruins:item-handbooktext-betterruins:br-schematic-roofing": "<strong>Se encuentra en</strong>\nRaro en cualquier ruina.",
     "item-br-schematic-palisade": "Diagrama de Construcción de Empalizada",
     "betterruins:item-handbooktext-betterruins:br-schematic-palisade": "<strong>Se encuentra en</strong>\nRaro en cualquier ruina.",
-    "item-br-schematic-farmer": "Farmer's Blueprint",
+    "item-br-schematic-farmer": "Diagrama de Agricultor",
     "betterruins:item-handbooktext-betterruins:br-schematic-farmer": "<strong>Se encuentra en</strong>\nRaro en cualquier ruina.",
-    "item-br-schematic-shipwright": "Shipwright's Blueprint",
+    "item-br-schematic-shipwright": "Diagrama de Astilleros",
     "betterruins:item-handbooktext-betterruins:br-schematic-shipwright": "<strong>Se encuentra en</strong>\nRaro en cualquier ruina.",
+    "item-br-schematic-weaver": "Diagrama del Tejedor",
+    "betterruins:item-handbooktext-betterruins:br-schematic-weaver": "<strong>Se encuentra en</strong>\nRaro en cualquier ruina.",
+    "item-br-schematic-artisan": "Diagrama del Artesano",
+    "betterruins:item-handbooktext-betterruins:br-schematic-artisan": "<strong>Se encuentra en</strong>\nRaro en cualquier ruina.",
+    "item-br-schematic-pipes": "Diagrama del Fontanero",
+    "betterruins:item-handbooktext-betterruins:br-schematic-pipes": "<strong>Se encuentra en</strong>\nRaro en cualquier ruina.",
 
     "itemdesc-br-schematic-*": "<i>Estos diagramas son reutilizables y contienen los secretos de recetas olvidadas creadas por los maestros de su oficio.</i>\n",
 
 
+
     "game:item-textureflipper": "Transfigurador Temporal",
-    "game:itemdesc-textureflipper": "<i>Un ornamentado dispositivo de Cuproníquel diseñado para transformar algunas texturas de bloques de las ruinas, canalizando la esencia de la reconfiguración temporal.<i>\n\n<font opacity='0.6'>No hay demasiados Bloques de Ruinas que puedan ser modificados pero asegúrate de probar este dispositivo en todos ellos.\n\nMira un Bloque de Ruinas compatible y usa la Tecla F para seleccionar la textura alternativa.</font>",
-    "item-br-schematic-textureflipper": "Diagrama de Transfigurador Temporal",
+    "game:itemdesc-textureflipper": "<font opacity='0.6'><i>Ornamentado dispositivo de cuproníquel diseñado para transformar algunas texturas de (madera) los bloques de las ruinas, canalizando la esencia de la reconfiguración temporal.</i></font>\n\n<font color='gray'>No hay demasiados bloques en las ruinas que puedan ser modificados, pero asegúrate de probar este dispositivo en todos ellos.\n\nApunta hacia un Bloque en ruinas y usa la Tecla «F» para seleccionar la textura alternativa, si esta es compatible.</font>",
+    "item-br-schematic-textureflipper": "Diagrama del Transfigurador Temporal",
     "betterruins:item-handbooktext-betterruins:br-schematic-textureflipper": "<strong>Se encuentra en</strong>\nEstructura de la Historia Universitaria",
 	"game:clutter-globe1": "Globo Planetario",
 
 
 
-    "universal_schematic_comment": "Define la probabilidad de que este diagrama aparezca en las estructuras.\n\n- Aumentar el valor para incrementar la probabilidad de generación.\n- Ajustar el valor a 0 para desactivar la generación.\n- El objeto no se puede desactivar individualmente.",
+    "universal_schematic_comment": "Define la probabilidad de que este diagrama aparezca en las estructuras.\n\n- Aumentar el valor para aumentar la probabilidad de generación.\n- Ajustar el valor a 0 para desactivar la generación.\n- El objeto no se puede desactivar individualmente.",
     "universal_spawnchance": "Probabilidad de Generación",
     "universal_spawnchance_comment": "Define la probabilidad de que esta estructura se genere (dentro de su grupo, si procede).\n\n- Un valor alto aumenta la frecuencia de generación.",
     "universal_mindistance": "Distancia Mínima",
@@ -276,6 +425,7 @@
     "coloredvillage_spawn_chance": "Generación de Aldeas Coloridas",
     "ogdredvillage_spawn_chance": "Generación de Aldeas Ogdreds",
     "femursnappervillage_spawn_chance": "Generación de Aldeas FemurSnappers",
+    "villagestonesrowlyart_spawn_chance": "Probabilidad de aparición de Aldeas Rowdyarts",
     "largeruins_spawn_chance": "Generación de Ruinas Grandes",
     "mediumruins_spawn_chance": "Generación de Ruinas Medianas",
     "desertruins_spawn_chance": "Generación de las Ruinas del Desierto",
@@ -286,9 +436,9 @@
     "schematic_crafting_comment": "Define si los diagramas se pueden duplicar usando una receta para intercambiarlos entre jugadores. Marca esta casilla para activar la duplicación.",
     "overall_spawn_chances_title": "Probabilidad de Generación Global",
     "megastructures_title": "Megaestructuras",
-    "translocators_title": "Translocalizadores",
+    "translocators_title": "Transportadores",
     "villages_title": "Aldeas",
-    "ruins_title": "Ruinas",
+    "largeruins_title": "Grandes Ruinas",
     "underground_title": "Subterráneo",
     "graves_title": "Tumbas",
     "loot_title": "Recompensas",
@@ -298,7 +448,7 @@
     "monoliths_title": "Monolitos",
     "megastructure_wallsegment": "Megaestructura «Segmento de Muro»",
     "megastructure_rockformation": "Megaestructura «Formación Rocosa»",
-    "megastructure_nordichouse": "Megaestructura «Casa Nórdica»",
+    "megastructure_houseofusher": "Megaestructura «La Caída de la Casa Usher»",
     "megastructure_visingborg": "Megaestructura «Visingborg»",
     "megastructure_catnoirscastleruin": "Megaestructura «Ruina del Castillo de Catnoir»",
     "megastructure_destroyedlargechurch": "Megaestructura «Iglesia Grande Destruida»",
@@ -313,6 +463,8 @@
     "megastructure_aqueduct": "Megaestructura «Acueducto»",
     "megastructure_jumblerockcastle": "Megaestructura «Castillo Jumblerock»",
     "megastructure_settlementofkeykeepers": "Megastructura «Asentamiento de Guardianes de Llaves»",
+    "megastructure_romanbathhouse": "Megaestructura «Baños Romanos»",
+    "megastructure_palaceofnestor": "Megaestructura «Palacio de Néstor»",
     "megastructures_min_spawn_distance": "Distancia mínima de Generación de las Megaestructuras",
     "wiki_link": "Enlace Wiki",
     "mediumruins_min_spawn_distance": "Distancia mínima desde el Inicio hasta las primeras Ruinas de Tamaño Medio.",
@@ -320,7 +472,7 @@
     "desertruins_min_distance": "Distancia mínima entre Ruinas del Desierto.",
     "mediumruins_title": "Ruinas de Tamaño Medio",
     "desertruins_title": "Ruinas del Desierto",
-    "surfaceundergroundruins_title": "Entrada a las Ruinas de la Superficie",
+    "surfaceundergroundruins_title": "Entrada a las Ruinas de Superficie",
     "villages_min_distance": "Distancia Mínima",
 
 
@@ -367,12 +519,16 @@
     "dialogue-globediscussion6": "Y como prometí, aquí tienes tu merecida recompensa de 10 engranajes oxidados por traerme el globo. ¡Muchas gracias!",
     "dialogue-globediscussion7": "Un placer hacer negocios con usted.",
     "dialogue-maprepeat1": "Déjame revisar mis notas... Ah, aquí está. Esto debería ayudarte a encontrar la universidad en el barranco. Úsalo sabiamente, y buena suerte.",
-    "game:This is a relief to encounter a friendly countenance amidst these lands.": "Es un alivio encontrar un semblante amistoso en medio de estas tierras.",
-    "game:Are there others out there like me?": "¿Hay otros como yo?",
-    "game:I find myself lacking in complete certainty as well.": "Yo también me encuentro falto de certeza total.",
-    "game:Sorry ... but somethings are best left unspoken.": "Lo siento... pero algunas cosas es mejor no decirlas.",
-    "game:Ah, a new customer! How can I help you?": "Ah, ¡un nuevo cliente! ¿En qué puedo ayudarle?",
     "game:Kind of you to ask, traveler. It's {{npcname}}.": "Muy amable por preguntar, viajero. Mi nombre es {{npcname}}.",
+    "game:Alright, save me the trouble. Here's four gears.": "Muy bien, ahórrame la molestia. Aquí tienes cuatro engranajes.",
+    "game:No thanks, I don't have much to spare.": "No gracias, no me sobra mucho.",
+    "game:Here, I've marked on a map where you might find one of them. He had set up a small outpost there last time I passed by.": "He marcado en un mapa dónde podrías encontrar a uno de ellos. La última vez que pasé por allí instalé un pequeño campamento de avanzada.",
+    "game:Excellent. Thank you for the business.": "Excelente. Gracias por el servicio.",
+
+
+
+
+
 
 
     "betterruins:Do you know anything interesting around here?": "¿Conoces algo interesante por aquí?",
@@ -393,6 +549,10 @@
     "betterruins:I’ll take it. What’s your price?": "Me lo llevo. ¿Cuál es tu precio?",
     "betterruins:Who made it?": "¿Quién lo ha hecho?",
     "betterruins:Those who made it sealed themselves in, taking their names with them. But they left warnings, etched in stone and scratched into bone. Listen closely when you're down there... you might still hear them.": "Los que lo lograron se encerraron en sí mismos, llevándose sus nombres. Pero dejaron advertencias, grabadas en la piedra y arañadas en el hueso. Escucha atentamente cuando estés ahí abajo... puede que aún las oigas.",
+    "betterruins:Thanks!": "¡Gracias!",
+    "betterruins:Now give me the map please.": "Ahora pásame el mapa, por favor.",
+    "betterruins:Here take the Meteoric Knife.": "Aquí tienes el Cuchillo Meteórico.",
+
 
 
 
@@ -400,7 +560,7 @@
     "game:loretype-lastwall": "Notas encontradas en un tramo de muro de un castillo en ruinas.",
     "game:loretype-lastfisherman": "Notas encontradas en un tramo de muro de un castillo en ruinas.",
     "game:loretype-darkheat": "Notas de investigación encontradas cerca del lugar de impacto de un meteorito.",
-    "game:loretype-glimmershield": "Historias de un antiguo castillo.",
+    "game:loretype-glimmershield": "Historias de «El Castillo de Glimmershield».",
     "game:loretype-wolfstone": "Historias de un antiguo castillo.",
     "game:loretype-forlornhope": "Documentos sobre la «Esperanza Desamparada».",
     "game:loretype-fieldengineersdiary": "Diario de un ingeniero de campo.",
@@ -409,7 +569,44 @@
     "game:loretype-lostdoll": "Notas encontradas en una granja abandonada.",
     "game:loretype-finalhour": "Historia de los últimos apuntes de alguien.",
     "game:loretype-minerlogentries": "Anotaciones encontradas en una mina de carbón.",
-    "game:loretype-universalstories": "Historias olvidadas del pasado."
+    "game:loretype-universalstories": "Historias olvidadas del pasado.",
+
+
+    "betterruins:Ahh I see I will try to get you those gears and return.": "Ah, ya veo. Intentaré conseguirte esos engranajes y volveré.",
+    "betterruins:You probably wander the world a lot. Heard many stories?": "Probablemente viajas mucho por el mundo. ¿Has oído muchas historias?",
+    "betterruins:Can you remind me where the location with the sun symbol was?": "¿Me puedes recordar dónde estaba el lugar con el símbolo del sol?",
+    "betterruins:I have the pickaxe in exchange for the map with the sun.": "Tengo el pico, a cambio del mapa con el sol.",
+    "betterruins:There are plenty of stories. They gather like dirt on boots. Listening to them is certainly safer than checking them.": "Hay muchas historias. Se acumulan como el polvo en las botas. Escucharlas es sin duda más seguro que comprobarlas.",
+    "betterruins:Is there one? Not too old.": "¿Hay alguno? No demasiado viejo.",
+    "betterruins:I understand. I'll step away.": "Entiendo. Me apartaré.",
+    "betterruins:There is one. But it holds no more certainty than the others.": "Hay uno. Pero no es más seguro que los demás.",
+    "betterruins:Typical for stories, I'm interested.": "Como suele ocurrir con las historias, me interesa.",
+    "betterruins:Save it for now, I'll come back later.": "Guárdalo por ahora, volveré más tarde.",
+    "betterruins:There were rumors about the existence of one place. Distant and large. So distant that speaking of it is already an achievement. People wanted to influence something that, as is customary, cannot really be influenced. They wanted to muffle... or even push away... the screech of metal in the middle of the day, and the feeling of rust in the air. But the world doesn't like it much when its manifestations are silenced.": "Se rumoreaba la existencia de un lugar. Lejano y grande. Tan lejano que hablar de él ya era todo un logro. La gente quería influir en algo que, como es habitual, no se puede influir realmente. Querían silenciar... o incluso alejar... el chirrido del metal en pleno día y la sensación de óxido en el aire. Pero al mundo no le gusta mucho que se silencien sus manifestaciones.",
+    "betterruins:Hard to imagine how it ended...": "Es difícil imaginar cómo terminó...",
+    "betterruins:Another tragic story? I don't have time.": "¿Otra historia trágica? No tengo tiempo.",
+    "betterruins:As they say: as they flared up, so they faded. As far as I know, it's unlikely anyone has forced themselves to visit that place again. After the terrible rumors that spread through the world following their failure. I even think a tradition appeared to leave that place alone.": "Como se suele decir: tan rápido como aparecieron, tan rápido desaparecieron. Por lo que yo sé, es poco probable que alguien se haya atrevido a volver a visitar ese lugar. Después de los terribles rumores que se extendieron por todo el mundo tras su fracaso. Incluso creo que surgió una tradición de dejar ese lugar en paz.",
+    "betterruins:And would you like to visit it?": "¿Te gustaría visitarlo?",
+    "betterruins:Sounds grim, my condolences. I should go.": "Suena triste, mis condolencias. Debo irme.",
+    "betterruins:I don't really want to break tradition. And it's quite far - I trust rumors more than my own cart for such a distance. Yet safety comes first, it's no place for me alone. They also say danger outlives its masters.": "No quiero romper con la tradición. Y está bastante lejos; en una distancia así, confío más en los rumores que en mi propio carro. Sin embargo, la seguridad es lo primero, no es un lugar para mí solo. También dicen que el peligro sobrevive a sus amos.",
+    "betterruins:I understand, do you have anything else?": "Entiendo, ¿tienes algo más?",
+    "betterruins:I agree with you. Let's leave that place be.": "Estoy de acuerdo contigo. Dejemos ese lugar como está.",
+    "betterruins:I think I have a map from there... I'm not sure it leads exactly to it, but the mark with the sun suggests otherwise. The sun - the symbol of that place...": "Creo que tengo un mapa de allí... No estoy seguro de que lleve exactamente hasta allí, pero la marca con el sol sugiere lo contrario. El sol, el símbolo de ese lugar...",
+    "betterruins:I want to obtain it. I assume you need something in return?": "Quiero conseguirlo. Supongo que necesitarás algo a cambio.",
+    "betterruins:Maybe you should get rid of it, might be safer for both of us.": "Quizás deberías deshacerte de él, podría ser más seguro para los dos.",
+    "betterruins:Yes, but not exactly payment. A confirmation of your abilities. Show that you can handle good metal - bring me an iron pickaxe you forged yourself. If you're going there, better not go without purpose or craftsmanship.": "Sí, pero no exactamente un pago. Una confirmación de tus habilidades. Demuestra que sabes trabajar bien el metal: tráeme un pico de hierro que hayas forjado tú mismo. Si vas allí, mejor que no vayas sin un propósito o sin destreza.",
+    "betterruins:Sounds worthy, but I still need to learn that.": "Suena bien, pero todavía tengo que aprender eso.",
+    "betterruins:I'll try to satisfy your request to prove my intentions.": "Intentaré satisfacer tu petición para demostrar mis intenciones.",
+    "betterruins:Of course... I see... yes, the pickaxe is solid. I think I can trust you with more than just the map.": "Claro... Ya veo... Sí, el pico es sólido. Creo que puedo confiar en ti con algo más que el mapa.",
+    "betterruins:More than?": "¿Más que?",
+    "betterruins:I'll stick to the map, thank you very much.": "Me quedaré con el mapa, muchas gracias.",
+    "betterruins:Very well. Take the map, and may your steps be careful where the sun once burned brightest.": "Muy bien. Toma el mapa y que tus pasos sean cuidadosos donde el sol una vez brilló con más intensidad.",
+    "betterruins:Yes, knowledge and items you'll need there. Considering the different rumors, the danger seems to still live there. You'll need equipment that can withstand an unexpected strike. You'll need fire - it doesn't burn willingly there, so take enough torches. Also - support, something to brace yourself against if the ground trembles. And medicine - absolutely. The pain from those events has most likely remained there, and the place will gladly share it with any visitor. Perhaps even with the first visitor...": "Sí, necesitarás conocimientos y objetos. Teniendo en cuenta los diferentes rumores, parece que el peligro sigue presente allí. Necesitarás equipamiento que pueda soportar un golpe inesperado. Necesitarás fuego, ya que allí no arde fácilmente, así que lleva suficientes antorchas. También necesitarás un apoyo, algo contra lo que agarrarte si el suelo tiembla. Y medicinas, sin duda. Es muy probable que el dolor de aquellos acontecimientos siga allí, y el lugar estará encantado de compartirlo con cualquier visitante. Quizás incluso con el primer visitante...",
+    "betterruins:This is definitely useful knowledge, thank you very much.": "Sin duda, es un dato muy útil, muchas gracias.",
+    "betterruins:Heard you... unpleasant, I'll think about it.": "Te escuché... desagradable, lo pensaré.",
+    "betterruins:And one more thing. Don't expect answers from the map - just observe the things around you, that always helped me in difficult situations like yours.": "Y una cosa más. No esperes encontrar respuestas en el mapa, solo observa lo que te rodea, eso siempre me ha ayudado en situaciones difíciles como la tuya.",
+    "betterruins:Then take the map and let your own judgement guide you. Some places are better understood in silence than in stories.": "Entonces toma el mapa y déjate guiar por tu propio criterio. Algunos lugares se comprenden mejor en silencio que en historias.",
+    "betterruins:Here you go I got another copy of the map.": "Toma, aquí tienes otra copia del mapa.",
 
 
 
@@ -417,6 +614,135 @@
 
 
 
+    "// Añadidas para traducir los Objetos Cincelados de las Ruinas ": "",
+    "game:": "",
+
+    "game:Virrno's mark": "Huella del Escultor Virrno",
+    "game:copy": "Copia «sin nombre»",
+    "game:'Seraph's Lament'": "«Lamento de Serafín»",
+    "game:Creativeblock (43)": "Bloque Creativo (43)",
+    "game:Aged lightning rod": "Pararrayos Envejecido",
+    "game:Aged artisan window (arched)": "Ventana Arqueada Artesanal Envejecida",
+    "game:Broken hopper": "Tolva Rota",
+    "game:Aged Stone Quern": "Molino de Piedra Envejecido",
+    "game:Corroded T-Shaped Chute": "Conducto en T Corroído",
+    "game:Corroded Straight Chute": "Conducto Recto Corroído",
+    "game:Corroded Elbow Chute": "Conducto Acodado Corroído",
+    "game:Aged pulverizer": "Pulverizador Envejecido",
+    "game:Aged pulverizer frame": "Marco de Pulverizador Envejecido",
+    "game:Corroded hopper": "Tolva Corroída",
+    "game:Aged helve hammer base": "Soporte de Martinete Envejecido",
+    "//game:Aged helve hammer\\nThe mechanims seems to be broken.": "Martinete Envejecido",
+    "game:Aged helve hammer": "Martinete Envejecido",
+    "game:Angled gear": "Engranaje Angular",
+    "game:Aged wooden gear rim": "Corona Dentada de Madera Envejecida",
+    "//game:Aged wooden axle\\nMechanical power part\\nThe axle seems too stiff to turn.": "Eje de Madera Envejecido",
+    "game:Aged wooden axle": "Eje de Madera Envejecido",
+    "game:Aged windmill rotor": "Rotor de Molino de Viento Envejecido",
+    "game:Aged sail": "Vela Envejecida",
+    "game:Aged debarked quarter logs": "Tronco Descortezado Acuartelado Envejecido",
+    "game:Aged Hay (Grass)": "Heno Envejecido de Hierba",
+
+    "game:Granite dry stone": "Piedra Seca de Granito",
+    "game:Needel": "Aguja",
+    "game:Aged Barrel Rack": "Estante Envejecido para Barricas",
+    "game:Doorhinge": "Bisagra",
+    "game:Ruined painting": "Cuadro sin Lienzo",
+    "game:Spiral staircase": "Escalera de Caracol",
+    "game:Artisan window (arched)": "Ventana Arqueada Artesanal",
+    "game:Mosaic window": "Ventana con Mosaico",
+    "game:Aged mosaic window": "Ventana Envejecida con Mosaico",
+
+    "game:Claystone rock": "Roca de Arcilla",
+    "game:Very aged debarked log": "Tronco Descortezado Muy Envejecido",
+    "game:Aged forge": "Forja Envejecida",
+    "game:Workshop table": "Mesa de Trabajo",
+    "game:Aged wooden planks": "Tablones Envejecidos de Madera",
+    "game:Low celiling supports (small)": "Travesaño Bajo Techo",
+    "game:Low celiling supports": "Viga Bajo Techo",
+    "game:Low ceiling supports (small)": "Travesaño Bajo Techo",
+    "game:Low ceiling supports": "Viga Bajo Techo",
+
+    "game:kaan ku líík'il": "¿Quién es el mentiroso?",
+    "game:Yuum Kutal": "Señor Kutal",
+    "game:Kimberlite Table": "Mesa de Kimberlita",
+    "game:Aged polished rock (Chalk)": "Roca Pulida de Tiza Envejecida",
+    "game:Light Mudbrik": "Barro Claro",
+    "game:Dark Mudbrik": "Barro Oscuro",
+    "game:Aged granite ashlar blocks": "Bloques de Sillería Envejecida de Granito",
+    "game:Aged polished rock (Granite)": "Roca Pulida de Granito Envejecida",
+    "game:Aged granite bricks": "Ladrillos Envejecidos de Granito",
+    "game:Granite rock (Polished)": "Roca Pulida de Granito",
+    "game:Marble Bank (left)": "Banco de Mármol (izquierda)",
+    "game:Marbel Bank (right)": "Banco de Mármol (derecha)",
+    "game:Peridotite rock (Polished)": "Roca Pulida de Peridotita",
+    "game:Kimberlite rock (Polished)": "Roca Pulida de Kimberlita",
+    "game:Aged Wooden Pew": "Banco de Madera Envejecida",
+    "game:Church Window": "Ventana de Iglesia",
+    "game:Broken Church Window": "Ventana de Iglesia Rota",
+    "game:White marble rock": "Roca de Mármol Blanco",
+    "game:White marble rock (Polished)": "Roca Pulida de Mármol Blanco",
+    "game:Gold block": "Bloque de Oro",
+    "game:Krastus the Great": "Krastus el Grande",
+    "game:Statue 1 (head)": "\nCabeza de Estatua <font color='gray'>1</font>",
+    "game:Statue 1 (torso)": "\nTorso de Estatua <font color='gray'>1</font>",
+    "game:Statue 1 (podest)": "\nPedestal de Estatua <font color='gray'>1</font>",
+    "game:Aged piano": "Piano Envejecido",
+    "game:Past": "Pasado",
+    "game:Lunar": "Lucero",
+    "game:Walnut table": "Mesa de Nogal",
+    "game:Aged Barrel": "Barril Envejecido",
+    "game:Barrel rack": "Estante para Barriles",
+    "game:Slate rock": "Roca de Pizarra",
+    "game:Builder StAdrian": "Constructor San Adrián",
+    "game:The Weeping Knight": "El Caballero Sollozante",
+    "game:Forlorn statue base": "Base de Estatua Desamparada",
+    "game:Forlorn Hope Runes": "Runas de la Esperanza Desamparada",
+    "game:Mathematical imagery": "Símbolos Matemáticos",
+    "game:Alchemy symbols": "Símbolos de Alquimia",
+    "game:Precision": "Precisión",
+    "game:Feeling": "Sensación",
+    "game:Sun": "Sol",
+    "game:Height": "Altura",
+    "game:Plague": "Plaga",
+    "game:Morning": "Mañana",
+    "game:Transformation": "Transformación",
+    "game:Movement": "Movimiento",
+    "game:Longevity": "Longevidad",
+    "game:Keep": "Estabilización",
+    "game:Creation": "Creación",
+    "game:Friendship": "Amistad",
+    "game:Safety": "Seguridad",
+    "game:Weapon": "Armamento",
+    "game:Tool": "Herramienta",
+    "game:Nature": "Natural",
+    "game:Stellar": "Estelar",
+    "game:Invite": "Invitación",
+    "game:Danger": "Peligro",
+    "game:Value": "Valor",
+    "game:Beauty": "Belleza",
+    "game:Stability": "Estabilidad",
+    "game:Immortality": "Inmortalidad",
+    "game:plinth_top": "Pedestal (Parte Superior)",
+    "game:plinth_mid": "Pedestal (Parte Central)",
+    "game:plinth_bot": "Pedestal (Parte Inferior)",
+    "game:Corroded brass pillar bust": "Busto de la Columna de Latón Corroída",
+    "game:Corroded brass pillar": "Columna de Latón Corroída",
+    "game:Corroded brass pillar base": "Pase de la Columna de Latón Corroída",
+    "game:Corroded ruined brass pillar bust": "Busto de la Columna de Latón Corroída Deteriorado",
+    "game:Corroded ruined brass pillar": "Columna de Latón Corroída Deteriorado",
+    "game:Corroded ruined brass pillar base": "Pase de la Columna de Latón Corroída Deteriorado",
+    "game:Chalk rock": "Roca Caliza",
+    "game:Mark of Sir Virrno": "Marca de Sir Virrno",
+    "game:Sir Bell's luminarium lantern": "Linterna Luminosa de Sir Bell",
+    "game:Arch": "Arco",
+    "game:Granite cobblestone": "Adoquín de Granito",
+    "game:Anubis": "Estatua de Anubis",
+    "game:Sir Dampus's favourite candelabra": "El Candelabro Preferido de Sir Dampus",
+    "game:Marble statue 'Made by Quentin-Chisel tools'": "Estatua de Mármol 'Echo con QP Chisel Tools'",
+    "game:Gold trimmed pedestal": "Pedestal con Ribete Dorado",
+    "game:Builder Virrno's mark": "Marco del Constructor Virrno",
+    "game:Faded banner": "Banderín Descolorido",
 
 
 
@@ -424,19 +750,24 @@
 
 
 
+    "// Inexistentes en la v0.5.4 ": "",
+    "game:This is a relief to encounter a friendly countenance amidst these lands.": "Es un alivio encontrar un semblante amistoso en medio de estas tierras.",
+    "game:Are there others out there like me?": "¿Hay otros como yo?",
+    "game:I find myself lacking in complete certainty as well.": "Yo también me encuentro falto de certeza total.",
+    "game:Sorry ... but somethings are best left unspoken.": "Lo siento... pero algunas cosas es mejor no decirlas.",
+    "game:Ah, a new customer! How can I help you?": "Ah, ¡un nuevo cliente! ¿En qué puedo ayudarle?",
 
+    "// Inexistentes en la v0.5.1 ": "",
+    "ruins_title": "Ruinas",
+    "megastructure_nordichouse": "Megaestructura «Casa Nórdica»",
 
-
-
-
-    "_obsoleto-0.4.8": "Las siguientes cadenas ya no existen en el Archivo de Idioma de la v0.4.10",
+    "// Inexistentes en la v0.4.10 ": "",
     "megastructure_mansion": "Megaestructura «Mansión»",
 
-    "_obsoleto-0.4.7": "Las siguientes cadenas ya no existen en el Archivo de Idioma de la v0.4.7",
-    "translocatorruins_min_distance": "Distancia Mínima de las Ruinas de Translocalizadores",
+    "// Inexistentes en la v0.4.7 ": "",
+    "translocatorruins_min_distance": "Distancia Mínima de las Ruinas de Transportadores",
 
-
-    "_obsoleto-0.4.6": "Las siguientes cadenas ya no existen en el Archivo de Idioma de la v0.4.6",
+    "// Inexistentes en la v0.4.6 ": "",
     "vsvillage_spawn_chance_comment": "Afecta la probabilidad de generación de aldeas llamadas Aldeas VS, que son estructuras que aparecen en grupos sobre la superficie.",
     "forestvillage_spawn_chance_comment": "Afecta la probabilidad de generación de aldeas llamadas Aldeas Forestales, que son estructuras que aparecen en grupos sobre la superficie.",
     "desertvillage_spawn_chance_comment": "Afecta la probabilidad de generación de aldeas llamadas Aldeas del Desierto, que son estructuras que aparecen en grupos sobre la superficie.",
@@ -449,10 +780,9 @@
     "desertruins_spawn_chance_comment": "Afecta la probabilidad de generación de las estructuras llamadas Ruinas del Desierto sobre la superficie.",
     "surfaceunderground_spawn_chance_comment": "Afecta a la probabilidad de generación de las ruinas que aparecen sobre el suelo, pero la mayor parte de su estructura es subterránea, por lo que son bastante difíciles de detectar.",
     "surfaceunderground_min_distance_comment": "Afecta a la distancia mínima de las ruinas que aparecen sobre el suelo, pero la mayor parte de su estructura es subterránea, por lo que son bastante difíciles de detectar.",
-    "translocatorruins_min_distance_comment": "Define la distancia entre las llamadas ruinas de translocalizadores y se mide en bloques.",
+    "translocatorruins_min_distance_comment": "Define la distancia entre las llamadas ruinas de Transportadores (en bloques).",
 
-
-    "_obsoleto-0.4.5": "Las siguientes cadenas ya no existen en el Archivo de Idioma de la v0.4.5",
+    "// Inexistentes en la v0.4.5 ": "",
     "underground_spawn_chance": "Generación de Ruinas Subterráneas",
     "underground_spawn_chance_comment": "Afecta la probabilidad de generación de ruinas subterráneas.",
     "graves_spawn_chance": "Generación de Tumbas",
@@ -550,8 +880,8 @@
     "10giantcathedral_max_temp": "Temperatura Máxima de la Gran Catedral",
     "10giantcathedral_max_temp_comment": "Temperatura máxima en °C donde se permite la generación de la estructura.",
 
-    "translocatorruins_spawn_chance": "Generación de Translocalizadores",
-    "translocatorruins_spawn_chance_comment": "Afecta la probabilidad de generación de ruinas de Translocalizadores en la superficie.",
+    "translocatorruins_spawn_chance": "Generación de Transportadores",
+    "translocatorruins_spawn_chance_comment": "Afecta la probabilidad de generación de ruinas de Transportadores en la superficie.",
 
-    "_fin": "Línea final para evitar que se dañe el Archivo de Idioma."
+    "// FIN del Archivo ": ""
 }
