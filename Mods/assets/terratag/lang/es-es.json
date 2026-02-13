@@ -1,0 +1,47 @@
+{
+    "// Salty´s TerraTag v0.4.0 || Enlace de VS ModDB: https://mods.vintagestory.at/terratag ": "",
+    "// Creado por C4BR3R4 || Última Modificación: 13/FEB/2026 || Registro de Cambios: https://c4br3r4.es/index.php?topic=1441.0 ": "",
+
+    "game:Edit": "Modificar",
+    "game:Redraw": "Redibujar",
+
+    "// Creadas en la v0.2.0 ": "",
+    "game:Hide Area": "Ocultar",
+    "game:Swap Outline": "Estilo de Línea",
+
+    "// Creadas en la v0.3.0 ": "",
+    "game:Name visibility": "Tipo de Nombre",
+    "game:Outline thickness": "\tGrosor de Línea\t",
+
+    "// Creadas en la v0.4.0 ": "",
+    "game:Sounds": "Sonidos",
+    "game:Entrance": "Entrada",
+    "game:Ambience": "Ambientación",
+    "game:None": "► En Silencio",
+
+
+
+    "// Inexistentes en la v0.2.0 ": "",
+    "game:Dotted/Solid": "\tDiseño\t",
+
+
+
+
+
+    "// No funcionan ": "",
+    "game:Selected": "Seleccionado",
+    "game:Tag Region Local": "Marcar Región Privada",
+    "game:Tag Region Global": "Marcar Región Pública",
+    "[TerraTag] Lasso: ready - Right click a labeled area to edit": "",
+    "ready": "Activado",
+    "[TerraTag] Lasso: ": "Modo Marcación",
+    "TerraTag - Edit Name": "Modificar Nombre",
+    "TerraTag - Name Area": "Nombre de la Región",
+    "ready to name": "listo para nombrar",
+    "[TerraTag] Redraw: ": "",
+    " pts (dragging)": "",
+    "TerraTag - Name path": "",
+    "TerraTag - Name area": "",
+
+"// Fin de Líneas ": ""
+}
